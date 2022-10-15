@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202201099277618800120010060000070286061686917</numeroAutorizacion>
+<fechaAutorizacion>2022-04-22T18:48:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>VAMORET S.A.</razonSocial>
+    <nombreComercial>VAMORET S.A.</nombreComercial>
+    <ruc>0992776188001</ruc>
+    <claveAcceso>2204202201099277618800120010060000070286061686917</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>006</ptoEmi>
+    <secuencial>000007028</secuencial>
+    <dirMatriz>AV. DEL BOMBERO / VIA A LA COSTA KM 7.5 / CC RIOCENTRO CEIBOS LOCAL 133</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>22/04/2022</fechaEmision>
+    <dirEstablecimiento>GUAYAS / GUAYAQUIL / AV. DEL BOMBERO / VIA A LA COSTA KM 7.5 / CC RIOCENTRO CEIBOS LOCAL 133</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ELIZABETH LINDAO</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>CAPITAN NAJERA Y AV QUITO</direccionComprador>
+    <totalSinImpuestos>137.47</totalSinImpuestos>
+    <totalDescuento>8.92</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>137.47</baseImponible>
+        <valor>16.5</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>153.97</importeTotal>
+    <moneda>DÓLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>153.97</total>
+        <plazo>0</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>MEM172275-NG</codigoPrincipal>
+      <codigoAuxiliar>7861208831185</codigoAuxiliar>
+      <descripcion>TERMO METALICO MEDIANO MOZIONI</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>17.848</precioUnitario>
+      <descuento>4.46</descuento>
+      <precioTotalSinImpuesto>13.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13.39</baseImponible>
+          <valor>1.61</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MHF172078-AZ</codigoPrincipal>
+      <codigoAuxiliar>7861208829960</codigoAuxiliar>
+      <descripcion>LONCHERA FULL MOZIONI AZUL</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>21.42</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>21.42</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>21.42</baseImponible>
+          <valor>2.57</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MSK174365-RS</codigoPrincipal>
+      <codigoAuxiliar>7861208858304</codigoAuxiliar>
+      <descripcion>CANGURO GRANDE MOZIONI ROSADO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>26.777</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>26.78</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>26.78</baseImponible>
+          <valor>3.21</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MEM172274-RS</codigoPrincipal>
+      <codigoAuxiliar>7861208831161</codigoAuxiliar>
+      <descripcion>TERMO METALICO MEDIANO MOZIONI</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>17.848</precioUnitario>
+      <descuento>4.46</descuento>
+      <precioTotalSinImpuesto>13.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>13.39</baseImponible>
+          <valor>1.61</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>MME171732-NG</codigoPrincipal>
+      <codigoAuxiliar>7861208829533</codigoAuxiliar>
+      <descripcion>MOCHILA ESCOLAR MOZIONI NEGRO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>62.491</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>62.49</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>62.49</baseImponible>
+          <valor>7.5</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Direccion">CAPITAN NAJERA Y AV QUITO</campoAdicional>
+    <campoAdicional nombre="Telefono">0963129624</campoAdicional>
+    <campoAdicional nombre="Email">imporfer.ventas@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature152735">
+<ds:SignedInfo Id="Signature-SignedInfo484728">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID329997" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature152735-SignedProperties197631">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jVR51Axj1y0p214zN5hN9XaBnnQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1484447">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>66al3w4dJkeuM9w0jiGavppi788=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-341347" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>UwP3vsB3r2HHxIqzxEe3I6opu7A=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1045280">
+KQadopiK+7MQSrGGFLlbcI+fvmWXHg9qDFR2t6IdY31dxHxKE2zVvTPsoMKHgGI20t183SlAqaEj
+TddmiWeKAXDSEHSb30E9w+m0ByoO2Cfg+9U3ggwcPSksHudVQZGItZmzRNeeh9Y79YrHEqzk6lHV
+6lc/L1x9IDZiYn3q9snMQnLbmNExTkNyUB5Mo3+iC0/9yEq+dP6i554No8iz6emehd5OHjEDlSVj
+JAwHRqcnXxj/CFdxpNckh1g96msHlV5XOuHCfoAQRQg0I3U5DoJdN8mGBNNsZeO9z40ENB9CS9V9
+PVstX6eAmkJugIgT3Jv7UofmZLbFX97uZxqx2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1484447">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJtjCCCJ6gAwIBAgIEVM+ozDANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xNzEwMTkyMTIwMjBaFw0yMjEwMTkyMTUwMjBaMIGYMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOjATBgNVBAUTDDE4MTAxNzExMTE0NzAjBgNVBAMT
+HEpPU0UgTUlHVUVMIFBBTEFDSU9TIE1PTkNBWU8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDSdx113Guhq1gcpQ6j9NUM3tmZWl3zdYax6u4aDFfVbBr3tvRE85yIf1BLMTBaHZkU397P
+zhVfWgKppGD6NPvLVqpGDgqA0S7C16nbw1WhfNB0Xavy/yRh9OQsHZCTyDyT4kkrFNFVKnC1kN4Q
+DkEh4KW4e/NU3iOaiCmFjFDOHoS8m7TxOB2Hwkg0h08tZcn7plqoCKYrvI+F4Vfxs1zXq1dzhh39
+tVnHsbmmKLh+1YVL16OL/KQWp5Oh2MirysORptg7EJKFRGj3O9cNpT2FH9InrLs9Cm0uqg3rO6am
+LsQncEFE1JtuE1AcuG6Yv068R9p3hqCXqcIRxoQwO3RJAgMBAAGjggYJMIIGBTALBgNVHQ8EBAMC
+BeAwWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHMBgNVHSAEgcQwgcEwQAYKKwYB
+BAGCpnICCTAyMDAGCCsGAQUFBwICMCQaIkNlcnRpZmljYWRvIGRlIFJlcHJlc2VudGFudGUgTGVn
+YWwwfQYKKwYBBAGCpnICAzBvMG0GCCsGAQUFBwIBFmFodHRwczovL3d3dy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2xleWVzX25vcm1hdGl2YXMvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2Vu
+dGFudGUgTGVnYWwucGRmMBwGCisGAQQBgqZyAwoEDhMMVkFNT1JFVCBTLkEuMB0GCisGAQQBgqZy
+AwsEDxMNMDk5Mjc3NjE4ODAwMTAaBgorBgEEAYKmcgMBBAwTCjA5MTQ3OTY2NTEwGwYKKwYBBAGC
+pnIDAgQNEwtKT1NFIE1JR1VFTDAYBgorBgEEAYKmcgMDBAoTCFBBTEFDSU9TMBcGCisGAQQBgqZy
+AwQECRMHTU9OQ0FZTzAfBgorBgEEAYKmcgMFBBETD0dFUkVOVEUgR0VORVJBTDA9BgorBgEEAYKm
+cgMHBC8TLSBWSUEgQSBMQSBDT1NUQSBLTSA2IEFWLiBERUwgQk9NQkVSTyBTL04gWSBOQTAbBgor
+BgEEAYKmcgMIBA0TCzU5MzQzODAzODQwMBkGCisGAQQBgqZyAwkECxMJR1VBWUFRVUlMMBcGCisG
+AQQBgqZyAwwECRMHRUNVQURPUjAfBgorBgEEAYKmcgMgBBETDzAwMTAwMjAwMDAxMjc0MjATBgor
+BgEEAYKmcgMhBAUTA1BGWDAqBgNVHREEIzAhgR9taWd1ZWwucGFsYWNpb3NAZ3J1cG9wYWxtb24u
+Y29tMIICewYDVR0fBIICcjCCAm4wggJqoIICZqCCAmKGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CGgdVsZGFwOi8vZGlyZWN0LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvY249Q1JMMTMyLGNuPUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNB
+Q0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FD
+SU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEu
+bmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFf
+ZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5f
+Y19lY19jcmxmaWxlLmNybKSBpzCBpDELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERB
+VEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEP
+MA0GA1UEAxMGQ1JMMTMyMCsGA1UdEAQkMCKADzIwMTcxMDE5MjEyMDIwWoEPMjAyMjEwMTkyMTUw
+MjBaMB8GA1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0GA1UdDgQWBBS/oVK+2DOVIIH9
+o3+cQivxwRSzSzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgOoMA0GCSqGSIb3
+DQEBCwUAA4IBAQCF99H5dxDJRTOmDNnnsTitnrmuarO40x52OwUdPGAjDcYxcn7xha5s/t5CVLm/
+5PxEYrfTztaOA/nUYEWsQ7o4ZGZ/GB3wCWrs4AtMALwSyszhHDSTXm/WZiY4Mmp+s89A2GzUWhK7
+mpDQFDfP6uB+itE/JhtdP5S1lBn5qMjENZu+O2vapHAINEskTJKKe8BD2+zZ2VPCMBLQ4gLM4Bcp
+H1Sw5NBvTHKlAMVORbC1EiSJrbtU1wnvzWCq3znATXbzza96yHSQGtKXxINbbdloUuUPuDXqDibu
+ruaR44f5kjGL4CznEb3BrVerMFnd2Fc1OjG4p1eTgnPZkykXZIRs
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+0ncdddxroatYHKUOo/TVDN7ZmVpd83WGseruGgxX1Wwa97b0RPOciH9QSzEwWh2ZFN/ez84VX1oC
+qaRg+jT7y1aqRg4KgNEuwtep28NVoXzQdF2r8v8kYfTkLB2Qk8g8k+JJKxTRVSpwtZDeEA5BIeCl
+uHvzVN4jmogphYxQzh6EvJu08Tgdh8JINIdPLWXJ+6ZaqAimK7yPheFX8bNc16tXc4Yd/bVZx7G5
+pii4ftWFS9eji/ykFqeTodjIq8rDkabYOxCShURo9zvXDaU9hR/SJ6y7PQptLqoN6zumpi7EJ3BB
+RNSbbhNQHLhumL9OvEfad4agl6nCEcaEMDt0SQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature152735-Object173750"><etsi:QualifyingProperties Target="#Signature152735"><etsi:SignedProperties Id="Signature152735-SignedProperties197631"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-22T18:50:34-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>i4UuoIWjBCv/i9kcrDvShXSbbm0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1422895308</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-341347"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3004202201099000816700120040050008038489167851614</numeroAutorizacion>
+<fechaAutorizacion>2022-04-30T17:46:24-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PRODUCTOS METALURGICOS S.A.</razonSocial><nombreComercial>PROMESA</nombreComercial><ruc>0990008167001</ruc><claveAcceso>3004202201099000816700120040050008038489167851614</claveAcceso><codDoc>01</codDoc><estab>004</estab><ptoEmi>005</ptoEmi><secuencial>000803848</secuencial><dirMatriz>CDLA. MAPASINGUE CALLE SEPTIMA, KM. 5.5 VIA A DAULE  </dirMatriz></infoTributaria><infoFactura><fechaEmision>30/04/2022</fechaEmision><dirEstablecimiento>AV. TERMINAL PASCUALES S/N JUNTO A CDLA. METROPOLIS</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador><identificacionComprador>0932042500001</identificacionComprador><totalSinImpuestos>1603.74</totalSinImpuestos><totalDescuento>999.74</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>1603.74</baseImponible><tarifa>12.00</tarifa><valor>192.45</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>1796.19</importeTotal><moneda>Dolar</moneda><pagos><pago><formaPago>20</formaPago><total>1796.19</total><plazo>60</plazo><unidadTiempo>días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>25007</codigoPrincipal><codigoAuxiliar>10</codigoAuxiliar><descripcion>CABLE SPT AWG ELECTROCABLES # 2 x 18</descripcion><cantidad>11.00</cantidad><precioUnitario>49.530000</precioUnitario><descuento>209.22</descuento><precioTotalSinImpuesto>335.61</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PorcentajeDescuento" valor="30.00-12.00"/><detAdicional nombre="unidadMedida" valor="ROL"/><detAdicional nombre="marcaMaterial" valor="ELECTROCABLES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>335.61</baseImponible><valor>40.27</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>25006</codigoPrincipal><codigoAuxiliar>20</codigoAuxiliar><descripcion>CABLE SPT AWG ELECTROCABLES # 2 x 16</descripcion><cantidad>11.00</cantidad><precioUnitario>78.490000</precioUnitario><descuento>331.54</descuento><precioTotalSinImpuesto>531.85</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PorcentajeDescuento" valor="30.00-12.00"/><detAdicional nombre="unidadMedida" valor="ROL"/><detAdicional nombre="marcaMaterial" valor="ELECTROCABLES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>531.85</baseImponible><valor>63.82</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>25005</codigoPrincipal><codigoAuxiliar>30</codigoAuxiliar><descripcion>CABLE SPT AWG ELECTROCABLES # 2 x 14</descripcion><cantidad>11.00</cantidad><precioUnitario>108.660000</precioUnitario><descuento>458.98</descuento><precioTotalSinImpuesto>736.28</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="PorcentajeDescuento" valor="30.00-12.00"/><detAdicional nombre="unidadMedida" valor="ROL"/><detAdicional nombre="marcaMaterial" valor="ELECTROCABLES"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>736.28</baseImponible><valor>88.36</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="codigoClienteSAP">0001016131 IMPORFER</campoAdicional><campoAdicional nombre="correoElectronico">lindaoirania@gmail.com;</campoAdicional><campoAdicional nombre="numeroPedidoYentregas">0002350235 PRO0081463969</campoAdicional><campoAdicional nombre="documentoSAP">0091678516</campoAdicional><campoAdicional nombre="fechaVencimiento">30/05/2022-29/06/2022----</campoAdicional><campoAdicional nombre="valorVencimiento">898.10-898.09----</campoAdicional><campoAdicional nombre="ciudadCliente">GUAYAQUIL</campoAdicional><campoAdicional nombre="direccionEntrega">CAPITÁN NAJERA N1514 B</campoAdicional><campoAdicional nombre="claseEntrega">Estándar</campoAdicional><campoAdicional nombre="codigoVendedor">0000081236 PLUAS MONTENEGRO LUIS OMAR</campoAdicional><campoAdicional nombre="codigoSupervisor">0000081359 BAYAS RODRIGUEZ TANIA IVONNE</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature649372">
+<ds:SignedInfo Id="Signature-SignedInfo462770">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID57129" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature649372-SignedProperties352240">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+zhUCt5X/Z97V6WvYynaM3PTbGU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1609992">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>GAM8cRT06xv5PtyqD5E7KYZ6BsE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-681811" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xpm2v7FRqDhefYXdCDkfAsG43c4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue295200">
+rI+P91KNT/XVnDEaTIM5Py4DTmRpdCqI3+nfTP/tX82cwlaopadIycZrhI82xN+IlAAEtlVakpVS
+kkyVSZ1Mw7c/NmVTp1+XNkIXPqgYzT16BF1jxNhYs2Pql9T2dXi1qxT3GJtREQ6TxMiJNkPAIvWU
+aJvO5eKwScxnO1a9ieQ/IWqCUUs0qjRsHXPwP0WEpK5BOhb7o6AyqVo+glUVt/kg9rQ5PEWscRxZ
+Lhii3ryMYlL5oUPvDEABhSDPCzYEAklwHwYsIyRxIVw0JCg2L2hSarzzwfYzW3xFWtwZujsoL1/5
+5PIYcji/hIGfTbn3Za7f/jP5dyEL7inb8BcTrA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1609992">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMBTCCCe2gAwIBAgIEKz7mljANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA0MDExNTAxNTBaFw0yMzA0MDExNTAxNTBaMIGhMSow
+KAYDVQQDDCFLRVJMWSBNQVJHQVJJVEEgQ0FTVFJPIE1PTlNFUlJBVEUxFTATBgNVBAUTDDAxMDQy
+MjEwMTEzMzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQDxfuACnjsJA0hRfBWUuinKfZFhJYPqrB8HfXg+DYKKYO9mGF9q
+qcuMvhEPUVhv0Kg4qp1bhY2yqEUZfdtLjoorcjpbaSXZ1HFrvGet2TD1uxQhdNdF4plecGP8hyKR
+3B3x6j3/xB1fjZ4Ut0J8L8FQ0dp7DANmNTyS/aEyoWQblTNVX2Pa0EucScERp2EpcdjzVKltYNEg
+kdLLgQFv5fec87e8j+/AspmD8JwXmxC6OS+XM4yQtfh0sMn55hWJM3IfU2uUU0EqIi8iV0XnXPTO
+ZCG/yKrWq3QRFH31j9RVDC3OL8ksJwCrCyIWnZt0xBLAqXdeSM940AA0MzCkmBBfAgMBAAGjggdJ
+MIIHRTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsG
+AQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVj
+L2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRh
+cDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlv
+bkxpc3Q/YmFzZTAhBgNVHREEGjAYgRZrY2FzdHJvQHByb21lc2EuY29tLmVjMIIBEgYDVR0gBIIB
+CTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBk
+AG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGC
+pnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dw
+LWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2Fz
+IGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFP47P8ckor62Nq/ON5HF
+BCNAzuuhMCsGA1UdEAQkMCKADzIwMjIwNDAxMTUwMTUwWoEPMjAyMzA0MDExNTAxNTBaMAsGA1Ud
+DwQEAwIF4DAgBgorBgEEAYKmcgMFBBIMEENPTlRBRE9SIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQM
+DAowOTIxNzM5OTkxMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwB
+LjAbBgorBgEEAYKmcgMHBA0MC1NFUFRJTUEgUyBOMB8GCisGAQQBgqZyAwIEEQwPS0VSTFkgTUFS
+R0FSSVRBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwMzM1NTk2MBMGCisGAQQBgqZyAyEEBQwD
+UEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkNBU1RSTzAzBgor
+BgEEAYKmcgMKBCUMI1BST0RVQ1RPUyBNRVRBTFVSR0lDT1MgUy5BLiBQUk9NRVNBMB0GCisGAQQB
+gqZyAwsEDwwNMDk5MDAwODE2NzAwMTASBgorBgEEAYKmcgMdBAQMAk5vMBoGCisGAQQBgqZyAwQE
+DAwKTU9OU0VSUkFURTAaBgorBgEEAYKmcgMIBAwMCjA5OTcyMjMxODgwDQYJKoZIhvcNAQELBQAD
+ggIBAHvx9rSe2xerQQmqCJuzZbhCVXnIGDpvw6KgR9ZmE3Y+TBVOM9/+qicqNZBiJEzl1bZrnbDG
+yyFsXxHxarGLi82LiPUw6aSzEXj0+5gYPWKApTqgsUDEoeoAD/BA0rZsekMr91mZ7RP3yd/69zmq
+J/hsmJvOikPnFRDtDny+q9fIlNQ+YEO+hsj2nL0h0eQF3v7osdBddJyfWZ+GLatM7gCmdwJbCdxN
+K+p0lWgFb+Tj5RxGLTDRZsxfENoxb9DdPvS2DF2ra3FADj9z/Rp+gzR6To7c1dT6Hlf7LZpGSP/M
+s507Gq/6rgGEMKcjfd7vJnjcGiajRjqXuIWvLjiA1as3PHxZDHwc2B9wujn1N/T+KABbPuc6NjqD
+OlTDi589VIbQyJn3v96hnZtSZo0STbCCcpMMIh0wSktNNTSode1jpvFsmcFSV4MrBxnMiYL9BJAF
+zgQe05r63V84mQvDpF+qrWs4JcNE7KYK20DNmcZ7FLvR3b03SpyJcCll5hw9wJGtlY0lLDxE+/aA
+W+1V24vx7Sv8PPp9t1jL+5eiqMhJooVEyJnfXI4sMU2+BT+lx00dfS68WbFaBRXH/bahDDN+UG5D
+epQyQXZTYVCH4vaLlOsy7yar+FlzwZXdS7k5qDOehxt6N4rAkFg4di5lQxo76V2MC5KKmLQUwHll
+lN8q
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+8X7gAp47CQNIUXwVlLopyn2RYSWD6qwfB314Pg2CimDvZhhfaqnLjL4RD1FYb9CoOKqdW4WNsqhF
+GX3bS46KK3I6W2kl2dRxa7xnrdkw9bsUIXTXReKZXnBj/Icikdwd8eo9/8QdX42eFLdCfC/BUNHa
+ewwDZjU8kv2hMqFkG5UzVV9j2tBLnEnBEadhKXHY81SpbWDRIJHSy4EBb+X3nPO3vI/vwLKZg/Cc
+F5sQujkvlzOMkLX4dLDJ+eYViTNyH1NrlFNBKiIvIldF51z0zmQhv8iq1qt0ERR99Y/UVQwtzi/J
+LCcAqwsiFp2bdMQSwKl3XkjPeNAANDMwpJgQXw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature649372-Object737264"><etsi:QualifyingProperties Target="#Signature649372"><etsi:SignedProperties Id="Signature649372-SignedProperties352240"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-30T17:46:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>uuRH9scbDNZ3917859omLYpssHE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>725542550</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-681811"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0804202201099225623000120103060002452251234567818</numeroAutorizacion>
+<fechaAutorizacion>2022-04-08T09:02:58-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>FERREMUNDO S A</razonSocial>
+    <nombreComercial>FERREMUNDO S.A.</nombreComercial>
+    <ruc>0992256230001</ruc>
+    <claveAcceso>0804202201099225623000120103060002452251234567818</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>010</estab>
+    <ptoEmi>306</ptoEmi>
+    <secuencial>000245225</secuencial>
+    <dirMatriz>VIA A DAULE KM 16,5 MANZANA C-3 SOLAR 28ECU</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>08/04/2022</fechaEmision>
+    <dirEstablecimiento>KM. 16,5 VIA A DAULE</dirEstablecimiento>
+    <contribuyenteEspecial>0393</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>010-306-000255190</guiaRemision>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>AV QUITO 2135 Y HUANCAVILCA</direccionComprador>
+    <totalSinImpuestos>80.67</totalSinImpuestos>
+    <totalDescuento>43.13</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>80.67</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>9.68</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>90.35</importeTotal>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>90.35</total>
+        <plazo>60</plazo>
+        <unidadTiempo>Días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>00594911</codigoPrincipal>
+      <codigoAuxiliar>00594911</codigoAuxiliar>
+      <descripcion>SENSOR MOV. P/BOQUILLA E27 360° EVLITE</descripcion>
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>6.190000</precioUnitario>
+      <descuento>43.13</descuento>
+      <precioTotalSinImpuesto>80.67</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 2,00 0,00 0,00 3,00 2,07"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>80.67</baseImponible>
+          <valor>9.68</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Establecimiento">FERREMUNDO</campoAdicional>
+    <campoAdicional nombre="Email">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="Dirección del cliente">AV QUITO 2135 Y HUANCAVILCA</campoAdicional>
+    <campoAdicional nombre="Teléfono del cliente">0958923960-042999999</campoAdicional>
+    <campoAdicional nombre="Proforma">OV-000962689</campoAdicional>
+    <campoAdicional nombre="Forma de Pago">V 30 60</campoAdicional>
+    <campoAdicional nombre="Factura interna">FC 010-306-000245225</campoAdicional>
+    <campoAdicional nombre="Dividendo-1">08/05/2022-$45.18</campoAdicional>
+    <campoAdicional nombre="Dividendo-2">07/06/2022-$45.17</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature521218">
+<ds:SignedInfo Id="Signature-SignedInfo344893">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID987827" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature521218-SignedProperties945856">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DPzDCkI0EXq3ydIHlycu2evulfA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1571975">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>hOHxUrZFb+OLD4fU2pM7A3kTe3M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-889396" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>LOLrOWDnHRoPyidIo+R48xQQqc4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue197097">
+RedDy0RR0WggMVqKmWyfZKBSu+vMozhkZoR+l+jLL8coaAABHAOoZrsAaJP9dvLzFfyvxwjSaocN
+HPUcKYuvKcU4gj684qr6mufPMcMsOoxDoFEi9LRtDBRUnu2sg9V1/kLElsexU0dO+rmdtlev43Zn
++ppU5NeUmrdVZoKRWQwV819tBhggSeyN7/sjDwHfTqxE84Cy7krjfvYevxSb2fFiOZauEu9RZQar
+Tft7JHp7Sc0FgPp+fuHDAFllcJ+1XG7MIeQ9FVjbfwq/x/GTNtrHxepVT7sMGJrWN/AI79onCZ/W
+s9yTeiwZlm8qyKH/DHBp+zDlOQgXdskyaZd3nw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1571975">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJvTCCCKWgAwIBAgIEXcztqTANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0yMDA0MjIwMDQ1MjRaFw0yMzA0MjIwMTE1MjRaMIGZMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOzATBgNVBAUTDDIxMDQyMDIwMTEzOTAkBgNVBAMT
+HUZSRUREWSBMRU9QT0xETyBNRU5ERVogR0FSQ0lBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAssIGNaJ+p65jLIXvb2Ms6Z/LQg0ssg7JPymddd8VhGCfKxW7dY0PXX9QYxZyiSaPWeuH
+gUVUv+tYLPlv3Fvhecu6MQ8qIa7JB/aiJF/CrHdFEO7QM5WBDu8dHkz5Ko0qWb1OntlUSsk7FK+W
+qzkfBwqqS3Fe0U7TXdcp53PVuZLDhGHaKMkWvF2gszNQw8p2Wr7ncb1Wpv+SYb6znpd5zVhfKeuF
+amXYiDIIh67rbMPHW+5w2O1JHRH8OFSjJ/BOirkB1U/3moybUaIbFutApAM8L+UKnGhY7p2AswCG
+6mWwZAyqR/4w7JyxiBUlQXog2Q4AkYZ4mrAzwQvHZypB4wIDAQABo4IGDzCCBgswCwYDVR0PBAQD
+AgXgMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzAYDVR0gBIHEMIHBMEAGCisG
+AQQBgqZyAgkwMjAwBggrBgEFBQcCAjAkGiJDZXJ0aWZpY2FkbyBkZSBSZXByZXNlbnRhbnRlIExl
+Z2FsMH0GCisGAQQBgqZyAgMwbzBtBggrBgEFBQcCARZhaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNl
+bnRhbnRlIExlZ2FsLnBkZjAfBgorBgEEAYKmcgMKBBETD0ZFUlJFTVVORE8gUy5BLjAdBgorBgEE
+AYKmcgMLBA8TDTA5OTIyNTYyMzAwMDEwGgYKKwYBBAGCpnIDAQQMEwowOTE0NTM4Mjc3MB8GCisG
+AQQBgqZyAwIEERMPRlJFRERZIExFT1BPTERPMBYGCisGAQQBgqZyAwMECBMGTUVOREVaMBYGCisG
+AQQBgqZyAwQECBMGR0FSQ0lBMB8GCisGAQQBgqZyAwUEERMPR0VSRU5URSBHRU5FUkFMMDQGCisG
+AQQBgqZyAwcEJhMkUklPIERBVUxFIFNPTEFSIDI4IFkgQ0FMTEUgUEFTQ1VBTEVTMBwGCisGAQQB
+gqZyAwgEDhMMNTkzOTk2NTkxOTkzMBkGCisGAQQBgqZyAwkECxMJR1VBWUFRVUlMMBcGCisGAQQB
+gqZyAwwECRMHRUNVQURPUjAfBgorBgEEAYKmcgMgBBETDzAwMTAwMjAwMDAzNjYzNDAdBgorBgEE
+AYKmcgMhBA8TDVNFQ0RBVEs0MzY5OEgwKgYDVR0RBCMwIYEfZnJlZGR5Lm1lbmRlekBmZXJyZW11
+bmRvLmNvbS5lYzCCAnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRwOi8vb2NzcGd3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHVbGRhcDovL2Rp
+cmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDY5MCxjbj1BVVRPUklEQUQlMjBERSUyMENF
+UlRJRklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURBRCUyMERFJTIwQ0VS
+VElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERBVEElMjBTLkEuLGM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Quc2VjdXJp
+dHlkYXRhLm5ldC5lYy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9zZWN1cml0
+eV9kYXRhX2VudGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJpdHlfZGF0
+YV9zLmEuX2NfZWNfY3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKExJTRUNV
+UklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCIFNFQ1VSSVRZ
+IERBVEExDzANBgNVBAMTBkNSTDY5MDArBgNVHRAEJDAigA8yMDIwMDQyMjAwNDUyNFqBDzIwMjMw
+NDIyMDExNTI0WjAfBgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAdBgNVHQ4EFgQUjgU7
+9AG/nj4KgRsoSMpt7KLLESgwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIDqDAN
+BgkqhkiG9w0BAQsFAAOCAQEAgMemDvxS2IfONiGYKngI3hL3bwUP1JBpxNHLVJc8oxH46nKYX3uG
+zS/t6zVeo1iKkgqsnqQQJQaZ6OTCjc6AmrDgiHltisGtlJoQCsJaYF+WzGR8M+/YkO6BYIDJVb16
+vkB1bKWm0cMTiK/IMaxNq5+VKtQafEZ7zvxEzntrMko+kIXRaVWs1TdiikYwytOD3SskFL/njIpf
+iKy0790iqpH7VLXthbwK/29OaaUcjNKn9hIeRSMMeGkHNrIvLoLZbbTuqR0up+shmikjHLOLheqq
+b2WqAIPjNLMdmxNNJUpPkG1CPbULNn8gEbIlaioaTKK4+eJLFxE2kitR6/dg4w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ssIGNaJ+p65jLIXvb2Ms6Z/LQg0ssg7JPymddd8VhGCfKxW7dY0PXX9QYxZyiSaPWeuHgUVUv+tY
+LPlv3Fvhecu6MQ8qIa7JB/aiJF/CrHdFEO7QM5WBDu8dHkz5Ko0qWb1OntlUSsk7FK+WqzkfBwqq
+S3Fe0U7TXdcp53PVuZLDhGHaKMkWvF2gszNQw8p2Wr7ncb1Wpv+SYb6znpd5zVhfKeuFamXYiDII
+h67rbMPHW+5w2O1JHRH8OFSjJ/BOirkB1U/3moybUaIbFutApAM8L+UKnGhY7p2AswCG6mWwZAyq
+R/4w7JyxiBUlQXog2Q4AkYZ4mrAzwQvHZypB4w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature521218-Object52804"><etsi:QualifyingProperties Target="#Signature521218"><etsi:SignedProperties Id="Signature521218-SignedProperties945856"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-08T09:02:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>PIEXlHGi6uWBpyDdG61Lp/PJU2s=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573711273</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-889396"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202201099001121400120330780000898720000000215</numeroAutorizacion>
+<fechaAutorizacion>2022-04-20T13:42:12-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>Almacenes De Prati S.A.</razonSocial><nombreComercial>Almacenes De Prati S.A.</nombreComercial><ruc>0990011214001</ruc><claveAcceso>2004202201099001121400120330780000898720000000215</claveAcceso><codDoc>01</codDoc><estab>033</estab><ptoEmi>078</ptoEmi><secuencial>000089872</secuencial><dirMatriz>LUQUE 502 Y BOYACA</dirMatriz></infoTributaria><infoFactura><fechaEmision>20/04/2022</fechaEmision><dirEstablecimiento>KENNEDY AV. LA PRENSA SOLAR 1 INTERSECCIÓN AV PRIMERA-CALLE DÉCIMA, C.C. POLICENTRO LOCAL 88</dirEstablecimiento><contribuyenteEspecial>6925</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>LINDAO VILLAMAR IRANIA EL</razonSocialComprador><identificacionComprador>0932042500</identificacionComprador><totalSinImpuestos>162.86</totalSinImpuestos><totalDescuento>48.61</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>162.86</baseImponible><valor>19.54</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>182.40</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>182.40</total><plazo>6</plazo><unidadTiempo>meses</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>15890443</codigoPrincipal><descripcion>d)BERMUDAS UNICOLORES</descripcion><cantidad>1</cantidad><precioUnitario>17.85</precioUnitario><descuento>9.82</descuento><precioTotalSinImpuesto>8.03</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>8.03</baseImponible><valor>0.96</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16150502</codigoPrincipal><descripcion>d)VESTIDOS PRINT</descripcion><cantidad>1</cantidad><precioUnitario>19.63</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>19.63</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>19.63</baseImponible><valor>2.36</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16230035</codigoPrincipal><descripcion>d)LEGGINGS LARGOS</descripcion><cantidad>1</cantidad><precioUnitario>8.92</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.92</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>8.92</baseImponible><valor>1.07</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16230228</codigoPrincipal><descripcion>d)LEGGINGS LARGOS</descripcion><cantidad>1</cantidad><precioUnitario>8.92</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.92</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>8.92</baseImponible><valor>1.07</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16256197</codigoPrincipal><descripcion>d)MONOS Y MAMELUCOS MO</descripcion><cantidad>1</cantidad><precioUnitario>32.13</precioUnitario><descuento>17.68</descuento><precioTotalSinImpuesto>14.45</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>14.45</baseImponible><valor>1.73</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16256227</codigoPrincipal><descripcion>d)MONOS Y MAMELUCOS MO</descripcion><cantidad>1</cantidad><precioUnitario>20.53</precioUnitario><descuento>11.29</descuento><precioTotalSinImpuesto>9.24</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>9.24</baseImponible><valor>1.11</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16348333</codigoPrincipal><descripcion>d)CARDIGANS MODA</descripcion><cantidad>1</cantidad><precioUnitario>23.20</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>23.20</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>23.20</baseImponible><valor>2.78</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16437368</codigoPrincipal><descripcion>d)LEGGINGS CORTOS</descripcion><cantidad>1</cantidad><precioUnitario>7.13</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>7.13</baseImponible><valor>0.86</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16477291</codigoPrincipal><descripcion>d)LEGGINGS CORTOS</descripcion><cantidad>1</cantidad><precioUnitario>7.13</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>7.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>7.13</baseImponible><valor>0.86</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16504688</codigoPrincipal><descripcion>d)LEGGINGS LARGOS</descripcion><cantidad>1</cantidad><precioUnitario>8.92</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>8.92</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>8.92</baseImponible><valor>1.07</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>16523129</codigoPrincipal><descripcion>ACCESORIOS DE CABELL</descripcion><cantidad>1</cantidad><precioUnitario>3.56</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>3.56</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>3.56</baseImponible><valor>0.43</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>5715102428465</codigoPrincipal><descripcion>d)SUDADERAS MODA</descripcion><cantidad>1</cantidad><precioUnitario>17.85</precioUnitario><descuento>9.82</descuento><precioTotalSinImpuesto>8.03</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>8.03</baseImponible><valor>0.96</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>8433742729175</codigoPrincipal><descripcion>d)ENTERIZOS</descripcion><cantidad>1</cantidad><precioUnitario>35.70</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>35.70</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>35.70</baseImponible><valor>4.28</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Dirección del cliente">FLOR DE BASTION BLOQ 9 MZ 1088 SL 1</campoAdicional><campoAdicional nombre="Teléfono del cliente">042858905</campoAdicional><campoAdicional nombre="Número de Ticket">033-078-000089872</campoAdicional><campoAdicional nombre="Deducible Vestimenta">159.30</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature487878">
+<ds:SignedInfo Id="Signature-SignedInfo509223">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID266434" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature487878-SignedProperties617455">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>yZA77CqUYXXY76UIq9QCLx12eiQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1244102">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WOL1JULfa1TOxq7ir7+vALePlg4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-997449" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>VguEFmuC0Anf4DK7IWyvyLR+8jE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue508870">
+hKgUlBwhyNJkCEhqkE0ze0VsBWmaMcu+QWguDIRi5sqOJ+ar/QhlE1Q6xRKDKU6WHAoVKBgDoPqn
+sWVA375WaIG70Z6aidrYCv0uu7bsssq4HbesL405qABzDbi1xW3vGXGWDKFLW04j0GXaGuOcMfX8
+efFGddOm2sN365FSw4H1gQYqTHFvOq7rMvk12wa+0i5BWPCu8ztnWgTlZ/KReJBi7X5NaHSI8PCn
+u4jad6FLOYmqmp0eI6b/ZgS0YYg4lkCpvfvd53JpApSKL9YGkKZaM2DJO+2ggq71O9hPXziXl6lk
+rdnYBsHT0Q1jiwPHVzG2Qvaabl4jpIpPgLWcNg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1244102">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILTjCCCTagAwIBAgIEDzlyiTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDA5MjExNDQwMjFaFw0yNTA5MjExNDQwMjFaMIGaMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMjEwOTIwMDk1MDIw
+MSMwIQYDVQQDDBpMVVBFIERFTCBST0NJTyBMQVJHTyBMQVJHTzCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAInsfYNMUD3JT6D147asqDHKrXrNZEcdcWlI8A73ijKqzIHNjEpD99J15z7Q
+svc03nHTOuL8Ez81lhujXBM8+lwBHFKANJ1LnznB755zvX0ugqIvzEpO5MldNpgNmEnWsEh//ZUN
+QAV9YP8LiMO3bXF7DCGBdwP+GZgkVgB+rG6m4NaDQHnLNy2F+X7ZSRei1Tygf9UBWEZsGGjt8Auu
+FNdwzgwSdE7CZiDWAEw9JmIz4vDmZR9+f8AJWLvlgq2vQIX/L1wMe2q1UK2ZzdVREBn8uj4TcmfD
+38p0NgphIPVOK3Kr7Rcs4WYd2X58qFGJUvzs5TOW9NcmAmisrMKLNhUCAwEAAaOCBpkwggaVMFkG
+CCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAdBgNVHQ4EFgQUzDlRN6FbEYnzRocZ8DI+
+cYwcVHgwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBRcD4WkdBD8rQEsGgA9kxcJ+jkB1jArBgNV
+HRAEJDAigA8yMDIwMDkyMTE0NDAyMVqBDzIwMjUwOTIxMTQ0MDIxWjCBzAYDVR0uBIHEMIHBMIG+
+oIG7oIG4hoG1bGRhcDovL2xkYXBzZC5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMSxDPUVDP2RlbHRh
+UmV2b2NhdGlvbkxpc3Q/YmFzZTBrBgNVHSAEZDBiMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcC
+AjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAg
+AEUAbQBwAHIAZQBzAGEwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3
+BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQTEw
+MC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQK
+DBRTRUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6GgbtsZGFwOi8vbGRh
+cHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlz
+dD9iYXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1B
+VVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURB
+RCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEs
+Qz1FQzALBgNVHQ8EBAMCBeAwKAYDVR0RBCEwH4EdY2xhdWRpYS5nYXJjaWFAZGVwcmF0aS5jb20u
+ZWMwGgYKKwYBBAGCpnIDAQQMDAowOTE5NTI3NjA2MB4GCisGAQQBgqZyAwIEEAwOTFVQRSBERUwg
+Uk9DSU8wFQYKKwYBBAGCpnIDAwQHDAVMQVJHTzAVBgorBgEEAYKmcgMEBAcMBUxBUkdPMCQGCisG
+AQQBgqZyAwUEFgwUR0VSRU5URSBERSBJTVBVRVNUT1MwIgYKKwYBBAGCpnIDBwQUDBJMVVFVRSA1
+MDIgWSBCT1lBQ0EwGwYKKwYBBAGCpnIDCAQNDAs1OTM0MzczMTgwMDAZBgorBgEEAYKmcgMJBAsM
+CUdVQVlBUVVJTDAnBgorBgEEAYKmcgMKBBkMF0FMTUFDRU5FUyBERSBQUkFUSSBTLkEuMB0GCisG
+AQQBgqZyAwsEDwwNMDk5MDAxMTIxNDAwMTAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwEgYKKwYB
+BAGCpnIDHQQEDAJObzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDA1NTM5NTATBgorBgEEAYKm
+cgMhBAUMA1BGWDARBgorBgEEAYKmcgMiBAMMAS4wDQYJKoZIhvcNAQELBQADggIBAFZA/E1pkmAZ
+C+sh2JCwccybxfd2fZEjhFUl2bz82Li2U+wqr6cT+cDWgEZkwpxZaCDrFWk/9swwRlCrs1UmzWYm
+22fTpnFsoG/UXGTgeXZgxEKZcpx+tueNdk7DewsUbx3pOaPnY3j50DlHrAjJS631FmpRGrvLRDBq
+kL1wTi33FcaIkVdvvI+wTH/I/Heg8zBzxGqs0zFohxYT5gpRMW+EsjesfeVRq/OghPDYVG/bb7q5
+0+HHZPGWgBbsS6nkXLvgUyhASMPvesXjxB19+rmdbJM91LH+Dv9VuanSEIHk80oGDuSoDawTWek3
+zCQPhQA8FomWEx2U58TbP8KwUS28wjItw2PHpbVUhl2pu0y8tlo97aDtwDrdZfD37+h+WRR0FVKt
+kq2rUSDi5nqxlLKVKqSJwdc8nlyEmlHaHYLhWq4aEeVfLcb6ys/94Wjc8GGZOU2QK2+UWmbk8qDg
+jhOafgfRvYwdFii3NSUfRs9Nt3C3+w+7AZ7xXCYgew5tnqvbPTXK4PAEvJUDdi9I9hStb+9fmbNY
+AOH3Y7JxuC3fPiF526/H9BV4G1wV3uZ1+8KCPZI5EYYWmdZz7pG9kcVjiNfiSd9N0wBVuAksqhGf
+xUAAF6zdOMHLotahvfw4hLkFucCux15CGXgAc8HqOjFUB3gDKrYuLs86aoyV72BF
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iex9g0xQPclPoPXjtqyoMcqtes1kRx1xaUjwDveKMqrMgc2MSkP30nXnPtCy9zTecdM64vwTPzWW
+G6NcEzz6XAEcUoA0nUufOcHvnnO9fS6Coi/MSk7kyV02mA2YSdawSH/9lQ1ABX1g/wuIw7dtcXsM
+IYF3A/4ZmCRWAH6sbqbg1oNAecs3LYX5ftlJF6LVPKB/1QFYRmwYaO3wC64U13DODBJ0TsJmINYA
+TD0mYjPi8OZlH35/wAlYu+WCra9Ahf8vXAx7arVQrZnN1VEQGfy6PhNyZ8PfynQ2CmEg9U4rcqvt
+FyzhZh3ZfnyoUYlS/OzlM5b01yYCaKyswos2FQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature487878-Object956754"><etsi:QualifyingProperties Target="#Signature487878"><etsi:SignedProperties Id="Signature487878-SignedProperties617455"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-20T13:41:09-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>fyMxonmAEsCMT4h+DPjQ5r2VbkE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber>255423113</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-997449"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

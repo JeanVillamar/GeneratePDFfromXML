@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202201050272765400120070020000310561234567810</numeroAutorizacion>
+<fechaAutorizacion>2022-04-27T08:28:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>MENDOZA LEON DIEGO FERNANDO</razonSocial>
+		<nombreComercial>IMPORTADORA MENFRI</nombreComercial>
+		<ruc>0502727654001</ruc>
+		<claveAcceso>2504202201050272765400120070020000310561234567810</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>007</estab>
+		<ptoEmi>002</ptoEmi>
+		<secuencial>000031056</secuencial>
+		<dirMatriz>AV.SANTA ROSA S/N Y PEDRO VICENTE MALDONADO</dirMatriz>
+	</infoTributaria>
+<infoFactura>
+	<fechaEmision>25/04/2022</fechaEmision>
+	<dirEstablecimiento>AV.SANTA ROSA S/N Y PEDRO VICENTE MALDONADO</dirEstablecimiento>
+	<obligadoContabilidad>SI</obligadoContabilidad>
+	<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+	<razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+	<identificacionComprador>0932042500001</identificacionComprador>
+	<totalSinImpuestos>705.75</totalSinImpuestos>
+	<totalDescuento>463.95</totalDescuento>
+	<totalConImpuestos>
+		<totalImpuesto>
+		<codigo>2</codigo>
+		<codigoPorcentaje>2</codigoPorcentaje>
+		<baseImponible>705.75</baseImponible>
+			<tarifa>0</tarifa>
+		<valor>84.69</valor>
+		</totalImpuesto>
+	</totalConImpuestos>
+	<propina>0</propina>
+	<importeTotal>790.44</importeTotal>
+	<moneda>DOLAR</moneda>
+	<pagos>
+		<pago>
+		<formaPago>20</formaPago>
+		<total>790.44</total>
+		<plazo>30</plazo>
+		<unidadTiempo>dias</unidadTiempo>
+		</pago>
+	</pagos>
+</infoFactura>
+<detalles>
+	<detalle>
+		<codigoPrincipal>ACS-1</codigoPrincipal>
+		<descripcion>*CAJETIN SOBREPUESTO PP AMPERIOX 130X88X49 MM CANT EN CAJA 100</descripcion>
+		<cantidad>625</cantidad>
+		<precioUnitario>0.741071</precioUnitario>
+		<descuento>185.27</descuento>
+		<precioTotalSinImpuesto>277.9</precioTotalSinImpuesto>
+		<detallesAdicionales>
+			<detAdicional nombre="bultos" valor="625"></detAdicional>
+			<detAdicional nombre="unidades" valor="0"></detAdicional>
+		</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>2</codigoPorcentaje>
+			<tarifa>12</tarifa>
+			<baseImponible>277.9</baseImponible>
+			<valor>33.35</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>BER-18+6RGB</codigoPrincipal>
+		<descripcion>*PANEL LED REDONDO EMPOTRABLE BICOLOR, 18W 6500K + 4W RGB</descripcion>
+		<cantidad>30</cantidad>
+		<precioUnitario>14.27</precioUnitario>
+		<descuento>171.24</descuento>
+		<precioTotalSinImpuesto>256.86</precioTotalSinImpuesto>
+		<detallesAdicionales>
+			<detAdicional nombre="bultos" valor="30"></detAdicional>
+			<detAdicional nombre="unidades" valor="0"></detAdicional>
+		</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>2</codigoPorcentaje>
+			<tarifa>12</tarifa>
+			<baseImponible>256.86</baseImponible>
+			<valor>30.82</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>BER-12+4RGB</codigoPrincipal>
+		<descripcion>*PANEL LED REDONDO EMPOTRABLE BICOLOR, 12W 6500K + 4W RGB CON CONTROLADOR.</descripcion>
+		<cantidad>15</cantidad>
+		<precioUnitario>12.55</precioUnitario>
+		<descuento>75.3</descuento>
+		<precioTotalSinImpuesto>112.95</precioTotalSinImpuesto>
+		<detallesAdicionales>
+			<detAdicional nombre="bultos" valor="15"></detAdicional>
+			<detAdicional nombre="unidades" valor="0"></detAdicional>
+		</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>2</codigoPorcentaje>
+			<tarifa>12</tarifa>
+			<baseImponible>112.95</baseImponible>
+			<valor>13.55</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>RK-49</codigoPrincipal>
+		<descripcion>*SOPORTE PARA TUBO LED T8 1,20M</descripcion>
+		<cantidad>50</cantidad>
+		<precioUnitario>1.60714</precioUnitario>
+		<descuento>32.14</descuento>
+		<precioTotalSinImpuesto>48.22</precioTotalSinImpuesto>
+		<detallesAdicionales>
+			<detAdicional nombre="bultos" valor="50"></detAdicional>
+			<detAdicional nombre="unidades" valor="0"></detAdicional>
+			<detAdicional nombre="noteunidad" valor="UNIDAD"></detAdicional>
+		</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>2</codigoPorcentaje>
+			<tarifa>12</tarifa>
+			<baseImponible>48.22</baseImponible>
+			<valor>5.79</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+	<detalle>
+		<codigoPrincipal>RP</codigoPrincipal>
+		<descripcion>*EMBALAJE</descripcion>
+		<cantidad>1</cantidad>
+		<precioUnitario>9.8214</precioUnitario>
+		<descuento>0</descuento>
+		<precioTotalSinImpuesto>9.82</precioTotalSinImpuesto>
+		<detallesAdicionales>
+			<detAdicional nombre="bultos" valor="1"></detAdicional>
+			<detAdicional nombre="unidades" valor="0"></detAdicional>
+			<detAdicional nombre="noteunidad" valor="UNIDAD"></detAdicional>
+		</detallesAdicionales>
+	<impuestos>
+		<impuesto>
+			<codigo>2</codigo>
+			<codigoPorcentaje>2</codigoPorcentaje>
+			<tarifa>12</tarifa>
+			<baseImponible>9.82</baseImponible>
+			<valor>1.18</valor>
+		</impuesto>
+	</impuestos>
+	</detalle>
+</detalles>
+<infoAdicional>
+	<campoAdicional nombre="pIva">12</campoAdicional>
+	<campoAdicional nombre="Direccion">AGUIRRE Y PEDRO MONCAYO</campoAdicional>
+	<campoAdicional nombre="Telefono">0992065468</campoAdicional>
+	<campoAdicional nombre="Email">gaiza085@gmail.com</campoAdicional>
+	<campoAdicional nombre="Vencimiento">25/05/2022</campoAdicional>
+	<campoAdicional nombre="Ciudad">GUAYAQUIL</campoAdicional>
+	<campoAdicional nombre="Usuario">SPATINO</campoAdicional>
+	<campoAdicional nombre="Vendedor">RAFAEL ENRIQUE SALCEDO</campoAdicional>
+	<campoAdicional nombre="Zona">GUAYAQUIL</campoAdicional>
+	<campoAdicional nombre="Comercio">IMPORFER</campoAdicional>
+	<campoAdicional nombre="FormaPago">Credito</campoAdicional>
+	<campoAdicional nombre="regimen">2</campoAdicional>
+	<campoAdicional nombre="agente_retencion">AGENTE DE RETENCION RESOLUCION NAC-DNCRASC20-00000001</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature967334">
+<ds:SignedInfo Id="Signature-SignedInfo766297">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID34404" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature967334-SignedProperties343281">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>MykcO5LiviD/BWvEvTdA4anGucM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1724051">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>04Wi5wUP5OqgOb8+z4NPn1OSA08=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-294294" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1n0v6dfuuqaUWlRWGEgPFiHyvr0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue577690">
+YiLl3s3SupwEk/lwSiURMDIWEyvfIn5lg+qQaUIXuRR6S5Qr1YxsDC/e2upuVUOEI1btT0Z8bK3G
+1+HYYN1ckIe6ZHlYbJeEfo6EGIbLp3i6GCGbpszmMATsA7P92MpMInopKg5OZC+rQgAmYXhOYFN0
+DuEjF0UX3WoaGxixjd/cM2wLbaVLKyT9Q6AYZbmfnPWsgkZFZjXV1hyZOaVvp72mB3WpbB2X4OR7
+2eChyjoOuKiNeLl+kZVYjhU5TmkTjM95By8NdPs1i6bOxHaoGwWQQyVUkGFcFZc53mtticaW+imT
+n/DNFFzYPUnnaAGAfljppRyK+kFVxT4RexWJgg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1724051">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJszCCB5ugAwIBAgIEW2PyzjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDYyMzIwNTEyN1oXDTIyMDYyMzIxMjEy
+N1owgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDAwMDI4Mzk3NzAiBgNVBAMTG0RJRUdPIEZFUk5BTkRP
+IE1FTkRPWkEgTEVPTjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKky9rpYO+iwGZh4
+E/6wc0KznNAU5hy022NoLGAgyQhNDGu9kXSCHNd16E+tEYQYZ5ZvwK3d9SQZTMUEvBkOHyB9V7xF
+XxOU8FA78+u//1fTvHFxJyLFFnliWhc4olF+rldNNFIGId08d1r0iqfoWftaoZWLJeMe0tZ3PWdE
+huJROoZf5exhknx3432acrPL4vVdo79ZvoLBv2f8lNuHNGLJqjY3Sy9xeSCwiGu7LJ+lt9ulLI9J
+CT+XzpQFJgKya+8d52Ss7m7a221UsWrOclFyMHod6vF0m4Vmcy2EGCFJB5Uj3McvtJrc8CqIhI0e
+IdqXdXq8B+59EgB83MLkfSUCAwEAAaOCBN0wggTZMAsGA1UdDwQEAwIHgDBmBgNVHSAEXzBdMFsG
+CysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGlj
+YS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjA1MDI3Mjc2NTQwHgYKKwYBBAGCqDsDAgQQEw5E
+SUVHTyBGRVJOQU5ETzAXBgorBgEEAYKoOwMDBAkTB01FTkRPWkEwFAYKKwYBBAGCqDsDBAQGEwRM
+RU9OMDcGCisGAQQBgqg7AwcEKRMnQVYgU0FOVEEgUk9TQSBZIFBFRFJPIFZJQ0VOVEUgTUFMRE9O
+QURPMBkGCisGAQQBgqg7AwgECxMJMDIyNzU0MjM1MB0GCisGAQQBgqg7AwkEDxMNU2FudG8gRG9t
+aW5nbzAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYBBAGCqDsDCwQPEw0wNTAyNzI3NjU0
+MDAxMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAgBgNVHREEGTAXgRVtYW51ZWxy
+ZXk1OEBnbWFpbC5jb20wggHfBgNVHR8EggHWMIIB0jCCAc6gggHKoIIBxoaB1WxkYXA6Ly9iY2Vx
+bGRhcHN1YnAxLmJjZS5lYy9jbj1DUkw5OTIsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwl
+MjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIw
+SU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVD
+P2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NS
+TC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSBtTCBsjELMAkGA1UEBhMCRUMxIjAgBgNVBAoT
+GUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBC
+QU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMQ8wDQYDVQQDEwZDUkw5OTIwKwYDVR0QBCQwIoAPMjAy
+MDA2MjMyMDUxMjdagQ8yMDIyMDYyMzIxMjEyN1owHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUky
+pQnBlKswHQYDVR0OBBYEFDtUzy1MsDAUCEGPXIG7lKWUHwr3MAkGA1UdEwQCMAAwGQYJKoZIhvZ9
+B0EABAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBABC/EC0ftSfPlyIRjMEua7KJB79g
+UksRYnaD6KgcGPRVFrv7m8dRO7Ov/+v/3+mf2u/E33pu5+hmM39kkplG9S2tqqBs44lO+tYUrcbg
+4WK8tuHRRHkp+sPms6pBT7i1Gc0Xl4OEQuoUITHPAEtst4o18v7z5CL/vce3ooYzjzg7qj5ZsF6L
+H+/kjyEjxOq8RxQFDG+/MG+MCBP3wJLGk0T+6euME5J5NSxQoiELb5s9vN+4GLXnR3ylfJYhJM6F
+Nt62qZJh//4dACsXf7CKAN/exOi0WJjpT4hz20B2i4oezvaDbo/JtOiVW7CYG6VDKxKn1fPbuzy0
+Pq2GF9LgoWLP2rU82D/BGwFnD8OQkkIfR0QV0kNu7rf11jycjyp+cioA3I8uA2g5l7oLw7x8jsUQ
+kq6wxt/t5ipdt4m92OjVaoxWAkizZ0D3C2EpieoCGcUSAOrKG9REOwV5LUiKuPsRomDrq2DDHRAO
+ggFeqmOPf65GXhOagUlR9O79iHFi29Erss/fCBW2EXm9cjsuRjor9BJdDAod/ZIqhRpWfmmka5nO
+0e0k9tR2YW9bUU6uhrDU/ix0Ub2H7xjciq6ydq4KKFDi3t/mGIjoyrBV4Ln1nWtE5I0sr9uORlGd
+ktpf2fN8Dm+2NfrJBGWj82WPhG1yGN6V4Nav98IHK4KzfO2h
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qTL2ulg76LAZmHgT/rBzQrOc0BTmHLTbY2gsYCDJCE0Ma72RdIIc13XoT60RhBhnlm/Ard31JBlM
+xQS8GQ4fIH1XvEVfE5TwUDvz67//V9O8cXEnIsUWeWJaFziiUX6uV000UgYh3Tx3WvSKp+hZ+1qh
+lYsl4x7S1nc9Z0SG4lE6hl/l7GGSfHfjfZpys8vi9V2jv1m+gsG/Z/yU24c0YsmqNjdLL3F5ILCI
+a7ssn6W326Usj0kJP5fOlAUmArJr7x3nZKzubtrbbVSxas5yUXIweh3q8XSbhWZzLYQYIUkHlSPc
+xy+0mtzwKoiEjR4h2pd1erwH7n0SAHzcwuR9JQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature967334-Object961879"><etsi:QualifyingProperties Target="#Signature967334"><etsi:SignedProperties Id="Signature967334-SignedProperties343281"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-27T08:28:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>OcWX+ej/bZxXEEsRTLHuY9SG7jM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533276878</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-294294"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

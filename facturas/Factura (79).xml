@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202201099147399800120060010000299711234567811</numeroAutorizacion>
+<fechaAutorizacion>2022-04-20T16:24:26-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DISMEDSA CIA. LTDA.</razonSocial>
+    <nombreComercial>DISMEDSA - 006</nombreComercial>
+    <ruc>0991473998001</ruc>
+    <claveAcceso>2004202201099147399800120060010000299711234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>006</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000029971</secuencial>
+    <dirMatriz>GUAYAS / DAULE / LOS LOJAS (ENRIQUE BAQUERIZO MORENO) / SOLAR 32 URB LUNA DE VILLA CLUB MANZANA: 5</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>20/04/2022</fechaEmision>
+    <dirEstablecimiento>Guayas/Samborondon /La Puntilla (Satelite)/ Diana Quintana Solar 9 y Av. La Moderna</dirEstablecimiento>
+    <contribuyenteEspecial>1305</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>IRANIA ELIZABETH LINDAO VILLAMAR</razonSocialComprador>
+    <identificacionComprador>0932042500</identificacionComprador>
+    <totalSinImpuestos>92178.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>92178.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>92178.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>92178.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+    <valorRetIva>0.00</valorRetIva>
+    <valorRetRenta>0.00</valorRetRenta>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1</codigoPrincipal>
+      <descripcion>VENTA DE VILLA  Proyecto: LA JOYA Urb.: GRANATEMz.: 14; Villa # 30; Modelo: L*Ref: Convenio No. GRAN-532</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>92178.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>92178.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>92178.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">imporfer.ventas@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Referencia">168744</campoAdicional>
+    <campoAdicional nombre="Dir.">BLQ#9,MZ#1088,SOL#1 ETAPA 1 / FLOR DE BASTION PB / TARQUI - GUAYAQUIL</campoAdicional>
+  </infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature772172" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#"><ds:SignedInfo Id="Signature-SignedInfo200357"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference Id="Reference-ID-513982" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>fvCIXkzd+sCdvyHLjWA36Gsaeg8=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1722078"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yVoIus+7t2PiYO4sBsstFUa+JPQ=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature285532-SignedProperties123280"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>To5MEoEO4adA68v0gvbrDupYrYU=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue939704">
+C4aqN3Dd50zUuR3MQq6kjk0kZm+lBcIUE0DlmlgCI9gcMIhQKAGI0kWpI1vH74GLq/AJR/t+dC6r
+MBMMgyJ9QxQGQUlq7OUIDNCKM7iKiiWXGjLDFxThZi5YBRt3vNE6eNdh2OBQ4sOmONHHxEjshYLM
+GYFQrh1cnPFRMA2oPV+gGUJT0Rmgdho6m9KkHTCFydiFgwHoZX1BoBea0Nqe14xr2zKFTTWFtLbB
+zlqJZ6eqq1tvVK5ciTWfHYlCBV0dJwSCGIPYTbKY9VwiXR2f4TUJP7Y09wa0/7TS6jo+JX6ah/Nt
+YXZRtzwA69IyLA2VVDN3SNRK9tQKSRaLbfjA1Q==
+	</ds:SignatureValue><ds:KeyInfo Id="Certificate1722078"><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+2mvougtzmjWgqoxWJhclek+uVQGf5iAa/1qPMHsEFQBPD7WCStb+oPf6eNbQRMumqvn+LAAmxAua
+iuZq7xlv2v/y/RwTNqwvyStQu1hYdcPPrj2H6NJdgVsmZHgqkwLMuVsvMRK3lVEIB+C7zie1zsb2
+Ja/vStV6gpVlbq2g78udEdBFUXPJyI34VPQcRV6516ZlfvYT55E5JtqY2W81XQoIK6bslyo5Y1uG
+edeIJF2Eaxob+IUsFimGsZ0Q/1N8o46+a/vR5304RyxydIrDHq5Hdv4hGjyRJoKQ5Mm48PDQ2AYX
+1eKMVyXWKMbaWvtjfSXtG7hIy3HGP83oWknCWw==
+				</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509Certificate>
+MIIJNzCCBx+gAwIBAgIIAnkaNfncSOcwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIxMDgwNTIyMzEwMFoXDTIzMDgwNTIyMzEwMFowgdIxCzAJBgNVBAYTAkVDMRwwGgYDVQQKDBNE
+SVNNRURTQSBDSUEuIExUREEuMRgwFgYDVQQMDA9HRVJFTlRFIEdFTkVSQUwxFTATBgNVBAQMDENB
+UlBJTyBPQ0hPQTEWMBQGA1UEKgwNREFOSUVMIEpBVklFUjEZMBcGA1UEBRMQSURDRUMtMDkxOTcw
+NTA1MzEjMCEGA1UEAwwaREFOSUVMIEpBVklFUiBDQVJQSU8gT0NIT0ExHDAaBgNVBGEME1ZBVEVD
+LTA5OTE0NzM5OTgwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDaa+i6C3OaNaCq
+jFYmFyV6T65VAZ/mIBr/Wo8wewQVAE8PtYJK1v6g9/p41tBEy6aq+f4sACbEC5qK5mrvGW/a//L9
+HBM2rC/JK1C7WFh1w8+uPYfo0l2BWyZkeCqTAsy5Wy8xEreVUQgH4LvOJ7XOxvYlr+9K1XqClWVu
+raDvy50R0EVRc8nIjfhU9BxFXrnXpmV+9hPnkTkm2pjZbzVdCggrpuyXKjljW4Z514gkXYRrGhv4
+hSwWKYaxnRD/U3yjjr5r+9HnfThHLHJ0isMerkd2/iEaPJEmgpDkybjw8NDYBhfV4oxXJdYoxtpa
++2N9Je0buEjLccY/zehaScJbAgMBAAGjggQnMIIEIzCB1wYIKwYBBQUHAQEEgcowgccwVQYIKwYB
+BQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90c3BfY2VydGlm
+aWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AyLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBRaZx2Z8BC7R9/chjSwXDaDgyrSAjAMBgNV
+HRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGOBgNVHSAEgYYwgYMw
+gYAGDCsGAQQBgvE2ZgIDATBwMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20v
+cHVibGljL3BraS9kcGMtZWMvMDUGCCsGAQUFBwICMCkMJ0NFUlRJRklDQURPIERFIFJFUFJFU0VO
+VEFOVEUgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3Js
+Mi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB
+/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggGlBgNVHREEggGcMIIBmIEX
+YWNhdGFndWFAdmlsbGFkZWxyZXkuZWOgGwYLKwYBBAGC8TZmAwGgDAwKMDkxOTcwNTA1M6AeBgsr
+BgEEAYLxNmYDAqAPDA1EQU5JRUwgSkFWSUVSoBcGCysGAQQBgvE2ZgMDoAgMBkNBUlBJT6AWBgsr
+BgEEAYLxNmYDBKAHDAVPQ0hPQaAgBgsrBgEEAYLxNmYDBaARDA9HRVJFTlRFIEdFTkVSQUygGQYL
+KwYBBAGC8TZmAwegCgwIU09MQVIgMzKgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5ODcyMTQwNTSg
+FgYLKwYBBAGC8TZmAwmgBwwFREFVTEWgJAYLKwYBBAGC8TZmAwqgFQwTRElTTUVEU0EgQ0lBLiBM
+VERBLqAeBgsrBgEEAYLxNmYDC6APDA0wOTkxNDczOTk4MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVD
+oCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVHQUygGAYLKwYBBAGC8TZmAzOgCQwH
+QVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAZIdeRHg9zpUmmWx3meAW5sWSBn+h4GNVgdIOPhAD
+4cX6C0UdmoQVIVwfqNrgalNslDzJEEkkU6GW/mAEmiYzDwdW5DW9r2wCx7H7Y7RO6BrMe1KSmzid
+pOfRYsq9ByX7pXVnBINBPgySnVS69qy0p475+T3GksrLaao0fFREw7PeDLmVLLTcXHyYrNmaSjGk
+KcgTo8mefQ2UHnmNK3Rw8THdM4mBMziRd5J+QQIWSOGvR/r0/OReGPAp+hPXAvV+uNjqqHwlY36E
+tgR2EW48zHXQJb1tChN1dYt1B8yE8PazqCpz9cI+AWfV6yzWBWN76P/+y8J/BdOOg7dWTYCXC3gf
+DS6CBSFc93+SErEzD85qy5kISTst29LpvgCAV/VMo/LeHSCxSO83oYPOLimWZAlmE5D+1TZRFTeK
+cBUg7MFBH10Kcn9EKwEoccvowISlUbY0CCyAMeQaIg/7yrk8mxjr4ZOIgvMyKnPw3lVgCl5gQ+cS
+yUDO8Ib8u9mcLJIcUiEqDvNen79ZZ+J/ZL798ldxUMIHe3pUpl6xCbJS5AkeuOACLEIabvFIokzZ
+TYfodz80l/mNNj1xaQSIQSYvsWRVb1a919qy46GfboK12FJxd3HjVos/XZf3ahwA6Mmj5A3VvkMF
+OrehZxL74V09ftxGzGqkzZFlj8Pkl++sVRw=
+			</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object Id="Signature285532-Object48187"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature772172"><etsi:SignedProperties Id="Signature285532-SignedProperties123280"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-20T16:24:24-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>rsv+30JfZamGXUEfWbZhJM02Y+8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0C0F56415445532D413636373231343939, CN=UANATACA CA2 2016, OU=TSP-UANATACA, O=UANATACA S.A., L=Barcelona (see current address at www.uanataca.com/address), C=ES</ds:X509IssuerName><ds:X509SerialNumber>178202479385397479</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-513982"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature>
+</factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

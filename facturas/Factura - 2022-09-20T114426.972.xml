@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2504202201099284023400121911120000416651234567817</numeroAutorizacion>
+<fechaAutorizacion>2022-04-25T19:33:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GETTAREQ S.A.</razonSocial><nombreComercial>Farmacias 911</nombreComercial><ruc>0992840234001</ruc><claveAcceso>2504202201099284023400121911120000416651234567817</claveAcceso><codDoc>01</codDoc><estab>191</estab><ptoEmi>112</ptoEmi><secuencial>000041665</secuencial><dirMatriz>Urd.Central 3era 509 y monjas</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>25/04/2022</fechaEmision><dirEstablecimiento>Vía a la Costa KM 6.5</dirEstablecimiento><contribuyenteEspecial>0382</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>ELIZABETH LINDAO</razonSocialComprador><identificacionComprador>0932042500001</identificacionComprador><direccionComprador>gggg</direccionComprador><totalSinImpuestos>17.76</totalSinImpuestos><totalDescuento>6.79</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>1.63</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>16.13</baseImponible><tarifa>12</tarifa><valor>1.94</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>19.70</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>19.70</total><plazo>0.00</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>150820</codigoPrincipal><codigoAuxiliar>150820</codigoAuxiliar><descripcion>PAÑAL TENA SLIP LARG</descripcion><cantidad>1.00</cantidad><precioUnitario>16.630000</precioUnitario><descuento>0.50</descuento><precioTotalSinImpuesto>16.13</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>16.13</baseImponible><valor>1.94</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>153162</codigoPrincipal><codigoAuxiliar>153162</codigoAuxiliar><descripcion>PAÑAL TENA SLIP LARG</descripcion><cantidad>1.00</cantidad><precioUnitario>6.170000</precioUnitario><descuento>6.17</descuento><precioTotalSinImpuesto>0.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12</tarifa><baseImponible>0.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>157578</codigoPrincipal><codigoAuxiliar>157578</codigoAuxiliar><descripcion>ALCOHOL ANTISEP C/AT</descripcion><cantidad>1.00</cantidad><precioUnitario>1.750000</precioUnitario><descuento>0.12</descuento><precioTotalSinImpuesto>1.63</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.63</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Observación">Declaro que todos los datos consignados son verdaderos, correctos y acepto a Farmacias 911 recibir información promocional y publicitario mediante llamadas y/o mensajes masivos o individuales</campoAdicional><campoAdicional nombre="Email">dd@d.ddddd.ddd</campoAdicional><campoAdicional nombre="Información">CAMBIO DE PRODUCTOS HASTA 7 DÍAS DE LA FECHA DE COMPRA, PRESENTANDO ESTE DOCUMENTO EN EL LOCAL QUE LO ADQUIRIÓ.</campoAdicional><campoAdicional nombre="Teléfono Cliente">0</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1037836">
+<ds:SignedInfo Id="Signature-SignedInfo734438">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID278731" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1037836-SignedProperties940933">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>rvBunqdKWxKxTPJJQuFbDdbY+mI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1906992">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lmmrq+UCM9QLvsxkRe/OG2oDq3E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-565446" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oSrw05QdlAk9/k5PkkP5sJrnp40=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue105057">
+WULMUXNv6dyx7tvIbOAG1PvLI3qB6AHJJTz2eYZgtB/rBOR0Q7EjnTqPL/Ufb9St77SlvBk3QbJ6
+avX/d4vlmTwTTWW7AeolAPu2JnqG2UZ8RybtUtu55LSBd1t3eO62Po9ACPweOfEH7zOG/0Hlijk+
+2F7VTZoDcYswMatPkPZsRGxz452veW8QtGcL23tJD/lG7/akRQYWSJhs5UXsiv2hRgLomxvMjYJS
+/wnKJ2aGnrZU7QEF4Tz0bivOuhkJe5/+xM+7+F26KrOroJFn3NodLL1SCpxZfjBnYkyvZvgIz9w3
+Ge+mmOjRA7HH6L+ag0EZ3LZx25J6cW8B2UHoUA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1906992">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ+jCCB+KgAwIBAgIEW2bl/jANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMTIxNzEzMDE0N1oXDTIyMTIxNzEzMzE0
+N1owgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDE5MDM0MzAjBgNVBAMTHE1PTklDQSBBUkFDRUxZ
+IFRBUElBIERFTEdBRE8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDEWFv+RnzsJb9z
+267caKkovMUX3RGeXpMp6SgfkAFVCFTk1+WCS5qGmsS540mlD/tQ21qCY6kgV3dlxbCJZvNCvTqt
+2nXZKMmnzeexdYzJ34DIqRvKy4hflybp+b34jP08t7uF3lIAfrs3EyubIlIG86CGzlJDcNLUJZml
+1hUZ0/cqHUSxQj2Z22wlD/TsGbz1LkQPBW0l090rR5sHDUYlFgZuN9Ti3e2cIIxNMUGNOaaY3564
+vqw/WOzw589oTqs1NQONmPw6WLWPhSGL2oIovfTWIhXX+kM0VTiU+BJ4A3jzHPcvF0iusMGp6a4c
+K7kuPFi2sWZWshWqn10uHJ3tAgMBAAGjggUjMIIFHzALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBc
+BgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMBsGCisGAQQBgqg7AwoEDRMLR0VUVEFSRVEgU0EwHQYKKwYBBAGCqDsDCwQP
+Ew0wOTkyODQwMjM0MDAxMBoGCisGAQQBgqg7AwEEDBMKMDkyNDA5NDY5MTAeBgorBgEEAYKoOwMC
+BBATDk1PTklDQSBBUkFDRUxZMBUGCisGAQQBgqg7AwMEBxMFVEFQSUEwFwYKKwYBBAGCqDsDBAQJ
+EwdERUxHQURPMBkGCisGAQQBgqg7AwUECxMJQ09OVEFET1JBMDoGCisGAQQBgqg7AwcELBMqVVJE
+RVNBIENFTlRSQUwgQ0FMTEUgM0VSQSA1MDkgWSBMQVMgTU9OSkFTMBkGCisGAQQBgqg7AwgECxMJ
+MDQ2MDUyMDExMBkGCisGAQQBgqg7AwkECxMJR3VheWFxdWlsMBcGCisGAQQBgqg7AwwECRMHRUNV
+QURPUjAgBgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wKwYDVR0RBCQwIoEgY29udGFi
+aWxpZGFkQGZhcm1hY2lhczkxMS5jb20uZWMwggHhBgNVHR8EggHYMIIB1DCCAdCgggHMoIIByIaB
+1mxkYXA6Ly9iY2VxbGRhcHN1YnAxLmJjZS5lYy9jbj1DUkwxMTUwLGNuPUFDJTIwQkFOQ08lMjBD
+RU5UUkFMJTIwREVMJTIwRUNVQURPUixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklD
+QUNJT04lMjBERSUyMElORk9STUFDSU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUy
+MEVDVUFET1IsYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cu
+ZWNpLmJjZS5lYy9DUkwvZWNpX2JjZV9lY19jcmxmaWxlY29tYi5jcmykgbYwgbMxCzAJBgNVBAYT
+AkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzEl
+MCMGA1UEAxMcQUMgQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjEQMA4GA1UEAxMHQ1JMMTE1MDAr
+BgNVHRAEJDAigA8yMDIwMTIxNzEzMDE0N1qBDzIwMjIxMjE3MTMzMTQ3WjAfBgNVHSMEGDAWgBRI
+ot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUvEkXj5thGycQluF/OP8U9pipGRQwCQYDVR0T
+BAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEsDANBgkqhkiG9w0BAQsFAAOCAgEAUrX05Lpr
+IApO4Uivx5gS4tA3p+ZOxGRyRF7zh+ASc46ecn6SSYKkbvfiyZb5CK2wO7eAhvMy6koA6DCgd7qu
+Lu/O0GcMZIly7ykBuXur1UPY16prCMEFcuCWjWjCTgWMgfY+qwtSZeZRPIR2iOZUxeGPMzSHbbAA
+JFUjord03kee0PHHzu9E9pa7pHnzeU1B2Gswhq/apsO/SSx5/IGoLzJXHP6tIoIybFPTVodDoR9H
+Yk4lttXljyv55mlVvmDkdiNBD7TRt3g3gYq8FvaILFUAOq9Nn1jZBURxMqHcDyz/3Fb7Zad/V90S
+Y06VXK/1ydpQwWa/O7lShTJRkKGVcflqrH8Ry00sVcW2UknIatyYakvNxK6KB4gXggJRedK8XfkT
+LJrVFj5cVxB+9pDqdk8GA1KmexzvvgKSICkPyAgNOZ0sG/esj3Y3zXDWzy2pgawwCKjHPsy1nLA5
+mQobh7jwnWQtrvOWxqU56u1pgFlmQXUpddVEzvg8ovS1Veew496Wobt4f6ZR+49hP8HJ1POWMbqm
+Nk9SCgXdT6AOzHHcAYR1BrqzL0IavT76j1GYHbGBuLnwIb+WB0YchXfNLbAmVROjBg3kE0z98RPZ
+1xaOoFO9466Y97ysSrD5yTBuDimils3M7Y4MoT9GPYghUaS9ty4Og7YcqOO76sAbxW0=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+xFhb/kZ87CW/c9uu3GipKLzFF90Rnl6TKekoH5ABVQhU5NflgkuahprEueNJpQ/7UNtagmOpIFd3
+ZcWwiWbzQr06rdp12SjJp83nsXWMyd+AyKkbysuIX5cm6fm9+Iz9PLe7hd5SAH67NxMrmyJSBvOg
+hs5SQ3DS1CWZpdYVGdP3Kh1EsUI9mdtsJQ/07Bm89S5EDwVtJdPdK0ebBw1GJRYGbjfU4t3tnCCM
+TTFBjTmmmN+euL6sP1js8OfPaE6rNTUDjZj8Oli1j4Uhi9qCKL301iIV1/pDNFU4lPgSeAN48xz3
+LxdIrrDBqemuHCu5LjxYtrFmVrIVqp9dLhyd7Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1037836-Object15016"><etsi:QualifyingProperties Target="#Signature1037836"><etsi:SignedProperties Id="Signature1037836-SignedProperties940933"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-25T19:32:59-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>7tGnOLjEOGiVAAA/yk2U9gVy7tY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533470206</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-565446"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202201099287536400120010010000047450631247210</numeroAutorizacion>
+<fechaAutorizacion>2022-04-12T10:06:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COMHERTSA</razonSocial>
+    <nombreComercial>COMHERTSA</nombreComercial>
+    <ruc>0992875364001</ruc>
+    <claveAcceso>0704202201099287536400120010010000047450631247210</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000004745</secuencial>
+    <dirMatriz>BRASIL 6119 ENTRE LA 35 Y LA 36 AVA 2DO PISO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/04/2022</fechaEmision>
+    <dirEstablecimiento>GUAYAS  GUAYAQUIL  BOLIVAR  SAGRARIO   CAPITÁN NAJERA 1514 B Y AVENIDA QUITO</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <totalSinImpuestos>140.00</totalSinImpuestos>
+    <totalDescuento>60.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>140.00</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>140.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>140.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>COB</codigoPrincipal>
+      <codigoAuxiliar>COB</codigoAuxiliar>
+      <descripcion>CAJETIN OCTOGONAL BLANCO</descripcion>
+      <cantidad>1000.00</cantidad>
+      <precioUnitario>00.2000</precioUnitario>
+      <descuento>60.00</descuento>
+      <precioTotalSinImpuesto>140.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>140.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">GUAYAS  GUAYAQUIL  BOLIVAR  SAGRARIO   CAPITÁN NAJERA 1514 B Y AVENIDA QUITO</campoAdicional>
+    <campoAdicional nombre="Teléfono">0992065468</campoAdicional>
+    <campoAdicional nombre="Email">imporfer.ventas@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature221753">
+<ds:SignedInfo Id="Signature-SignedInfo603621">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID229494" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature221753-SignedProperties95954">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vc2tp7POVyKidH5/+SaPvC6xdaM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1293047">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JR3AlHEoBqlYjPZkmu4NifWMyQ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-768961" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>vRPWp43Bqfm8o+huEmJVDz5qHI8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue783075">
+k6Wm6375JWMXxTMFQXId+mR3SlSrN9KW1h5c0MPTozC8sl8dkvoUDEXYVpPtq8XtweihUzJbqaHS
+94MVtAN2ZpZt3fAbHoFNDEPOv3rJ6rYGg3WSin/3EuMZGsLL5qvURVYqI8CbVnBp4syOpqHyfhwy
+WI/sm1EP7p5T7a9nArabvfsj04rpyJtcki5GDaxeqRHHr2/9y3i39KLQPMtFqjGCC8iJaMYUCs3x
+PwY0bhroIR1HoBEYcXIx0Ku7mLmEEle6+ZZ1l+a7XLjL7H55fZz1TSGti/m0VNu2zOWGzfdCgN8C
+iUfq5xhgFbnC0OHNiLFhbrwYl2kH4NDosPn1VA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1293047">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJtjCCCJ6gAwIBAgIEVNDfxjANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xODA0MTExNzEwMjlaFw0yMzA0MTExNzQwMjlaMIGVMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xNzATBgNVBAUTDDExMDQxODEyMjEzODAgBgNVBAMT
+GUFMRVggTUlHVUVMIFRFSkVOQSBBVklMRVMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB
+AQCYMJ07DxTBEhfyidZbZVPPcRvZjg0R3GFaRHcG7Swrkkc5UFPLNV9gp060xxcP8lLe2SE6Ktzr
+mp7DRFobPhLavcqb7C9G/X+tF9Y5RBnikDFkqzm8wvN16uwx+/cnWXu/iRkUoBpr3jGC/N9hEVxA
+JVvVikhxlUWCqAnZwi+fR9bn1eOF19mK+aiXzmX/yakCn7kpyP3l7ksE56NTi6P8iIKsF98vgh5I
+rHhHZSeDosgxBGUq3naCD9jBnpw/A8SwcOxZtD6HIyhEhrEPRv6EX5403CQUAA0Fnw4CLPyMTc+u
+bM4XUdTgnlk+Iqe1lVa4r8hg4Op7eLE7HlFsxn+fAgMBAAGjggYMMIIGCDALBgNVHQ8EBAMCBeAw
+WQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHMBgNVHSAEgcQwgcEwQAYKKwYBBAGC
+pnICCTAyMDAGCCsGAQUFBwICMCQaIkNlcnRpZmljYWRvIGRlIFJlcHJlc2VudGFudGUgTGVnYWww
+fQYKKwYBBAGCpnICAzBvMG0GCCsGAQUFBwIBFmFodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0
+LmVjL2xleWVzX25vcm1hdGl2YXMvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFu
+dGUgTGVnYWwucGRmMDgGCisGAQQBgqZyAwoEKhMoQ09NRVJDSUFMIEhFUk1BTk9TIFRFSkVOQSBD
+T01IRVJUU0EgUy5BLjAdBgorBgEEAYKmcgMLBA8TDTA5OTI4NzUzNjQwMDEwGgYKKwYBBAGCpnID
+AQQMEwowOTE0MjU0MjE0MBsGCisGAQQBgqZyAwIEDRMLQUxFWCBNSUdVRUwwFgYKKwYBBAGCpnID
+AwQIEwZURUpFTkEwFgYKKwYBBAGCpnIDBAQIEwZBVklMRVMwHwYKKwYBBAGCpnIDBQQREw9HRVJF
+TlRFIEdFTkVSQUwwNAYKKwYBBAGCpnIDBwQmEyRDT1JERVJPIC8gNjExOSBZIENBTExFIDM1IC0g
+Q0FMTEUgMzYwHAYKKwYBBAGCpnIDCAQOEww1OTM5NTk2NTIxNjkwGQYKKwYBBAGCpnIDCQQLEwlH
+VUFZQVFVSUwwFwYKKwYBBAGCpnIDDAQJEwdFQ1VBRE9SMB8GCisGAQQBgqZyAyAEERMPMDAxMDAy
+MDAwMDE2MTIzMBMGCisGAQQBgqZyAyEEBRMDUEZYMBwGA1UdEQQVMBOBEWF0ZWplbmFAZ21haWwu
+Y29tMIICewYDVR0fBIICcjCCAm4wggJqoIICZqCCAmKGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CGgdVsZGFwOi8vZGlyZWN0LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvY249Q1JMMTg4LGNuPUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNB
+Q0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FD
+SU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0
+aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEu
+bmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFf
+ZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5f
+Y19lY19jcmxmaWxlLmNybKSBpzCBpDELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERB
+VEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEP
+MA0GA1UEAxMGQ1JMMTg4MCsGA1UdEAQkMCKADzIwMTgwNDExMTcxMDI5WoEPMjAyMzA0MTExNzQw
+MjlaMB8GA1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0GA1UdDgQWBBSRl0X1fRy/pz3w
+IXNN6k6DKeA3NzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgOoMA0GCSqGSIb3
+DQEBCwUAA4IBAQBvx75t88yUo1K5A4v2FgHG3fgLp7NVB2SKWLcqBrTQju3OKTwEl0PCgWYT7+4m
+yZ65rivGtAtBfT5TbniBrCwELcI9EhLVyTO5kk9wpB572Lzrv6HQ7y0Rj4JIeHPsUxCydeF54ARw
+sUkIKp5+WZlpkacCwSINO/IaGZVP5ne7clRpoHRTXCZB/fs3JP/fOrf6qNMix1OzWCIWKsrg4jHi
+Nu8iwAbOX0ldnJIxTXNBYpcUctvUdSeAulgaoD7uWCF0MpOO5DLRHH0EzGlGgGDwa5t4iMUKxGer
+okZMT3m/MCi4FgQkplXa8FwH9PsWOmrxBUW+k1F+1Ryu95tjrUTs
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+mDCdOw8UwRIX8onWW2VTz3Eb2Y4NEdxhWkR3Bu0sK5JHOVBTyzVfYKdOtMcXD/JS3tkhOirc65qe
+w0RaGz4S2r3Km+wvRv1/rRfWOUQZ4pAxZKs5vMLzdersMfv3J1l7v4kZFKAaa94xgvzfYRFcQCVb
+1YpIcZVFgqgJ2cIvn0fW59XjhdfZivmol85l/8mpAp+5Kcj95e5LBOejU4uj/IiCrBffL4IeSKx4
+R2Ung6LIMQRlKt52gg/YwZ6cPwPEsHDsWbQ+hyMoRIaxD0b+hF+eNNwkFAANBZ8OAiz8jE3PrmzO
+F1HU4J5ZPiKntZVWuK/IYODqe3ixOx5RbMZ/nw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature221753-Object947864"><etsi:QualifyingProperties Target="#Signature221753"><etsi:SignedProperties Id="Signature221753-SignedProperties95954"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-12T09:05:11-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>Xm3O8B00lZmPRWCD2wSfi4ZT83A=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1422974918</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-768961"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

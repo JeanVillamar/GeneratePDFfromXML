@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202201070371611800120010020000197671234567816</numeroAutorizacion>
+<fechaAutorizacion>2022-04-14T13:58:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>LOAYZA VILLA ROBERTH CESAR</razonSocial>
+    <nombreComercial>DISTRIBUIDORA OROPLAST</nombreComercial>
+    <ruc>0703716118001</ruc>
+    <claveAcceso>1404202201070371611800120010020000197671234567816</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000019767</secuencial>
+    <dirMatriz>Ignacio AsIn N5281 y Amalia Eguiguren  </dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/04/2022</fechaEmision>
+    <dirEstablecimiento>Ignacio AsIn N5281 y Amalia Eguiguren  </dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR ELIZABETH (IMPORFER)</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <totalSinImpuestos>638.33</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>638.33</baseImponible>
+        <valor>76.60</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>3</codigo>
+        <codigoPorcentaje>3680</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>714.93</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>714.93</total>
+        <plazo>30</plazo>
+        <unidadTiempo>DIAS</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>ASF-001</codigoPrincipal>
+      <codigoAuxiliar>ASF-001</codigoAuxiliar>
+      <descripcion>ACOPLE P/SIFON  1 1/2</descripcion>
+      <cantidad>25.0000</cantidad>
+      <precioUnitario>0.1200</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.00</baseImponible>
+          <valor>0.36</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ASF-002</codigoPrincipal>
+      <codigoAuxiliar>ASF-002</codigoAuxiliar>
+      <descripcion>ACOPLE P/SIFON  1 1/4</descripcion>
+      <cantidad>25.0000</cantidad>
+      <precioUnitario>0.1300</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.25</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>3.25</baseImponible>
+          <valor>0.39</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>GRF-016</codigoPrincipal>
+      <codigoAuxiliar>GRF-016</codigoAuxiliar>
+      <descripcion>LLAVE CAMPANOLA P/CROMADO BRONCE (3402)</descripcion>
+      <cantidad>12.0000</cantidad>
+      <precioUnitario>6.2790</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>75.35</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>75.35</baseImponible>
+          <valor>9.04</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ICH-017</codigoPrincipal>
+      <codigoAuxiliar>ICH-017</codigoAuxiliar>
+      <descripcion>METALICA. REJILLA P/PISO 2</descripcion>
+      <cantidad>30.0000</cantidad>
+      <precioUnitario>1.7860</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>53.58</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>53.58</baseImponible>
+          <valor>6.43</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>TAM-004</codigoPrincipal>
+      <codigoAuxiliar>TAM-004</codigoAuxiliar>
+      <descripcion>T. ABASTO MET 1/2 X 5/8 MACHO-HEMBRA O.S</descripcion>
+      <cantidad>30.0000</cantidad>
+      <precioUnitario>1.7340</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>52.02</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>52.02</baseImponible>
+          <valor>6.24</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO C02</codigoPrincipal>
+      <codigoAuxiliar>ADO C02</codigoAuxiliar>
+      <descripcion>OROSTYLE CODO DESAGUE 75mm x 90 E/C</descripcion>
+      <cantidad>30.0000</cantidad>
+      <precioUnitario>1.0630</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>31.89</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>31.89</baseImponible>
+          <valor>3.83</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO SC3</codigoPrincipal>
+      <codigoAuxiliar>ADO SC3</codigoAuxiliar>
+      <descripcion>OROSTYLE CODO DESAGUE 110mm x 45 E/C</descripcion>
+      <cantidad>80.0000</cantidad>
+      <precioUnitario>1.7340</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>138.72</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>138.72</baseImponible>
+          <valor>16.65</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO T01</codigoPrincipal>
+      <codigoAuxiliar>ADO T01</codigoAuxiliar>
+      <descripcion>OROSTYLE TEE DESAGUE 50mm</descripcion>
+      <cantidad>20.0000</cantidad>
+      <precioUnitario>0.6550</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>13.10</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>13.10</baseImponible>
+          <valor>1.57</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO S02</codigoPrincipal>
+      <codigoAuxiliar>ADO S02</codigoAuxiliar>
+      <descripcion>OROSTYLE SIFON DESAGUE 75mm</descripcion>
+      <cantidad>12.0000</cantidad>
+      <precioUnitario>3.5660</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>42.79</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>42.79</baseImponible>
+          <valor>5.13</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO S03</codigoPrincipal>
+      <codigoAuxiliar>ADO S03</codigoAuxiliar>
+      <descripcion>OROSTYLE SIFON DESAGUE 110mm</descripcion>
+      <cantidad>12.0000</cantidad>
+      <precioUnitario>5.7630</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>69.16</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>69.16</baseImponible>
+          <valor>8.30</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO Y02</codigoPrincipal>
+      <codigoAuxiliar>ADO Y02</codigoAuxiliar>
+      <descripcion>OROSTYLE YEE DESAGUE 75mm</descripcion>
+      <cantidad>12.0000</cantidad>
+      <precioUnitario>1.5340</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>18.41</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>18.41</baseImponible>
+          <valor>2.21</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO YR2</codigoPrincipal>
+      <codigoAuxiliar>ADO YR2</codigoAuxiliar>
+      <descripcion>OROSTYLE YEE RED DESAGUE 110 X 50mm</descripcion>
+      <cantidad>48.0000</cantidad>
+      <precioUnitario>2.0680</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>99.26</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>99.26</baseImponible>
+          <valor>11.91</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO R01</codigoPrincipal>
+      <codigoAuxiliar>ADO R01</codigoAuxiliar>
+      <descripcion>OROSTYLE REDUCTOR DESAGUE 75 X 50mm</descripcion>
+      <cantidad>20.0000</cantidad>
+      <precioUnitario>0.8390</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>16.78</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>16.78</baseImponible>
+          <valor>2.01</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>ADO R02</codigoPrincipal>
+      <codigoAuxiliar>ADO R02</codigoAuxiliar>
+      <descripcion>OROSTYLE REDUCTOR DESAGUE 110 X 50mm</descripcion>
+      <cantidad>20.0000</cantidad>
+      <precioUnitario>1.0510</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>21.02</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="PorDcto" valor="0.00%"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>21.02</baseImponible>
+          <valor>2.52</valor>
+        </impuesto>
+        <impuesto>
+          <codigo>3</codigo>
+          <codigoPorcentaje>3680</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Ciudad">GUAYAS/GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Direccion">CAPITAN NAJERA 1514 B Y AV QUITO</campoAdicional>
+    <campoAdicional nombre="Telefono">0992065468</campoAdicional>
+    <campoAdicional nombre="Email">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="Cobranza">CREDITO 30 DIAS</campoAdicional>
+    <campoAdicional nombre="Nota">DEBO Y PAGARE INCONDICIONALMENTE, A LA ORDEN DE LOAYZA VILLA ROBERTH CESAR. A LA PRESENTACION DE ESTA FACTURA, LA CANTIDAD QUE APARECE EN EL TOTAL DE ESTE DOCUMENTO, MAS EL INTERES DE MORA DESDE SU VENCIMIENTO ASI COMO EL ADICIONAL DE MORA PERMITIDO POR LA LEY SIN PROTESTO.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature67475">
+<ds:SignedInfo Id="Signature-SignedInfo226404">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID609603" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature67475-SignedProperties903780">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Fiwkdql9M7I7nM0B6TVCP3LcIQU=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1576123">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>DH80i3EC/ZzBNFQHeRBDP59NTdw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-150846" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>cHcr9b2o2dpzsFUinjSeHEW0Rvo=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue987208">
+IXSSgwOGIfH0Rg6P8GsdiV0/jwofoXg99v3Bq9BeTItDhpLES1XVtsV8nt3zv6Z6ZC8pBFBybbx0
+vIaBwrU4GcCOngqNLoE0YBx7g1/z6VRdkY2JECGacAHFtcSaN7gArsOgkLiUt3kUwYxrD+sYSp2S
+bcEUiPZIJIu3I5vpp6dOxqGJn7D0XATo5qdbfe5myTRIB3/SoimYqwVUulfOfPVAQjoVT45srJ6/
+P05AQ7n2lESlzwUjJsSehCgwSjPvOB9qMP5eFfqBJSUypxHGDLH5mMxPitQ+1bGw5CtNHlp/ciLM
+ZhUIBWjqP/6t6ICDQiQ32FkrxdJ04dSQt//ykw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1576123">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJVzCCCD+gAwIBAgIEXczj8TANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0yMDA0MjEwMjIzMjZaFw0yMjA0MjEwMjUzMjZaMIGWMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xODATBgNVBAUTDDIwMDQyMDIxNTAzODAhBgNVBAMT
+GlJPQkVSVEggQ0VTQVIgTE9BWVpBIFZJTExBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKC
+AQEA8Y6tJdmucSF0yRm4FPIeP2y7+cSHf2ZghhBd3GdmKZoqSfWF7laOBlMYoUOIerPahfwpI22E
+8HrBMFz9N8xE9sTFe1Dv78VAEe9Evdrk6VvNibuuKbVEAIYDaIBnZSO43pMmJmrkWSxNWjQfy7Gp
+wAlCNIEILjseoG74pIUndNkLZeQYpg7wT8Xr0RX5xsFBq1tL/S+vwEJcVg5y7W6QLjmSQkYIarhh
+UNJZO+cofFaX7Zu6DLaoIMF6BmmKcHCcPkV4ReKpVryFeMo+kevk1Jul8OJT1PnPNw7jfl1aYEMv
+LGcgbE+ac012+ISt3Xyw9m43Sqnagfpl09tda27tjwIDAQABo4IFrDCCBagwCwYDVR0PBAQDAgXg
+MFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBxAYDVR0gBIG8MIG5MDwGCisGAQQB
+gqZyAgcwLjAsBggrBgEFBQcCAjAgGh5DZXJ0aWZpY2FkbyBkZSBQZXJzb25hIE5hdHVyYWwweQYK
+KwYBBAGCpnICATBrMGkGCCsGAQUFBwIBFl1odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVj
+L2xleWVzX25vcm1hdGl2YXMvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJh
+bC5wZGYwGgYKKwYBBAGCpnIDAQQMEwowNzAzNzE2MTE4MB0GCisGAQQBgqZyAwIEDxMNUk9CRVJU
+SCBDRVNBUjAWBgorBgEEAYKmcgMDBAgTBkxPQVlaQTAVBgorBgEEAYKmcgMEBAcTBVZJTExBMDYG
+CisGAQQBgqZyAwcEKBMmSUdOQUNJTyBBU0lOIE41Mi04MSBZIEFNQUxJQSBFR1VJR1VSRU4wGwYK
+KwYBBAGCpnIDCAQNEws1OTM5MzUwMDI1MjAVBgorBgEEAYKmcgMJBAcTBVFVSVRPMBcGCisGAQQB
+gqZyAwwECRMHRUNVQURPUjAdBgorBgEEAYKmcgMLBA8TDTA3MDM3MTYxMTgwMDEwHwYKKwYBBAGC
+pnIDIAQREw8wMDIwMDEwMDAwNDYxNzMwEwYKKwYBBAGCpnIDIQQFEwNQRlgwIQYDVR0RBBowGIEW
+b3JvcGxhc3Q3OEBob3RtYWlsLmNvbTCCAnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRw
+Oi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3Nw
+hoHVbGRhcDovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDY4OCxjbj1BVVRPUklE
+QUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURB
+RCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERB
+VEElMjBTLkEuLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9k
+aXJlY3Quc2VjdXJpdHlkYXRhLm5ldC5lYy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9u
+X3N1Yl9zZWN1cml0eV9kYXRhX2VudGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lv
+bl9jdXJpdHlfZGF0YV9zLmEuX2NfZWNfY3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRsw
+GQYDVQQKExJTRUNVUklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCIFNFQ1VSSVRZIERBVEExDzANBgNVBAMTBkNSTDY4ODArBgNVHRAEJDAigA8yMDIwMDQyMTAy
+MjMyNlqBDzIwMjIwNDIxMDI1MzI2WjAfBgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAd
+BgNVHQ4EFgQUjo6LffZEUAka1ovygLZF9wWbtN4wCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAK
+GwRWOC4xAwIDqDANBgkqhkiG9w0BAQsFAAOCAQEAWG5V8B10ikHVCuzdtsFNuNjOgyWgCP1qFkbo
+6gM2YHo3S7gQrBTUFqbK4WADOPe/xPKpPd3eJsVsJeC2D+oF9KQLmQ1bqUErOERVNyciGVwEWgqk
+64ZXvLFzgVEqCnZGOeduW/8HbQP3iQFa6j/qZURKsQnnmHl+cJkdOUVuK6cIHd5i+3SuklHvHCpN
+lgt+rtQncmni0z2AGsNyubnwXJIbmMOiQj/u0aip9XDTU2EVXlHigb8oSSSabswyPUzkCCtSMiJp
+YbzxLaOy2Q4oxDL1rw9OWaZ3cpuIUWzGB0cZe4A7GvBl6FWFQ8mtwzAk7jRzYEg+2Clh0wBi8gbT
+0Q==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+8Y6tJdmucSF0yRm4FPIeP2y7+cSHf2ZghhBd3GdmKZoqSfWF7laOBlMYoUOIerPahfwpI22E8HrB
+MFz9N8xE9sTFe1Dv78VAEe9Evdrk6VvNibuuKbVEAIYDaIBnZSO43pMmJmrkWSxNWjQfy7GpwAlC
+NIEILjseoG74pIUndNkLZeQYpg7wT8Xr0RX5xsFBq1tL/S+vwEJcVg5y7W6QLjmSQkYIarhhUNJZ
+O+cofFaX7Zu6DLaoIMF6BmmKcHCcPkV4ReKpVryFeMo+kevk1Jul8OJT1PnPNw7jfl1aYEMvLGcg
+bE+ac012+ISt3Xyw9m43Sqnagfpl09tda27tjw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature67475-Object155152"><etsi:QualifyingProperties Target="#Signature67475"><etsi:SignedProperties Id="Signature67475-SignedProperties903780"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-14T13:58:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>VqFWVcNqSwUrr51P1B5B85xgyfs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573708785</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-150846"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0504202201099310586400120010100000407540004075410</numeroAutorizacion>
+<fechaAutorizacion>2022-04-05T15:20:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DISTRIBUIDORES FERRETEROS ECUATORIANOS DIFERREC S.A.</razonSocial>
+    <nombreComercial>DISTRIBUIDORES FERRETEROS ECUATORIANOS DIFERREC S.A.</nombreComercial>
+    <ruc>0993105864001</ruc>
+    <claveAcceso>0504202201099310586400120010100000407540004075410</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>010</ptoEmi>
+    <secuencial>000040754</secuencial>
+    <dirMatriz>VIA A DAULE KM 10 PALMERAS S/N Y CASUARINAS</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>05/04/2022</fechaEmision>
+    <dirEstablecimiento>VIA A DAULE KM 10 PALMERAS S/N Y CASUARINAS</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>CAPITÁN NAJERA 1514 B Y AVENIDA QUITO</direccionComprador>
+    <totalSinImpuestos>190.60</totalSinImpuestos>
+    <totalDescuento>58.10</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>190.60</baseImponible>
+        <valor>22.87</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>213.47</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>213.47</total>
+        <plazo>30.00</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1220022</codigoPrincipal>
+      <descripcion>UNION PVC DESAGÜE 110MM  </descripcion>
+      <cantidad>10.000000</cantidad>
+      <precioUnitario>1.790000</precioUnitario>
+      <descuento>5.01</descuento>
+      <precioTotalSinImpuesto>12.89</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>12.89</baseImponible>
+          <valor>1.55</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1630058</codigoPrincipal>
+      <descripcion>TOMACORRIENTE 2P+T CON 2 PUERTOS USB BEIGE NOVO</descripcion>
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>5.770000</precioUnitario>
+      <descuento>26.54</descuento>
+      <precioTotalSinImpuesto>88.86</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>88.86</baseImponible>
+          <valor>10.66</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1630059</codigoPrincipal>
+      <descripcion>TOMACORRIENTE 2P+T CON 2 PUERTOS USB BLANCO NOVO</descripcion>
+      <cantidad>20.000000</cantidad>
+      <precioUnitario>5.770000</precioUnitario>
+      <descuento>26.54</descuento>
+      <precioTotalSinImpuesto>88.86</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>88.86</baseImponible>
+          <valor>10.66</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Cliente">15280</campoAdicional>
+    <campoAdicional nombre="Nombre Comercial">LINDAO VILLAMAR IRANIA ELIZABETH</campoAdicional>
+    <campoAdicional nombre="Telf.">0</campoAdicional>
+    <campoAdicional nombre="Dirección">CAPITÁN NAJERA 1514 B Y AVENIDA QUITO</campoAdicional>
+    <campoAdicional nombre="# Factura">41289</campoAdicional>
+    <campoAdicional nombre="Egreso">42438</campoAdicional>
+    <campoAdicional nombre="Pedido">46819</campoAdicional>
+    <campoAdicional nombre="E-MAIL">imporfer.ventas@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Emails Adicionales">imporfer.ventas@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Email Retenciones">retenciones@diferrec.com</campoAdicional>
+    <campoAdicional nombre="Mensaje">Gracias por confiar en DIFERREC S.A.</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature917560">
+<ds:SignedInfo Id="Signature-SignedInfo559555">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID476757" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature917560-SignedProperties605074">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CxCDfIyNw85UKb2WJuWNnlpiNpg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1164761">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>CkbXc2PN8Mj3aJtAFdPIYBcGtuQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-487400" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DZ1vJmI8FDYFQ9pGksGY4OCFW08=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1028869">
+ClQjZLMHV8wYBzhjaHAgKwYt2W2cDw35q8cZFxouMatPYReYPR+f6fudZuCpZ4hD6VaG/i+Qn4ax
+3/3fvAjKLZMg5HWJJCbKkhrIwDoymKnxJ9ihtzqkO/wLyzk7XlnHEq9nwQrevCt0+fdbjXfThFEH
+Q11KNotTLVt/0PneqUuJrsod0gIJD4HBtSxBYo6MPFTtnSFxpeyDIVnOrVPCSrOF6X51rEEbE8GU
+MuLZOIPavmK7iAKf5AYyiqhO7LLOwjmfgzzNzllogQdtDYFJJ4BUsCpE3Lgd/WERWkcw+VNbrGVs
+xZdWnEIZSy8qAoe7EQtHUwk8Ib+WNsUEZOBvWQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1164761">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJvjCCCKagAwIBAgIEVNJ9VTANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xODEwMDIxNzA2NDhaFw0yMzEwMDIxNzM2NDhaMIGXMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTATBgNVBAUTDDAyMTAxODEyMzE1OTAiBgNVBAMT
+G0hFQ1RPUiBBTlRPTklPIExBTSBQQUxBQ0lPUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAKA/Cm7BEWTcr/KFxj8juUdXqkl0DRyXhiuXpy0IUdX8qkcEz1x37fiDrM1rdcsmKLyS2CHD
+m+oN00wcvljFWu65kIyTMNLMSgxhMcv7IjSa1krDv0rLJV3TWYcozoStaRNVZFGRk2K8+VF8Cy0r
+SVuuxnViQptEboUHNxjKgOyR7QJC4TFw0I0BB8XAW0znE4KmyqmkK1AofZbzUhYkGXsggmMgfv53
+TATqUzOyVGECk6O7v4hv+HXdvRK6gJSExrO9Qq8KIQ/AhFGBpkMIG6Y25YCjjNYLrr4GYPK2YFua
+y1LACDNeoWg15VUxm8Kxx+Il1CZS57HVItoKMFVx6SsCAwEAAaOCBhIwggYOMAsGA1UdDwQEAwIF
+4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcwGA1UdIASBxDCBwTBABgorBgEE
+AYKmcgIJMDIwMAYIKwYBBQUHAgIwJBoiQ2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50ZSBMZWdh
+bDB9BgorBgEEAYKmcgIDMG8wbQYIKwYBBQUHAgEWYWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvbGV5ZXNfbm9ybWF0aXZhcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwRAYKKwYBBAGCpnIDCgQ2EzRESVNUUklCVUlET1JFUyBGRVJSRVRFUk9T
+IEVDVUFUT1JJQU5PUyBESUZFUlJFQyBTLkEuMB0GCisGAQQBgqZyAwsEDxMNMDk5MzEwNTg2NDAw
+MTAaBgorBgEEAYKmcgMBBAwTCjA5MTgyMDY1MDkwHgYKKwYBBAGCpnIDAgQQEw5IRUNUT1IgQU5U
+T05JTzATBgorBgEEAYKmcgMDBAUTA0xBTTAYBgorBgEEAYKmcgMEBAoTCFBBTEFDSU9TMB8GCisG
+AQQBgqZyAwUEERMPR0VSRU5URSBHRU5FUkFMMCkGCisGAQQBgqZyAwcEGxMZUEFMTUVSQVMgUy9O
+IFkgQ0FTVUFSSU5BUzAbBgorBgEEAYKmcgMIBA0TCzU5MzQyMTEzNzAwMBkGCisGAQQBgqZyAwkE
+CxMJR1VBWUFRVUlMMBcGCisGAQQBgqZyAwwECRMHRUNVQURPUjAfBgorBgEEAYKmcgMgBBETDzAw
+MTAwMjAwMDAxOTI4MjATBgorBgEEAYKmcgMhBAUTA1BGWDAgBgNVHREEGTAXgRVqbWVkaW5hQHBy
+b2NlcGxhcy5jb20wggJ7BgNVHR8EggJyMIICbjCCAmqgggJmoIICYoY9aHR0cDovL29jc3Bndy5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcIaB1WxkYXA6Ly9k
+aXJlY3Quc2VjdXJpdHlkYXRhLm5ldC5lYy9jbj1DUkwyNjYsY249QVVUT1JJREFEJTIwREUlMjBD
+RVJUSUZJQ0FDSU9OJTIwU1VCJTIwU0VDVVJJVFklMjBEQVRBLG91PUVOVElEQUQlMjBERSUyMENF
+UlRJRklDQUNJT04lMjBERSUyMElORk9STUFDSU9OLG89U0VDVVJJVFklMjBEQVRBJTIwUy5BLixj
+PUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYaBnmh0dHBzOi8vZGlyZWN0LnNlY3Vy
+aXR5ZGF0YS5uZXQuZWMvfmNybC9hdXRvcmlkYWRfZGVfY2VydGlmaWNhY2lvbl9zdWJfc2VjdXJp
+dHlfZGF0YV9lbnRpZGFkX2RlX2NlcnRpZmljYWNpb25fZGVfaW5mb3JtYWNpb25fY3VyaXR5X2Rh
+dGFfcy5hLl9jX2VjX2NybGZpbGUuY3JspIGnMIGkMQswCQYDVQQGEwJFQzEbMBkGA1UEChMSU0VD
+VVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xNTAzBgNVBAMTLEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQiBTRUNVUklU
+WSBEQVRBMQ8wDQYDVQQDEwZDUkwyNjYwKwYDVR0QBCQwIoAPMjAxODEwMDIxNzA2NDhagQ8yMDIz
+MTAwMjE3MzY0OFowHwYDVR0jBBgwFoAU9y9M4HXnYqN4llsGti5xO8xsP5AwHQYDVR0OBBYEFIPR
+6nZZu2+fBdKn5YTbFJj975D7MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsEVjguMQMCA6gw
+DQYJKoZIhvcNAQELBQADggEBAA7KJcCPfr2UPaRBoGXk84Jl9tJ/wscUbQ0UCqTyxQVQgepwU+rM
+JV1UYA+N+54pBpwu8RI2M9hk33zCU0caLE25M3cV2jOAkR/lbY4VLILUJweXm7snMwR2ZE87g9WK
+7X0kl1Gu1HYCK8d5307BPvEBjMGkA/6BzqTR857nAx75nxRU3kuuP+E1HkrobsHpzdxgMPzA9xyA
+shcgSsQZLRMbgl27J4PedDKzVQE7w/fPmKCq5MSs124wmpXCp4uGsbIf+3B9st+1ka3ES/dZNcob
+1xPF7SgP1UyLzxKAChOSfuBSubt7mKC0VWgTRYGXUfyCV9DM/0+o1JZcNF2PvZc=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oD8KbsERZNyv8oXGPyO5R1eqSXQNHJeGK5enLQhR1fyqRwTPXHft+IOszWt1yyYovJLYIcOb6g3T
+TBy+WMVa7rmQjJMw0sxKDGExy/siNJrWSsO/SsslXdNZhyjOhK1pE1VkUZGTYrz5UXwLLStJW67G
+dWJCm0RuhQc3GMqA7JHtAkLhMXDQjQEHxcBbTOcTgqbKqaQrUCh9lvNSFiQZeyCCYyB+/ndMBOpT
+M7JUYQKTo7u/iG/4dd29ErqAlITGs71CrwohD8CEUYGmQwgbpjblgKOM1guuvgZg8rZgW5rLUsAI
+M16haDXlVTGbwrHH4iXUJlLnsdUi2gowVXHpKw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature917560-Object810698"><etsi:QualifyingProperties Target="#Signature917560"><etsi:SignedProperties Id="Signature917560-SignedProperties605074"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-05T15:20:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>0ujZspQetjvaGCuhP0aZzuiUQFU=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1423080789</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-487400"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

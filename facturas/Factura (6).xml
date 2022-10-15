@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0404202201019047834300120010100000216060002160611</numeroAutorizacion>
+<fechaAutorizacion>2022-04-04T17:49:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+		<tipoEmision>1</tipoEmision>
+		<razonSocial>IMPORTADORA ANCORP CIA LTDA</razonSocial>
+		<nombreComercial>ESTABLECIMIENTO MATRIZ</nombreComercial>
+		<ruc>0190478343001</ruc>
+		<claveAcceso>0404202201019047834300120010100000216060002160611</claveAcceso>
+		<codDoc>01</codDoc>
+		<estab>001</estab>
+		<ptoEmi>010</ptoEmi>
+		<secuencial>000021606</secuencial>
+		<dirMatriz>PANAMERICANA NORTE SN</dirMatriz>
+	</infoTributaria>
+	<infoFactura>
+		<fechaEmision>04/04/2022</fechaEmision>
+		<dirEstablecimiento>PANAMERICANA NORTE SN</dirEstablecimiento>
+		<obligadoContabilidad>SI</obligadoContabilidad>
+		<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+		<razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+		<identificacionComprador>0932042500001</identificacionComprador>
+		<direccionComprador>GUAYAQUIL / CAPITAN NAGERA 1514B Y QUITO</direccionComprador>
+		<totalSinImpuestos>2.85</totalSinImpuestos>
+		<totalDescuento>0</totalDescuento>
+		<totalConImpuestos>
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>2</codigoPorcentaje>
+				<baseImponible>2.85</baseImponible>
+				<valor>0.34</valor>
+			</totalImpuesto>
+		</totalConImpuestos>
+		<propina>0.00</propina>
+		<importeTotal>3.19</importeTotal>
+		<moneda>DOLAR</moneda>
+		<pagos>
+			<pago>
+				<formaPago>20</formaPago>
+				<total>3.19</total>
+				<plazo>30</plazo>
+				<unidadTiempo>dias</unidadTiempo>
+			</pago>
+		</pagos>
+	</infoFactura>
+	<detalles>
+		<detalle>
+			<codigoPrincipal>DL0001</codigoPrincipal>
+			<descripcion>LOGISTICA MATRIZ PRINCIPAL</descripcion>
+			<cantidad>1.0000</cantidad>
+			<precioUnitario>2.8500</precioUnitario>
+			<descuento>0</descuento>
+			<precioTotalSinImpuesto>2.85</precioTotalSinImpuesto>
+			<impuestos>
+				<impuesto>
+					<codigo>2</codigo>
+					<codigoPorcentaje>2</codigoPorcentaje>
+					<tarifa>12.00</tarifa>
+					<baseImponible>2.85</baseImponible>
+					<valor>0.34</valor>
+				</impuesto>
+			</impuestos>
+		</detalle>
+	</detalles>
+	<infoAdicional>
+		<campoAdicional nombre="CORREOELECTRONICO">imporfer.ventas@hotmail.com, roberto.villacreces@ancorp.net</campoAdicional>
+		<campoAdicional nombre="CONTROL">0301A0021606</campoAdicional>
+		<campoAdicional nombre="REFERENCIA">4063.46</campoAdicional>
+		<campoAdicional nombre="OBSERVACIONES">F-21566/LC43682577</campoAdicional>
+		<campoAdicional nombre="VENDEDOR">00016 ROBERTO VILLACRECES</campoAdicional>
+		<campoAdicional nombre="FORMA_PAGO">CREDITO</campoAdicional>
+		<campoAdicional nombre="FECHA_VENCIMIENTO">04/05/2022</campoAdicional>
+	</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1012327">
+<ds:SignedInfo Id="Signature-SignedInfo398167">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID855268" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1012327-SignedProperties972319">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RKvMzRMUK1DHnz+u8y46Q5Fso9o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1588395">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pm72GHVwXwVbaZzqkcEBhp/s2gc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-838911" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WUtybLAAOxEMBix98+HrquC5bf4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue977317">
+IhUJAxbV569Xhdah+dKLh7+TMuld8YwS5g91kM8Lm9CkgMx6xcdnxNrejRm/zIEX+bD5bxVEiUM8
+uqPN4vyW189xY/rqA0rYTDqZHNvfsBdkPQJ299KpsWzaVsFPXE/rAD+sa2TGTUr3tEZNnXnsyuCa
+XXHHxuEVoO1JtBt9tPLSuQQmE5wHcC+sWgYkMnnUA+XJcLUmonPbI+fRGYUxAI5xgNsJDtU9t2YG
+oAAUF2aaKptJg99o1iWszd7V061s17HalrDv42JXii8qiQADaoxBKroNmJHWpEKOE3ZPu/v2Dfj3
+RqiLNxgJiiujL+Iuwdtar1WScUf6JRoX6dJKew==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1588395">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ6TCCB9GgAwIBAgIEW2oJxzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIxMDcyODE0MjU1OVoXDTIzMDcyODE0NTU1
+OVowgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE2MBEGA1UEBRMKMDAwMDY2ODcxMDAhBgNVBAMTGkFOQSBFU1RFRkFOSUEg
+Q09FTExPIExPUEVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4D92d8jc7jZIl3PG
+8HnKlTmcPvWKSX9nAILfR2nO5rqq9jfsbDUQEWWnFf/T+PGA7WN+ms8s8wINf3XakmmOjlzBQL1o
+88l2fl2ce/RoVq7JFEPZ+ubftcyOlhdIDtexwi/hy/wlDZv3s4pqL2epCoC6towExdUqF00g2AXP
+Oj2wvmI+620lGH9OEtxrc5+sW+J5C6lfnW5ar/r/WhNhee58MLmVGbImcrBEtPDQxVsriGzqqBbI
+BV3d77NNc0Ng+jCfAZx4YpEIo03GpW4kCfM91EjFCb54x436w+q/M15KL5h+klkHHH3nlMH6g08K
+9hOZFz+LncYYKMDQXsic2QIDAQABo4IFFDCCBRAwCwYDVR0PBAQDAgeAMGcGA1UdIARgMF4wXAYL
+KwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0aWNh
+LWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDArBgorBgEEAYKoOwMKBB0TG0lNUE9SVEFET1JBIEFOQ09SUCBDSUEgTFREQTAd
+BgorBgEEAYKoOwMLBA8TDTAxOTA0NzgzNDMwMDEwGgYKKwYBBAGCqDsDAQQMEwowMTA0NDQ0Mjg2
+MB0GCisGAQQBgqg7AwIEDxMNQU5BIEVTVEVGQU5JQTAWBgorBgEEAYKoOwMDBAgTBkNPRUxMTzAV
+BgorBgEEAYKoOwMEBAcTBUxPUEVaMB8GCisGAQQBgqg7AwUEERMPR0VSRU5URSBHRU5FUkFMMCUG
+CisGAQQBgqg7AwcEFxMVUEFOQU1FUklDQU5BIE5PUlRFIFNOMBkGCisGAQQBgqg7AwgECxMJMDcy
+ODA5NDc1MBYGCisGAQQBgqg7AwkECBMGQ3VlbmNhMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAg
+BgorBgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wIAYDVR0RBBkwF4EVYW5hLmNvZWxsb0Bh
+bmNvcnAubmV0MIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBz
+dWJwMS5iY2UuZWMvY249Q1JMMTMyMSxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVD
+VUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZP
+Uk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2Vy
+dGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2Vj
+aV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFO
+Q08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNP
+IENFTlRSQUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDEzMjEwKwYDVR0QBCQwIoAPMjAyMTA3
+MjgxNDI1NTlagQ8yMDIzMDcyODE0NTU1OVowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnB
+lKswHQYDVR0OBBYEFKpPncyY1yHaaYQhCQ1GI1AaEeo3MAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EA
+BAwwChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAIrueDr1SVFQa9CYJfg1RuQlklP17ads
+nyke3MU8S31WTdMcBhlPMq+1HqeLuFfw0LVBHfo42IcUKHfA3EiPTyJ3FBUTDM5EgxegqXWXXc1A
+v4pWMbIXgMVs+sgkktvVtXYdA0nTjZR0Dn2LLUoc0td1B2gh9ehwsM5goQOP/tDK5essSg2i8zWE
+oG13GaCtIYDbUOwp6C0MZyF3IvwZovP6OzLPwHzZCoKI1s5du3u1//3wGZTpV86SNHN53f04cN2Y
+zfAzpalRF16RGyyyvnTyBijuz+42jgTmZcm5U74JgVtB3zG1pvdg2Lmu6rGrjAexZVvGAH9qhxb8
+4Eedlq1Or0emomkM4xnpDedHSCOqFy7gUwhzJRjc3HZ89UUry99TQS1b7Kf7o9r3ayHFGrH26OIu
+Bk8ytUZKArKrPbm6t80QE8xwyZQqRNHzwBjB1jn31Id+Mex53YMeczdJk/bsdoFiqNAz5vP71kmq
+BzqvgWC19XKzFeRJEPuxz4Uch+FqpXVZ72SwkjY0HiEbbc6Nj/1g/eBtUhs/iy+XUCGa4mtIxAo5
+F8jQ16ZIzYFziZuJ3lUVg5KwY336Ba6+GRy2Jciohg3gU/uhSoqdaPqCNEGwVPTfflrIlDakM1zA
+xX/y35RJJ0dNETJ8PisNSqfxnY7YgiykCARFkMNdiWm+
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4D92d8jc7jZIl3PG8HnKlTmcPvWKSX9nAILfR2nO5rqq9jfsbDUQEWWnFf/T+PGA7WN+ms8s8wIN
+f3XakmmOjlzBQL1o88l2fl2ce/RoVq7JFEPZ+ubftcyOlhdIDtexwi/hy/wlDZv3s4pqL2epCoC6
+towExdUqF00g2AXPOj2wvmI+620lGH9OEtxrc5+sW+J5C6lfnW5ar/r/WhNhee58MLmVGbImcrBE
+tPDQxVsriGzqqBbIBV3d77NNc0Ng+jCfAZx4YpEIo03GpW4kCfM91EjFCb54x436w+q/M15KL5h+
+klkHHH3nlMH6g08K9hOZFz+LncYYKMDQXsic2Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1012327-Object46245"><etsi:QualifyingProperties Target="#Signature1012327"><etsi:SignedProperties Id="Signature1012327-SignedProperties972319"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-04T17:42:23-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>UUHRXfJe4g9qTgqYdGnKQoENxxs=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533675975</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-838911"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

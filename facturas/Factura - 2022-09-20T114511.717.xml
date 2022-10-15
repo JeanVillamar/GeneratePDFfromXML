@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2604202201099210562300120011010001182542547813611</numeroAutorizacion>
+<fechaAutorizacion>2022-04-26T18:58:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MEGAPRODUCTOS SA</razonSocial>
+    <nombreComercial>MEGAPRODUCTOS SA</nombreComercial>
+    <ruc>0992105623001</ruc>
+    <claveAcceso>2604202201099210562300120011010001182542547813611</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>101</ptoEmi>
+    <secuencial>000118254</secuencial>
+    <dirMatriz>KM 7.5 vía Daule, Av. doceava 501 entre calle tercera y cuarta</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>26/04/2022</fechaEmision>
+    <dirEstablecimiento>KM 7.5 vía Daule, Av. doceava 501 entre calle tercera y cuarta</dirEstablecimiento>
+    <contribuyenteEspecial>176</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>001-101-000067447</guiaRemision>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>GUAYAQUIL/CAPITÁN NAJERA 1514 B Y AVENIDA QUITO TELEFONO: 0963129624</direccionComprador>
+    <totalSinImpuestos>445.04</totalSinImpuestos>
+    <totalDescuento>379.48</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>445.04</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>53.40</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>498.44</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>498.44</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>SSCN-050</codigoPrincipal>
+      <codigoAuxiliar>SSCN-050</codigoAuxiliar>
+      <descripcion>CONECTOR 1/2" EMT (TC-501)</descripcion>
+      <cantidad>1000.000000</cantidad>
+      <precioUnitario>0.290000</precioUnitario>
+      <descuento>134.70</descuento>
+      <precioTotalSinImpuesto>155.30</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="46.448300" valor="-"></detAdicional>
+        <detAdicional nombre="Desc" valor="46.448300"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>155.30</baseImponible>
+          <valor>18.64</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>SSCP-050</codigoPrincipal>
+      <codigoAuxiliar>SSCP-050</codigoAuxiliar>
+      <descripcion>UNION 1/2" TC-511 EMT</descripcion>
+      <cantidad>1000.000000</cantidad>
+      <precioUnitario>0.310000</precioUnitario>
+      <descuento>144.00</descuento>
+      <precioTotalSinImpuesto>166.00</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="46.451600" valor="-"></detAdicional>
+        <detAdicional nombre="Desc" valor="46.451600"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>166.00</baseImponible>
+          <valor>19.92</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>A-927136</codigoPrincipal>
+      <codigoAuxiliar>A-927136</codigoAuxiliar>
+      <descripcion>CAJA CUADRADA 5X5 PLASTIGAMA</descripcion>
+      <cantidad>54.000000</cantidad>
+      <precioUnitario>4.130000</precioUnitario>
+      <descuento>100.78</descuento>
+      <precioTotalSinImpuesto>122.24</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="45.188900" valor="-"></detAdicional>
+        <detAdicional nombre="Desc" valor="45.188900"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>122.24</baseImponible>
+          <valor>14.67</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>SERV-CIU-001</codigoPrincipal>
+      <codigoAuxiliar>-</codigoAuxiliar>
+      <descripcion>SERVICIO LOGISTICO CIUDAD</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>1.500000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.50</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="0.000000" valor="-"></detAdicional>
+        <detAdicional nombre="Desc" valor="0.000000"></detAdicional>
+        <detAdicional nombre="-" valor="-"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>1.50</baseImponible>
+          <valor>0.18</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">GUAYAQUIL/CAPITÁN NAJERA 1514 B Y AVENIDA QUITO</campoAdicional>
+    <campoAdicional nombre="CIUDAD">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0963129624</campoAdicional>
+    <campoAdicional nombre="VENDEDOR">SANTANA AVILES MAYRA JACQUELINE</campoAdicional>
+    <campoAdicional nombre="EMAIL">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="COMENTARIO">basado en pedidos de cliente 43465. basado en entregas 43361.</campoAdicional>
+    <campoAdicional nombre="RUTA">GUAYAQUIL CENTRO 3</campoAdicional>
+    <campoAdicional nombre="DescuentoGlobal">0.00</campoAdicional>
+    <campoAdicional nombre="NumeroGuia">67447</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature689828">
+<ds:SignedInfo Id="Signature-SignedInfo787030">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID419659" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature689828-SignedProperties909624">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Iy2OtpypOF8+sExD7IdbyyZuJ38=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1234438">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>B+jd2eu/r9+tRHAGyT+SAEE5dxI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-884997" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iFDv2RFGJRcdzkiIIPBqId8qgJA=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue725692">
+o+ORrqt1XsYneyKjeVtF46mZ2tUjSrm12mjg2lifZ4p9RH3r28eQsq19UIfU5aWBDEQsGp8AYqmL
+8ZALqk854OK+vKFk8x7sXU6pBgqnVKJdq3YTRjv2ApnvFhHlcha5gtsPpqFVw91JPxx5+pvCpii9
+h8f9F63sYLdgtUkG0QnFD4xqU7o6S2/kpK9TPH3teY5MUn47Bz0L9/AfPG49zlHJpSZ33ezJhXng
+3WTC8MvkG2b/pBdqQcxY8bYQfO+W+OkD8csm2SRuyzz2sxyeU4JXNMO3AuMCsfvUuX7Uf/IB/zKa
++TJb52qvO+WZWcjLcTdaL2C2et4qUKm8YBkSrw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1234438">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJsDCCCJigAwIBAgIEVNGeejANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xODA3MDIyMTU2MjJaFw0yMzA3MDIyMjI2MjJaMIGXMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTATBgNVBAUTDDI5MDYxODA4NTQxNzAiBgNVBAMT
+G01BUkNPIFRVTElPIEhJREFMR08gTE9ORE9OTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAOLuvYorIjxc8fkR45T/+PTsmi+ATGRq/k8ZDU+BzECWrDD0WK4hF1y4/sl0LoWe4XVYStnj
+LiHrUvA/KwaFDU1K/UUlD1ua5empfOqVXzQ6dqmLpfEw09ZV+2mLADLaVzWW7A0Qojxy21ZqUReG
+jAuGj2U1/xHU2mGlGjXHT/tYBtwdHProCf4ijiCguI/XWvlmnv59f3rfyMwXm/liyWUgkNwTod6y
+BRX2cGZU5Dm5feONGINdAN/jRu1bui3oq0XyMpp+tdIHpsFrAfwzg+cTBVeYRg4wE9UqoDuOVvJk
+tgD9LEfYMCNJ6jXbGJTeBrxNVDpcwqrAkyEGyLRFswkCAwEAAaOCBgQwggYAMAsGA1UdDwQEAwIF
+4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcwGA1UdIASBxDCBwTBABgorBgEE
+AYKmcgIJMDIwMAYIKwYBBQUHAgIwJBoiQ2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50ZSBMZWdh
+bDB9BgorBgEEAYKmcgIDMG8wbQYIKwYBBQUHAgEWYWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvbGV5ZXNfbm9ybWF0aXZhcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50
+YW50ZSBMZWdhbC5wZGYwIgYKKwYBBAGCpnIDCgQUExJNRUdBUFJPRFVDVE9TIFMuQS4wHQYKKwYB
+BAGCpnIDCwQPEw0wOTkyMTA1NjIzMDAxMBoGCisGAQQBgqZyAwEEDBMKMDkxNTYzNDQ2MzAbBgor
+BgEEAYKmcgMCBA0TC01BUkNPIFRVTElPMBcGCisGAQQBgqZyAwMECRMHSElEQUxHTzAXBgorBgEE
+AYKmcgMEBAkTB0xPTkRPTk8wGgYKKwYBBAGCpnIDBQQMEwpQUkVTSURFTlRFMDoGCisGAQQBgqZy
+AwcELBMqMTIgQVZBLiA1MDEgWSBDQUxMRSBURVJDRVJBIFkgQ0FMTEUgQ1VBUlRBMBsGCisGAQQB
+gqZyAwgEDRMLNTkzNDIyNjI2MjgwGQYKKwYBBAGCpnIDCQQLEwlHVUFZQVFVSUwwFwYKKwYBBAGC
+pnIDDAQJEwdFQ1VBRE9SMB8GCisGAQQBgqZyAyAEERMPMDAxMDAyMDAwMDE3NTU4MBMGCisGAQQB
+gqZyAyEEBRMDUEZYMCgGA1UdEQQhMB+BHW1oaWRhbGdvQG1lZ2Fwcm9kdWN0b3MuY29tLmVjMIIC
+ewYDVR0fBIICcjCCAm4wggJqoIICZqCCAmKGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CGgdVsZGFwOi8vZGlyZWN0LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvY249Q1JMMjIzLGNuPUFVVE9SSURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUy
+MFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIw
+REUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFUQSUyMFMuQS4sYz1FQz9jZXJ0aWZpY2F0
+ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5zZWN1cml0eWRhdGEubmV0LmVj
+L35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25fc3ViX3NlY3VyaXR5X2RhdGFfZW50aWRh
+ZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9uX2N1cml0eV9kYXRhX3MuYS5fY19lY19j
+cmxmaWxlLmNybKSBpzCBpDELMAkGA1UEBhMCRUMxGzAZBgNVBAoTElNFQ1VSSVRZIERBVEEgUy5B
+LjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTUwMwYD
+VQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VDVVJJVFkgREFUQTEPMA0GA1UE
+AxMGQ1JMMjIzMCsGA1UdEAQkMCKADzIwMTgwNzAyMjE1NjIyWoEPMjAyMzA3MDIyMjI2MjJaMB8G
+A1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0GA1UdDgQWBBSa1/8m8S4AS9J8SyEL1Haa
+RjeNVjAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgOoMA0GCSqGSIb3DQEBCwUA
+A4IBAQCFsmu6btHDbr23L9u/XBmVpBYRZEP/qG+iBVSvx8Tkep4DJATQtGJ4N0YND2YPevaaOpPK
+NTZ/xqosT3OHPvaqRnQNin1vRuxBY6bP6JbH7/amBlZ/+Lyvhx54teeFYfFuGxFbyILHCLQqJc6R
+JsrLZJGSovgGidqLv4qgsA6uoFjUmiUG4hkglDAFxOD3JjJ3Rx0BxmbN80gr9CtDgGiOcf0pO0gr
+pE5WfoY1uFh20oIsnwt5xc/ajC3z2c0DulG50gWv6LOo0FOXhoiIvbYNm1VnJP6H8eHRagZAAUpD
+sTgW7dtuzrq6EiM+DyGmcjsWUz5Zf2qgrEEw+Zow46Cb
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4u69iisiPFzx+RHjlP/49OyaL4BMZGr+TxkNT4HMQJasMPRYriEXXLj+yXQuhZ7hdVhK2eMuIetS
+8D8rBoUNTUr9RSUPW5rl6al86pVfNDp2qYul8TDT1lX7aYsAMtpXNZbsDRCiPHLbVmpRF4aMC4aP
+ZTX/EdTaYaUaNcdP+1gG3B0c+ugJ/iKOIKC4j9da+Wae/n1/et/IzBeb+WLJZSCQ3BOh3rIFFfZw
+ZlTkObl9440Yg10A3+NG7Vu6LeirRfIymn610gemwWsB/DOD5xMFV5hGDjAT1SqgO45W8mS2AP0s
+R9gwI0nqNdsYlN4GvE1UOlzCqsCTIQbItEWzCQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature689828-Object420870"><etsi:QualifyingProperties Target="#Signature689828"><etsi:SignedProperties Id="Signature689828-SignedProperties909624"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-26T18:57:55-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>VNACUSN6+8RCKZ3Ewgiqv/hK/ZI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1423023738</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-884997"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

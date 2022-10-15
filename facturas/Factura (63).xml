@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1404202201099225623000120103060002463361234567815</numeroAutorizacion>
+<fechaAutorizacion>2022-04-14T10:24:47-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>FERREMUNDO S A</razonSocial>
+    <nombreComercial>FERREMUNDO S.A.</nombreComercial>
+    <ruc>0992256230001</ruc>
+    <claveAcceso>1404202201099225623000120103060002463361234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>010</estab>
+    <ptoEmi>306</ptoEmi>
+    <secuencial>000246336</secuencial>
+    <dirMatriz>VIA A DAULE KM 16,5 MANZANA C-3 SOLAR 28ECU</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/04/2022</fechaEmision>
+    <dirEstablecimiento>KM. 16,5 VIA A DAULE</dirEstablecimiento>
+    <contribuyenteEspecial>0393</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <guiaRemision>010-306-000256344</guiaRemision>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>AV QUITO 2135 Y HUANCAVILCA</direccionComprador>
+    <totalSinImpuestos>5147.64</totalSinImpuestos>
+    <totalDescuento>3299.58</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>0.00</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>5147.64</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>617.72</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>5765.36</importeTotal>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>5765.36</total>
+        <plazo>90</plazo>
+        <unidadTiempo>Días</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>00075457</codigoPrincipal>
+      <codigoAuxiliar>00075457</codigoAuxiliar>
+      <descripcion>BREAKER P/CAJA 1/2- 1P-15A THQP115 GE</descripcion>
+      <cantidad>100.000000</cantidad>
+      <precioUnitario>5.110000</precioUnitario>
+      <descuento>200.62</descuento>
+      <precioTotalSinImpuesto>310.38</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 0,00 5,00 7,74"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>310.38</baseImponible>
+          <valor>37.25</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00075499</codigoPrincipal>
+      <codigoAuxiliar>00075499</codigoAuxiliar>
+      <descripcion>BREAKER P/CAJA 1/2- 1P-20A THQP120 GE</descripcion>
+      <cantidad>700.000000</cantidad>
+      <precioUnitario>5.110000</precioUnitario>
+      <descuento>1404.35</descuento>
+      <precioTotalSinImpuesto>2172.65</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 0,00 5,00 7,74"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>2172.65</baseImponible>
+          <valor>260.72</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00381665</codigoPrincipal>
+      <codigoAuxiliar>00381665</codigoAuxiliar>
+      <descripcion>BREAKER P/CAJA 1/2- 1P-30A THQP130 GE</descripcion>
+      <cantidad>700.000000</cantidad>
+      <precioUnitario>5.110000</precioUnitario>
+      <descuento>1404.35</descuento>
+      <precioTotalSinImpuesto>2172.65</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 0,00 5,00 7,74"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>2172.65</baseImponible>
+          <valor>260.72</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00410159</codigoPrincipal>
+      <codigoAuxiliar>00410159</codigoAuxiliar>
+      <descripcion>BREAKER SOBREPUESTO 1P-50A THQC1150WL GE</descripcion>
+      <cantidad>48.000000</cantidad>
+      <precioUnitario>7.670000</precioUnitario>
+      <descuento>137.29</descuento>
+      <precioTotalSinImpuesto>230.87</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 0,00 5,00 4,75"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>230.87</baseImponible>
+          <valor>27.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00410142</codigoPrincipal>
+      <codigoAuxiliar>00410142</codigoAuxiliar>
+      <descripcion>BREAKER SOBREPUESTO 1P-40A THQC1140WL GE</descripcion>
+      <cantidad>48.000000</cantidad>
+      <precioUnitario>7.670000</precioUnitario>
+      <descuento>137.29</descuento>
+      <precioTotalSinImpuesto>230.87</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 0,00 5,00 4,75"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>230.87</baseImponible>
+          <valor>27.70</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>00627110</codigoPrincipal>
+      <codigoAuxiliar>00627110</codigoAuxiliar>
+      <descripcion>TALADRO PERCUTOR 1/2- 750W 2800RPM CT10129 CROWN</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>45.900000</precioUnitario>
+      <descuento>15.68</descuento>
+      <precioTotalSinImpuesto>30.22</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Unidades" valor="UNIDAD"></detAdicional>
+        <detAdicional nombre="Bodega" valor="1200"></detAdicional>
+        <detAdicional nombre="Descuentos" valor="30,00 1,00 0,00 5,00 0,00 0,00"></detAdicional>
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>30.22</baseImponible>
+          <valor>3.63</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Establecimiento">FERREMUNDO</campoAdicional>
+    <campoAdicional nombre="Email">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="Dirección del cliente">AV QUITO 2135 Y HUANCAVILCA</campoAdicional>
+    <campoAdicional nombre="Teléfono del cliente">0958923960-042999999</campoAdicional>
+    <campoAdicional nombre="Proforma">OV-000966146</campoAdicional>
+    <campoAdicional nombre="Forma de Pago">V 30 60 90</campoAdicional>
+    <campoAdicional nombre="Factura interna">FC 010-306-000246336</campoAdicional>
+    <campoAdicional nombre="Dividendo-1">14/05/2022-$1921.59</campoAdicional>
+    <campoAdicional nombre="Dividendo-2">13/06/2022-$1921.59</campoAdicional>
+    <campoAdicional nombre="Dividendo-3">13/07/2022-$1922.18</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature971525">
+<ds:SignedInfo Id="Signature-SignedInfo567612">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID292325" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature971525-SignedProperties136924">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>6PTc7DVZIGqtPf+IszR+cSXZEKk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1909215">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>Uo8fQ1fpPGueLrS0mD8Proo3bJ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-829419" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>AD+tt0T5GwS22Pj8y7vjmlixVYg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue727374">
+l1YnjZGL5iFTheb952hywMbEMcitfanvn+in0DqhdugTUnkOVe+unUExC6hLaF9WUOcrMyNcqzR0
+P6+DLAer8lg4DB22tR5fElRD8Ex6KRCJQZ8qouGIhu/1/u7SQmym9ovOqaNpT2sh8oBruCjSxInB
+z+BjEAm1FJUMNe/VidSjvGpDiveu71z8U916f/ZX+X6J5FU64/+VrsEq9IjUB1HnvlKuILOmzr2c
+6u8TthsYL/7AVAzag6wWDxZX3PWD/lESpPzxfo19Sr1SIHD26xv22XBZ7v7C8yXD7M6Tyi3N6kH/
+5chUKEE+CIlUrD9K8vyZtJBllb2I/REDOqpvfQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1909215">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJvTCCCKWgAwIBAgIEXcztqTANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0yMDA0MjIwMDQ1MjRaFw0yMzA0MjIwMTE1MjRaMIGZMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOzATBgNVBAUTDDIxMDQyMDIwMTEzOTAkBgNVBAMT
+HUZSRUREWSBMRU9QT0xETyBNRU5ERVogR0FSQ0lBMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAssIGNaJ+p65jLIXvb2Ms6Z/LQg0ssg7JPymddd8VhGCfKxW7dY0PXX9QYxZyiSaPWeuH
+gUVUv+tYLPlv3Fvhecu6MQ8qIa7JB/aiJF/CrHdFEO7QM5WBDu8dHkz5Ko0qWb1OntlUSsk7FK+W
+qzkfBwqqS3Fe0U7TXdcp53PVuZLDhGHaKMkWvF2gszNQw8p2Wr7ncb1Wpv+SYb6znpd5zVhfKeuF
+amXYiDIIh67rbMPHW+5w2O1JHRH8OFSjJ/BOirkB1U/3moybUaIbFutApAM8L+UKnGhY7p2AswCG
+6mWwZAyqR/4w7JyxiBUlQXog2Q4AkYZ4mrAzwQvHZypB4wIDAQABo4IGDzCCBgswCwYDVR0PBAQD
+AgXgMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzAYDVR0gBIHEMIHBMEAGCisG
+AQQBgqZyAgkwMjAwBggrBgEFBQcCAjAkGiJDZXJ0aWZpY2FkbyBkZSBSZXByZXNlbnRhbnRlIExl
+Z2FsMH0GCisGAQQBgqZyAgMwbzBtBggrBgEFBQcCARZhaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNl
+bnRhbnRlIExlZ2FsLnBkZjAfBgorBgEEAYKmcgMKBBETD0ZFUlJFTVVORE8gUy5BLjAdBgorBgEE
+AYKmcgMLBA8TDTA5OTIyNTYyMzAwMDEwGgYKKwYBBAGCpnIDAQQMEwowOTE0NTM4Mjc3MB8GCisG
+AQQBgqZyAwIEERMPRlJFRERZIExFT1BPTERPMBYGCisGAQQBgqZyAwMECBMGTUVOREVaMBYGCisG
+AQQBgqZyAwQECBMGR0FSQ0lBMB8GCisGAQQBgqZyAwUEERMPR0VSRU5URSBHRU5FUkFMMDQGCisG
+AQQBgqZyAwcEJhMkUklPIERBVUxFIFNPTEFSIDI4IFkgQ0FMTEUgUEFTQ1VBTEVTMBwGCisGAQQB
+gqZyAwgEDhMMNTkzOTk2NTkxOTkzMBkGCisGAQQBgqZyAwkECxMJR1VBWUFRVUlMMBcGCisGAQQB
+gqZyAwwECRMHRUNVQURPUjAfBgorBgEEAYKmcgMgBBETDzAwMTAwMjAwMDAzNjYzNDAdBgorBgEE
+AYKmcgMhBA8TDVNFQ0RBVEs0MzY5OEgwKgYDVR0RBCMwIYEfZnJlZGR5Lm1lbmRlekBmZXJyZW11
+bmRvLmNvbS5lYzCCAnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRwOi8vb2NzcGd3LnNl
+Y3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHVbGRhcDovL2Rp
+cmVjdC5zZWN1cml0eWRhdGEubmV0LmVjL2NuPUNSTDY5MCxjbj1BVVRPUklEQUQlMjBERSUyMENF
+UlRJRklDQUNJT04lMjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURBRCUyMERFJTIwQ0VS
+VElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERBVEElMjBTLkEuLGM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Quc2VjdXJp
+dHlkYXRhLm5ldC5lYy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9zZWN1cml0
+eV9kYXRhX2VudGlkYWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJpdHlfZGF0
+YV9zLmEuX2NfZWNfY3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKExJTRUNV
+UklUWSBEQVRBIFMuQS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjE1MDMGA1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCIFNFQ1VSSVRZ
+IERBVEExDzANBgNVBAMTBkNSTDY5MDArBgNVHRAEJDAigA8yMDIwMDQyMjAwNDUyNFqBDzIwMjMw
+NDIyMDExNTI0WjAfBgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAdBgNVHQ4EFgQUjgU7
+9AG/nj4KgRsoSMpt7KLLESgwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIDqDAN
+BgkqhkiG9w0BAQsFAAOCAQEAgMemDvxS2IfONiGYKngI3hL3bwUP1JBpxNHLVJc8oxH46nKYX3uG
+zS/t6zVeo1iKkgqsnqQQJQaZ6OTCjc6AmrDgiHltisGtlJoQCsJaYF+WzGR8M+/YkO6BYIDJVb16
+vkB1bKWm0cMTiK/IMaxNq5+VKtQafEZ7zvxEzntrMko+kIXRaVWs1TdiikYwytOD3SskFL/njIpf
+iKy0790iqpH7VLXthbwK/29OaaUcjNKn9hIeRSMMeGkHNrIvLoLZbbTuqR0up+shmikjHLOLheqq
+b2WqAIPjNLMdmxNNJUpPkG1CPbULNn8gEbIlaioaTKK4+eJLFxE2kitR6/dg4w==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+ssIGNaJ+p65jLIXvb2Ms6Z/LQg0ssg7JPymddd8VhGCfKxW7dY0PXX9QYxZyiSaPWeuHgUVUv+tY
+LPlv3Fvhecu6MQ8qIa7JB/aiJF/CrHdFEO7QM5WBDu8dHkz5Ko0qWb1OntlUSsk7FK+WqzkfBwqq
+S3Fe0U7TXdcp53PVuZLDhGHaKMkWvF2gszNQw8p2Wr7ncb1Wpv+SYb6znpd5zVhfKeuFamXYiDII
+h67rbMPHW+5w2O1JHRH8OFSjJ/BOirkB1U/3moybUaIbFutApAM8L+UKnGhY7p2AswCG6mWwZAyq
+R/4w7JyxiBUlQXog2Q4AkYZ4mrAzwQvHZypB4w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature971525-Object752670"><etsi:QualifyingProperties Target="#Signature971525"><etsi:SignedProperties Id="Signature971525-SignedProperties136924"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-14T10:24:47-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>PIEXlHGi6uWBpyDdG61Lp/PJU2s=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573711273</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-829419"><etsi:Description>GuruSoft S.A Tel.045109312</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1204202201179088568200120010050000319185187426311</numeroAutorizacion>
+<fechaAutorizacion>2022-04-12T14:45:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>KIEME CL</razonSocial>
+    <nombreComercial>KIEME CL</nombreComercial>
+    <ruc>1790885682001</ruc>
+    <claveAcceso>1204202201179088568200120010050000319185187426311</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>005</ptoEmi>
+    <secuencial>000031918</secuencial>
+    <dirMatriz>SEBASTIAN MORENO OE1-182</dirMatriz>
+    <agenteRetencion>1</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>12/04/2022</fechaEmision>
+    <dirEstablecimiento>SEBASTIAN MORENO OE1-182 QUITO</dirEstablecimiento>
+    <contribuyenteEspecial>422E</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>CAPITAN NAJERA 1514 B Y AV QUITO GUAYAQUILECUADOR</direccionComprador>
+    <totalSinImpuestos>368.13</totalSinImpuestos>
+    <totalDescuento>130.69</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>368.13</baseImponible>
+        <tarifa>12.00</tarifa>
+        <valor>44.18</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>412.31</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>412.31</total>
+        <plazo>90</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>VIP12018</codigoPrincipal>
+      <descripcion>INTERRUPTOR DOBLE no neon VIVE BASIC (BL)</descripcion>
+      <cantidad>100.00</cantidad>
+      <precioUnitario>1.92</precioUnitario>
+      <descuento>38.40</descuento>
+      <precioTotalSinImpuesto>153.60</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Color" valor="White" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>153.60</baseImponible>
+          <valor>18.43</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>VIP12049</codigoPrincipal>
+      <descripcion>CONMUTADOR DOBLE no neon VIVE BASIC (BL)</descripcion>
+      <cantidad>50.00</cantidad>
+      <precioUnitario>2.27</precioUnitario>
+      <descuento>22.70</descuento>
+      <precioTotalSinImpuesto>90.80</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Color" valor="White" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>90.80</baseImponible>
+          <valor>10.90</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>DPH23106</codigoPrincipal>
+      <descripcion>KIT INTERCOM VIDEO 2 BOTONES</descripcion>
+      <cantidad>3.00</cantidad>
+      <precioUnitario>64.44</precioUnitario>
+      <descuento>69.59</descuento>
+      <precioTotalSinImpuesto>123.73</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Color" valor="White" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>123.73</baseImponible>
+          <valor>14.85</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Notificaciones">Se envian a la direcciones siguientes:</campoAdicional>
+    <campoAdicional nombre="emailCliente">lindaoirania@gmail.com;ventasgye1@kiemeveto.com</campoAdicional>
+    <campoAdicional nombre="direccion">CAPITAN NAJERA 1514 B Y AV QUITO</campoAdicional>
+    <campoAdicional nombre="comentario">DESPACHAR TODO DESDE LA BODEGA 01 KIEME C.L. Basado en Pedidos de cliente 24631. Basado en Entregas 110031946.</campoAdicional>
+    <campoAdicional nombre="telefono">NODISPONIBLE</campoAdicional>
+    <campoAdicional nombre="fecha vencimiento">2022-07-11</campoAdicional>
+    <campoAdicional nombre="Pedido de Compra">na</campoAdicional>
+  </infoAdicional>
+<ds:Signature Id="Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a" xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-931b4047-b430-43c5-8f45-636a8eb950d1" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>3Ld1kfe84h89bB9raAeW1Va4k2mUl62NreWNOBPyPJM=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>P02jSBRRrUIR623aircT8JoHee2PFtRGhtyNPH4En1I=</ds:DigestValue></ds:Reference><ds:Reference URI="#SignedProperties-Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a" Type="http://uri.etsi.org/01903#SignedProperties"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>82pjatlibc2rqQ173m2mRGHeJglrEdNaH711g2DoMTo=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-5ee41876-4f5e-486b-8425-7ff8a7b6b809">QZu3vNogE+49HidP/qJfT9ag9ovGSPTGI4ocjcsOKAPqo6Gnv5tysw7rXuPjdI36P39smUkunve5E++Mz6bIV/Hho68rnIbgX3b4iYCqMbV5oqZSfTw5w+F/QHGmwMUA9r4YP9sE5OsRIblObK13nncOrmpQ/HlFIf16T0nO/EIL3jU3K96cj2YE59daiC/TuwjCu9c0wxixoJzhcC/K9nqea7WORGzX1LPvbe4eU08VCYrUiucnlfePqGdLBwTIlH8u1JALiuYXeu/8QcTkbnvV9TRK0GjKpDFKwSdL6ZzxSkd+WJNNuIWKxzFNIWBGj3s1ASjXUO7eY+8npWovpA==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a"><ds:X509Data><ds:X509Certificate>MIILTzCCCTegAwIBAgIELGut8DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDA5MzAxODI1MDNaFw0yNDA5MzAxODI1MDNaMIGcMQswCQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMzAwOTIwMTMzNTAyMSUwIwYDVQQDDBxGRUxJUEUgQU5EUkVTIFRPQkFSIENPUkRPVkVaMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuD9KvUGuxci1hTjAee8AUChpCt1gcTeMs7rcc7gqpa5+EyjFac1ka0OKXyZMuAWPUwxvYVHKA9Wfus+9e9kn8RtVFlFKRf6ZvBSvmrcEowAWU4YU/or2+RlGCesYs2CLTr1OgIoEJYcK0z8W+7XOJk20x2lJKaVNgRMxzHY0duZbsPbqaG6/mGxNq2mpOobhCu+7UJcIYZQIKmsCZ1XVWEGWvmL8rRMWvMFYAvEP25A2WVSawvWwAN8Hk09YeP6U6pv9tMjtMS9U1rbp27Jc2b/zXjKsIkKucaS54OcjDce6gl/eeTDyZRuTREsMzSVmbyLRhMsODXNDIiowSzjz+QIDAQABo4IGmDCCBpQwWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMB0GA1UdDgQWBBTENOO4l0PoTvN2Mp55W/NeKe4Y7zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFFwPhaR0EPytASwaAD2TFwn6OQHWMCsGA1UdEAQkMCKADzIwMjAwOTMwMTgyNTAzWoEPMjAyNDA5MzAxODI1MDNaMIHMBgNVHS4EgcQwgcEwgb6ggbuggbiGgbVsZGFwOi8vbGRhcHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMG0GA1UdIARmMGQwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIICngYDVR0fBIIClTCCApEwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExCzAJBgNVBAYTAkVDMIHEoIHBoIG+hoG7bGRhcDovL2xkYXBzZC5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMSxDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB36CB3KCB2YaB1mh0dHBzOi8vcG9ydGFsLW9wZXJhZG9yLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUMwCwYDVR0PBAQDAgXgMBwGA1UdEQQVMBOBEWZ0b2JhckBnbmUuY29tLmVjMBoGCisGAQQBgqZyAwEEDAwKMTcxMTY3MzcwNTAdBgorBgEEAYKmcgMCBA8MDUZFTElQRSBBTkRSRVMwFQYKKwYBBAGCpnIDAwQHDAVUT0JBUjAYBgorBgEEAYKmcgMEBAoMCENPUkRPVkVaMCAGCisGAQQBgqZyAwUEEgwQR0VSRU5URSBHRU5FUkFMIDA9BgorBgEEAYKmcgMHBC8MLVNFQkFTVElBTiBNT1JFTk8gT0UxLTE4MiBZIFBBTkFNRVJJQ0FOQSBOT1JURTAcBgorBgEEAYKmcgMIBA4MDDU5Mzk5NzAyNTA5MDAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMBoGCisGAQQBgqZyAwoEDAwKS0lFTUUgQy5MLjAdBgorBgEEAYKmcgMLBA8MDTE3OTA4ODU2ODIwMDEwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBIGCisGAQQBgqZyAx0EBAwCTm8wHwYKKwYBBAGCpnIDIAQRDA8wMDIwMDEwMDAwODg4NjAwEwYKKwYBBAGCpnIDIQQFDANQRlgwEQYKKwYBBAGCpnIDIgQDDAEuMA0GCSqGSIb3DQEBCwUAA4ICAQAj6m3Fi00itVM91eEQKndE60N2Lxpw3NT8WQX/mBcUVpA6P/dUy2L82H2HwDo9SmlGpwUIHHQ1w7NYHu8QOUvybXIaglD+kb2IelDyjkd0DsE66kHA03fRuXaBxisez5nXBd37tcHC5dadz8xGZwmTi0JrQ4T7fus2lJc3szhs0nx0oNtMuluOz8/vDWsFLB8IhNPzzSZyx90emjaRQ8XsF43FDn1df/xodPf+Mki6UDpYrYQQibJmcCEk7nYFHWNl0Vg+/RWH5JpDt3m5OBi4LnRCsDY4syylYdzJqdXQh/j28YnCrxac7jRHnCCijLDchnEvnapm+sMeYPuDg5ajgLndbQRZZSC40ipZpKOC0YLNAYMGTnXgRWYMe5iVkuKTDOh0e4cjYmzi7zyv+393k1et4qDgSCWMZnHInRlcfcYGeqlzfhVU2H+O55kzi1LTRJa/huQY1Q7PEO26JMHzELPvTgWGGzJmymXnx/uO0ZSnT9YmqO5/rfVs0jRDI+R1quUWrcZL4R65pZ16TN+cglSthQA6Pc0gTL4Fw8DrzYjRUGtTAVai5vsQn0ve+gYT42X6XF2i4/WdSCgyVEplQ5kT9xDfMQlkSY69+wXN/6NV9L7ISwEopcbv09jIhpd4PqNGmChdrP6h4CcTaKuChUMXQ+BKn2QRW7VR7ecCeQ==</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>uD9KvUGuxci1hTjAee8AUChpCt1gcTeMs7rcc7gqpa5+EyjFac1ka0OKXyZMuAWPUwxvYVHKA9Wfus+9e9kn8RtVFlFKRf6ZvBSvmrcEowAWU4YU/or2+RlGCesYs2CLTr1OgIoEJYcK0z8W+7XOJk20x2lJKaVNgRMxzHY0duZbsPbqaG6/mGxNq2mpOobhCu+7UJcIYZQIKmsCZ1XVWEGWvmL8rRMWvMFYAvEP25A2WVSawvWwAN8Hk09YeP6U6pv9tMjtMS9U1rbp27Jc2b/zXjKsIkKucaS54OcjDce6gl/eeTDyZRuTREsMzSVmbyLRhMsODXNDIiowSzjz+Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-9d72131c-5dda-4d11-9400-0f00c2eebae1"><xades:QualifyingProperties Id="QualifyingProperties-6e4d275c-857e-4d73-b85c-fc84415a81fc" Target="#Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a" xmlns:xades="http://uri.etsi.org/01903/v1.3.2#"><xades:SignedProperties Id="SignedProperties-Signature-f18b45c0-0cbb-4265-af33-04b6ac0dd02a"><xades:SignedSignatureProperties><xades:SigningTime>2022-04-12T14:45:16-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><xades:CertDigest xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue xmlns:xades="http://uri.etsi.org/01903/v1.3.2#">/TqggeHrrKYJwaj9wJPnCQmvODg=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509IssuerName xmlns:xades="http://uri.etsi.org/01903/v1.3.2#">CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber xmlns:xades="http://uri.etsi.org/01903/v1.3.2#">745254384</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

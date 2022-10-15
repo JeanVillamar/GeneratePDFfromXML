@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2104202201096000049000120050080001524862983396612</numeroAutorizacion>
+<fechaAutorizacion>2022-04-21T19:37:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>GOBIERNO AUTONOMO DESCENTRALIZADO ILUSTRE MUNICIPALIDAD DEL CANTON DAULE</razonSocial>
+      <nombreComercial>MUNICIPIO DE DAULE</nombreComercial>
+      <ruc>0960000490001</ruc>
+      <claveAcceso>2104202201096000049000120050080001524862983396612</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>005</estab>
+      <ptoEmi>008</ptoEmi>
+      <secuencial>000152486</secuencial>
+      <dirMatriz>Municipio de Daule - La Aurora</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>21/04/2022</fechaEmision>
+      <dirEstablecimiento>Municipio de Daule - La Aurora</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+      <identificacionComprador>0932042500</identificacionComprador>
+      <totalSinImpuestos>1202.23</totalSinImpuestos>
+      <totalSubsidio>0.0</totalSubsidio>
+      <totalDescuento>0.0</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>0</codigoPorcentaje>
+            <baseImponible>1202.23</baseImponible>
+            <valor>0.0</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.0</propina>
+      <importeTotal>1202.23</importeTotal>
+      <moneda>DOLAR</moneda>
+      <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>1202.23</total>
+            <plazo>0</plazo>
+            <unidadTiempo>dias</unidadTiempo>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>291</codigoPrincipal>
+         <codigoAuxiliar>291</codigoAuxiliar>
+         <descripcion>CONSEJO PROVINCIAL</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>0.92</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>0.92</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>0.92</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>41</codigoPrincipal>
+         <codigoAuxiliar>41</codigoAuxiliar>
+         <descripcion>IMPUESTO ALCABALA</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>921.78</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>921.78</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>921.78</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>118</codigoPrincipal>
+         <codigoAuxiliar>118</codigoAuxiliar>
+         <descripcion>JUNTA DE BENEFICENCIA ALCABALA</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>276.53</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>276.53</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>276.53</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>38</codigoPrincipal>
+         <codigoAuxiliar>38</codigoAuxiliar>
+         <descripcion>SERVICIOS ADMINISTRATIVOS</descripcion>
+         <cantidad>1.0</cantidad>
+         <precioUnitario>3.0</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>3.0</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>3.0</baseImponible>
+               <valor>0.0</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional>
+      <campoAdicional nombre="Domicilio">.</campoAdicional>
+      <campoAdicional nombre="email">sn@gmail.com   </campoAdicional>
+      <campoAdicional nombre="Telefono">---</campoAdicional>
+      <campoAdicional nombre="Concepto">alcabala, Clave Predial  090602002001001283000000000 CALLE VEHICULAR entre . Nro.  null  De  DISMEDSA CIA. LTDA. Y COLDER ENTERPRISES S. A. A favor de  LINDAO VILLAMAR IRANIA ELIZABETH Cuantia  92178.0 Avaluo  55789.74 Observacion  A FAVOR DE  LINDAO VILLAMAR IRANIA ELIZABETH Y CAIZA GUAITA FRANCIS</campoAdicional>
+      <campoAdicional nombre="Referencia">52590</campoAdicional>
+      <campoAdicional nombre="Recaudador"> Ingrid Arelis Jaime Ramirez</campoAdicional>
+   </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature98594">
+<ds:SignedInfo Id="Signature-SignedInfo759292">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID398616" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature98594-SignedProperties365588">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qfwASnaMc8V91ZYKqZ5syvVrKGE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1986873">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>4obG6HnDLlTrXQzSD8w+q5gx/cI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-11506" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>BPjmTaGM77R9r5WXOOvteHx4/h0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue938861">
+Fmyfa4SL9oJhJ188JWfX8k4qYAV/PPJnPRGm0QTciBjty5NA7W/7q6kMtjcovl0CQHj+om0ljACN
+UqGAK3A5WX3uIFXD77TrBrfqhyCFTK8KNDIx5rAzJcHRzYUPj5ehYzU8bvxcjKb5lImSrBS2ocUr
+JjKaIM60B6FNbT8HUwUzkl92cvffNKITQEkSG51oAgJO/iuKh1bJ8+vFGh9ezV3bLkPGsMzNsZHN
+Ylg+VHKYKotLfgShKDzrbJMjU3d5j5J0Avp5hYLaLcOLn0m373zsyzE5bdqpvfp2kmMW7BKXwMnO
+0qS0aKBzC2WIkWazPqvfl5Crn9sVOcCfi3A+Kg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1986873">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKHTCCCAWgAwIBAgIEW2NjojANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDUyNjE1MTIyNVoXDTIyMDUyNjE1NDIy
+NVowgbgxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE8MBEGA1UEBRMKMDAwMDI4MzMzNjAnBgNVBAMTIEpVTElTU0EgSkFIQVlS
+QSBGQUpBUkRPIE1BUlRJTExPMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3ZiSqODt
+SJccUmUJO2Fnx26LTBZbH6ggaWUXSU7fzi5M8MUVIbjnYC/ySTbWuciHbScXxdyAwkGukuNK3CxR
+wpW3/wCcGXhTUKT0Yb+6HhRMR2wWsAaUFdbOI7ZW89YjWLj4NJk0T6qMbpo9XNs9T6sjModvR5+q
+eglPz5zORq49UX+hxeBjNKItdu00WloNEicyWMwviUZnNUdSs3tiJ1S94EamBJu3Pqkyw1kpMIEK
+mq3mfVyV+adQQfD9opddnd8n/SzPAzPyz3h9AgD3XcTXCfJ59Kzfv/RaNI7RJ7aQqgbAWZ4nsOL4
+hvbGSWiJGeUBUNVciEvB36hDNJdodwIDAQABo4IFQjCCBT4wCwYDVR0PBAQDAgeAMGcGA1UdIARg
+MF4wXAYLKwYBBAGCqDsCAgEwTTBLBggrBgEFBQcCARY/aHR0cDovL3d3dy5lY2kuYmNlLmVjL3Bv
+bGl0aWNhLWNlcnRpZmljYWRvL3BlcnNvbmEtanVyaWRpY2EucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDBYBgorBgEEAYKoOwMKBEoTSEdPQklFUk5PIEFVVE9OT01PIERFU0NF
+TlRSQUxJWkFETyBJTFVTVFJFIE1VTklDSVBBTElEQUQgREVMIENBTlRPTiBEQVVMRTAdBgorBgEE
+AYKoOwMLBA8TDTA5NjAwMDA0OTAwMDEwGgYKKwYBBAGCqDsDAQQMEwowOTE3MzE1MjkzMB8GCisG
+AQQBgqg7AwIEERMPSlVMSVNTQSBKQUhBWVJBMBcGCisGAQQBgqg7AwMECRMHRkFKQVJETzAYBgor
+BgEEAYKoOwMEBAoTCE1BUlRJTExPMBkGCisGAQQBgqg7AwUECxMJQ09OVEFET1JBMCkGCisGAQQB
+gqg7AwcEGxMZUEFEUkUgQUdVSVJSRSA3MDMgWSBTVUNSRTAZBgorBgEEAYKoOwMIBAsTCTA0Mjc5
+NTEzNDAVBgorBgEEAYKoOwMJBAcTBURhdWxlMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgor
+BgEEAYKoOwMzBBITEFNPRlRXQVJFLUFSQ0hJVk8wIAYDVR0RBBkwF4EVamZhamFyZG9AZGF1bGUu
+Z29iLmVjMIIB3wYDVR0fBIIB1jCCAdIwggHOoIIByqCCAcaGgdVsZGFwOi8vYmNlcWxkYXBzdWJw
+MS5iY2UuZWMvY249Q1JMOTYxLGNuPUFDJTIwQkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURP
+UixsPVFVSVRPLG91PUVOVElEQUQlMjBERSUyMENFUlRJRklDQUNJT04lMjBERSUyMElORk9STUFD
+SU9OLUVDSUJDRSxvPUJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsYz1FQz9jZXJ0aWZp
+Y2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGNGh0dHA6Ly93d3cuZWNpLmJjZS5lYy9DUkwvZWNpX2Jj
+ZV9lY19jcmxmaWxlY29tYi5jcmykgbUwgbIxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBD
+RU5UUkFMIERFTCBFQ1VBRE9SMTcwNQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04tRUNJQkNFMQ4wDAYDVQQHEwVRVUlUTzElMCMGA1UEAxMcQUMgQkFOQ08gQ0VO
+VFJBTCBERUwgRUNVQURPUjEPMA0GA1UEAxMGQ1JMOTYxMCsGA1UdEAQkMCKADzIwMjAwNTI2MTUx
+MjI1WoEPMjAyMjA1MjYxNTQyMjVaMB8GA1UdIwQYMBaAFEii3yMfHfgsUXqMA81JMqUJwZSrMB0G
+A1UdDgQWBBTqIlavXIqDywuK+RaQ1NBZkPwJlzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAob
+BFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUAA4ICAQC3Qkh9zn4DR8+gfPcSaI9QhAdcOGHJq2o2PDmr
+YVwrcbzxfY7KIAYzDDh08q1ber5Q9mWrv89YYC+fo/yGVoJX6avj8xtONzGwMu9DsmCMiioxZSEA
+obpeBjM+N8lF2bt2ttzeQlrsrWmiug1yZwO6aU05TsWi0CF50+MYUPdpHwQqNdKEtn/+SRFx0HUU
+2YEKtNV4gXq8jb6QZQCMXOi2MnKpmt7UNXOfJHQkQ23RZDQ5ybcfD3NP6xy2LJtC3Gk7QLgV56lK
+iqovapHN+YHm4iNqtylZVi4XsxnEfd8R1nLHa4s25QN4xU5Af3A1ustWAd8ds3VflFps8OsGgHKa
+Rhi354vAu+Qj7PzyPhBL8zkhSO3qtvivuo+g6gVt61GiqQTVE3CdxKN2H+69WoRAeVWmHlc49ZV2
+u+u2qRgKTohmotVAnPKAuA3f9OQa9kT/0hgXCdG0X5SG8o7WWe7G9/2aOT7SShhVz41SnSWE2NI/
+0QAwGC30SkyDJNnHZY1YNp9fDV/S2bJdO50tbCaQIgzXljdGaMpbJIrL5qmM9o48zuQzvw9izPMi
+rDP1FDIFgSrEvJ2dSkp7vpGiW+KHN1FmVVLeNLbrTHGVOKaJRUPBSUtOlq1PTYCvSBGgXBok42oL
+tMxyOpSuWwsne8s/wCE4ZPWBOUEz+B0fNlCdMw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3ZiSqODtSJccUmUJO2Fnx26LTBZbH6ggaWUXSU7fzi5M8MUVIbjnYC/ySTbWuciHbScXxdyAwkGu
+kuNK3CxRwpW3/wCcGXhTUKT0Yb+6HhRMR2wWsAaUFdbOI7ZW89YjWLj4NJk0T6qMbpo9XNs9T6sj
+ModvR5+qeglPz5zORq49UX+hxeBjNKItdu00WloNEicyWMwviUZnNUdSs3tiJ1S94EamBJu3Pqky
+w1kpMIEKmq3mfVyV+adQQfD9opddnd8n/SzPAzPyz3h9AgD3XcTXCfJ59Kzfv/RaNI7RJ7aQqgbA
+WZ4nsOL4hvbGSWiJGeUBUNVciEvB36hDNJdodw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature98594-Object431857"><etsi:QualifyingProperties Target="#Signature98594"><etsi:SignedProperties Id="Signature98594-SignedProperties365588"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-21T19:37:05-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>yGPMrGoyfyuVup0AAd5pnDcH6BQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533240226</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-11506"><etsi:Description>comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

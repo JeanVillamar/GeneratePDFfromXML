@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0104202201099336743900120610040000056830000308511</numeroAutorizacion>
+<fechaAutorizacion>2022-04-01T19:30:15-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>GDFSE S.A.S</razonSocial>
+    <nombreComercial>FARMACIAS SUPER ECONOMICA</nombreComercial>
+    <ruc>0993367439001</ruc>
+    <claveAcceso>0104202201099336743900120610040000056830000308511</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>061</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000005683</secuencial>
+    <dirMatriz>COOP PANCHO JACOME UNO MZ268 S14</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>01/04/2022</fechaEmision>
+    <dirEstablecimiento>FLOR DE BASTION VII B07 MZ1062 S10</dirEstablecimiento>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <paisOrigen>593</paisOrigen>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>ELIZABETH LINDAO</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <totalSinImpuestos>12.2</totalSinImpuestos>
+    <totalDescuento>0</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>9.86</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>2.34</baseImponible>
+        <tarifa>12</tarifa>
+        <valor>0.28</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>12.48</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>12.48</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dia</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>27579</codigoPrincipal>
+      <codigoAuxiliar>27579</codigoAuxiliar>
+      <descripcion>LEMONFLU EXPECT CAPx20</descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.31</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.24</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.24</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>27994</codigoPrincipal>
+      <codigoAuxiliar>27994</codigoAuxiliar>
+      <descripcion>VAPORUB VICK UNGX50GR</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.49</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.49</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.49</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>32146</codigoPrincipal>
+      <codigoAuxiliar>32146</codigoAuxiliar>
+      <descripcion>CHUPETES PECTINA+VITAMINA-Cx10</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>0.2339</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.34</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12</tarifa>
+          <baseImponible>2.34</baseImponible>
+          <valor>0.28</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>60189</codigoPrincipal>
+      <codigoAuxiliar>60189</codigoAuxiliar>
+      <descripcion>FLUKIT CAPX500/60MGX10</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.56</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.13</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.13</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>34495</codigoPrincipal>
+      <codigoAuxiliar>34495</codigoAuxiliar>
+      <descripcion>ACTIFEN COMx500MGx30</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>0.1</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.98</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>37588</codigoPrincipal>
+      <codigoAuxiliar>37588</codigoAuxiliar>
+      <descripcion>MUCOXIN RELAX JB X120ML</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.02</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>4.02</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">CAPITAN NAJERA Y AV QUITO</campoAdicional>
+    <campoAdicional nombre="TELEFONO"> NO REGISTRADO </campoAdicional>
+    <campoAdicional nombre="EMAIL"> NO REGISTRADO </campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature975195">
+<ds:SignedInfo Id="Signature-SignedInfo192678">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID487523" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature975195-SignedProperties337288">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>XsCL1+b97/k1SQrs9ERJ2E1Yadc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1937519">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>wmhFniyBGTPJfnD91WBVbttit+M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-448619" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NcIRG8dx9tEc2He182HahhN5cM0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1025874">
+Nh59Qsl9+3e5prkAQ3aTle0pLpofq6ZfQHM1Nd9c34U5U+I7YUAPTcsdT/Th8O9CzSFBIKksPbIn
+tC0NObT/FPiVogqnlFCZdwE9OSUf+lUTMHHS3LaKk2Ss08qT9KtzQ0EU97rLnBQA81xWWbC0SgzJ
+DlW8UZ45he6VCVGWnbbRjslkW8kP9mCEEMDkgt77kMIYIc9/RLv+VVZhMrfwCJrf1k21s18cZp3C
+g31LXch0OO8VOT2UtqLQ0C8HrzE7jFjOhmFk+fN6PyMlKDcv1Tx1jB4p5WPUadPdIfxfwi6VDg9H
+jdBLj10jj7Y6qryTm1lQml7IJQjo5YdfDr0ZyQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1937519">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILiTCCCXGgAwIBAgIMA0mNssthuEgDYk9xMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjIwMzA4MTY1NTA1WhcNMjQwMzA3MTY1NTA1WjCCAaUxGjAYBgorBgEEAYKkQgoEDAow
+OTEyMjc3NzA0MRUwEwYDVQQKDAxHREZTRSBTLkEuUy4xMDAuBgNVBAsMJ0NlcnRpZmljYWRvIFBl
+cnNvbmEgSnVyaWRpY2EgRUMgKEZJUk1BKTEXMBUGA1UEKgwOQ0FSTE9TIEFCU0FMT04xFjAUBgNV
+BGETDTA5OTMzNjc0MzkwMDExCzAJBgNVBAYTAkVDMRMwEQYDVQQFEwowOTEyMjc3NzA0MRowGAYD
+VQQEDBFQQUxBQ0lPUyBCVUVOQcORTzE0MDIGA1UEAwwrMDkxMjI3NzcwNCBDQVJMT1MgQUJTQUxP
+TiBQQUxBQ0lPUyBCVUVOQcORTzEpMCcGCSqGSIb3DQEJARYaYWZ1ZW50ZXNAc3VwZXJlY29ub21p
+Y2EuZWMxHDAaBgNVBAwME1JFUFJFU0VOVEFOVEUgTEVHQUwxKzApBgNVBA0MIkNlcnRpZmljYWRv
+IHBhcmEgUGVyc29uYSBKdXLDrWRpY2ExDzANBgNVBAgMBkdVQVlBUzESMBAGA1UEBwwJR1VBWUFR
+VUlMMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvgdABM1zq0Bck1VrenMbGDOA+pXd
+oVZmFZYQzbTftdRplwVWRba2/ZXNfIdvw3eBaKoFDzXiAFBXCGmZ7eO/EsRR3b7ZJ8VRYqCZN0ad
+cHaz6lmPFxDAlYNx2yYiohXAmKM4k8loPjpN/r8RzCHT2PDSfMGmAXpAJgI7pM9dYEklUmCck25Z
+166cSGY/mDdYRFKlOn6YV2dNSme8I/OO7KE8IdXST1haX/9TIE6UAVlw1zSNVqS15qdnmEkCnDJG
+y4xDlis4j9K/JOuvmuXyF+twchwWO4EvgmCw0jWbL0bpeUsTZ5dlyvznJcQFysnEtVOv4RLrKdKz
+tkIAMeDEaQIDAQABo4IFoDCCBZwwHwYDVR0jBBgwFoAUkq7Uy4K0mcbRexFsZerFTWgh+awwHQYD
+VR0OBBYEFGc6hWOJJuPSIbMrTJx0Ur7lCA9/MIIBAwYDVR0RBIH7MIH4gRphZnVlbnRlc0BzdXBl
+cmVjb25vbWljYS5lY6SB2TCB1jEeMBwGCisGAQQBgqRCCgEMDkNBUkxPUyBBQlNBTE9OMRgwFgYK
+KwYBBAGCpEIKAgwIUEFMQUNJT1MxGDAWBgorBgEEAYKkQgoDDAhCVUVOQcORTzEaMBgGCisGAQQB
+gqRCCgQMCjA5MTIyNzc3MDQxGTAXBgkrBgEEAYO9bgEMCkEtMDQwMzIwMjIxNDAyBgNVBAMMKzA5
+MTIyNzc3MDQgQ0FSTE9TIEFCU0FMT04gUEFMQUNJT1MgQlVFTkHDkU8xEzARBgNVBAUMCjA5MTIy
+Nzc3MDQwDgYDVR0PAQH/BAQDAgbAMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDBQBgNV
+HR8ESTBHMEWgQ6BBhj9odHRwOi8vd3d3LmFuZi5lcy9jcmwvQU5GSGlnaEFzc3VyYW5jZUVjdWFk
+b3JJbnRlcm1lZGlhdGVDQS5jcmwwggEDBgNVHSAEgfswgfgwgd8GDCsGAQQBgqRCAgUBAzCBzjAo
+BggrBgEFBQcCARYcaHR0cDovL3d3dy5hbmYuZXMvZG9jdW1lbnRvczCBoQYIKwYBBQUHAgIwgZQM
+gZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBhIGxhIGxlZ2lzbGFjacOzbiBkZSBmaXJtYSBlbGVjdHLD
+s25pY2EuIEFudGVzIGRlIGFjZXB0YXJsbyBjb21wcnVlYmUgaW50ZWdyaWRhZCwgbGltaXRhY2lv
+bmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0b3JpemFkb3MuMAkGBwQAi+xAAQEwCQYHYIVUAQMFCDCB
+mwYIKwYBBQUHAQEEgY4wgYswJwYIKwYBBQUHMAGGG2h0dHA6Ly9vY3NwLmFuZi5lcy9zcGFpbi9B
+VjBgBggrBgEFBQcwAoZUaHR0cDovL3d3dy5hbmYuZXMvZXMvY2VydGlmaWNhdGVzLWRvd25sb2Fk
+L0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJtZWRpYXRlQ0EuY2VyMAwGA1UdEwEB/wQCMAAw
+KAYJKwYBBAGBjxwTBBsMGTUzOTIxNjQzNzQwNS00ODQ2NTY0NzM0NDAwFQYKKwYBBAGBjxwTAgQH
+DAUzNzQ0MjAoBgorBgEEAYKkQhMBBBoMGDUwNzIyLTUwMTYxMTkxMzQyMjM3NzUzNjAaBgorBgEE
+AYKkQgMBBAwMCjA5MTIyNzc3MDQwHAYKKwYBBAGCpEIDCgQODAxHREZTRSBTLkEuUy4wHQYKKwYB
+BAGCpEIDCwQPDA0wOTkzMzY3NDM5MDAxMBIGCisGAQQBgqRCAwwEBAwCRUMwHgYKKwYBBAGCpEID
+AgQQDA5DQVJMT1MgQUJTQUxPTjAhBgorBgEEAYKkQgMDBBMMEVBBTEFDSU9TIEJVRU5Bw5FPMCMG
+CisGAQQBgqRCAwUEFQwTUkVQUkVTRU5UQU5URSBMRUdBTDAZBgorBgEEAYKkQgMJBAsMCUdVQVlB
+UVVJTDAXBgorBgEEAYKkQioBBAkMB1VJTy0wMDMwEwYKKwYBBAGCpEIuAQQFDAM3MzAwUAYKKwYB
+BAGCpEIvAQRCDEBiZDYwMGE3MjI3ZmM2ODRlOWZhMWFlNjFhNjcyNzAwOTQ3MWM2ZGFiMjgyMWJl
+NzNiNDhkNDJhY2RjY2EyOTYxMEQGCCsGAQUFBwEDBDgwNjAIBgYEAI5GAQEwEwYGBACORgEGMAkG
+BwQAjkYBBgEwCQYHBACL7EkBATAKBggrBgEFBQcLAjANBgkqhkiG9w0BAQsFAAOCAgEAdWXVBT++
+HzmcqhLvPatePQ/eHzMNfLsMoPIJUG82ddAmkItBVWLjdsWm2xBGV8QfP43RUYBRCm5QhCO7qLYh
+t0C9/9cbP+J+cQgNXRvkLvnNOjOKJqj6/NKmqOWsOjne2RYYtCNIYNPFK932rcgfCtW23w08/ubn
+CqO4abmR5/IJ+nfiQ2WbLTAT5K/p6UvrUQpwftdJLXCpjih8Mw5qyAnTVjy7B/sctPDDRWSR0n/9
+ZvXGAFSFVVV+C64wmSX+A2hqRzPxQdrfbn+3iqCNueCyKpthkp9/lCWCM9WDKsVIjdfbH3Tlzfof
+W2Z69lHVIZ6nDqYnArF8sLNdmLeXAM+/fyNsagsPPskkGC8DcrPDq6WliJg6BztgrU5uyb2uGII/
+821cUh+MX0ED7krSilrtGxgLhJU3gUXstDvUGylMxwGIe020zZSGg4Wz0O69WTrLSzmOlKnomEKu
+XTLKoZsct1mEYi4tJ9juN1+ixxrnsLsVglnRAcWmUHeIAQZh2KK+nhEr4qVXPECBynPFLARPVfv8
+OqGa/+u7WE5LomHkwDlXpYdXpasJDwWc0RNfN9QP3k+6wgsG7y7iZLp3cZSyRKrw0nG8OEMMzvYi
+2JBjrukp6c6GzsWbcwdSqT7MqerzqWUuh1zqTfMNnHO3IS8lpRzmlsi4frzKM+9cG0Y=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vgdABM1zq0Bck1VrenMbGDOA+pXdoVZmFZYQzbTftdRplwVWRba2/ZXNfIdvw3eBaKoFDzXiAFBX
+CGmZ7eO/EsRR3b7ZJ8VRYqCZN0adcHaz6lmPFxDAlYNx2yYiohXAmKM4k8loPjpN/r8RzCHT2PDS
+fMGmAXpAJgI7pM9dYEklUmCck25Z166cSGY/mDdYRFKlOn6YV2dNSme8I/OO7KE8IdXST1haX/9T
+IE6UAVlw1zSNVqS15qdnmEkCnDJGy4xDlis4j9K/JOuvmuXyF+twchwWO4EvgmCw0jWbL0bpeUsT
+Z5dlyvznJcQFysnEtVOv4RLrKdKztkIAMeDEaQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature975195-Object944408"><etsi:QualifyingProperties Target="#Signature975195"><etsi:SignedProperties Id="Signature975195-SignedProperties337288"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-01T19:30:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>h1D8pNLPCd53sYXThpV9GI91q0s=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>1017375766145630158077448049</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-448619"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202201099265697200120010060001611451234567815</numeroAutorizacion>
+<fechaAutorizacion>2022-04-29T14:34:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>MAVIJU SA</razonSocial><nombreComercial>MAVIJU SA</nombreComercial><ruc>0992656972001</ruc><claveAcceso>2904202201099265697200120010060001611451234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>006</ptoEmi><secuencial>000161145</secuencial><dirMatriz>Lotización Inmaconsa Calle Eucalipto Solar 2 y Quinquellas</dirMatriz></infoTributaria><infoFactura><fechaEmision>29/04/2022</fechaEmision><dirEstablecimiento>Lotización Inmaconsa Calle Eucalipto Solar 2 y Quinquellas</dirEstablecimiento><contribuyenteEspecial>00286</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>04</tipoIdentificacionComprador><razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador><identificacionComprador>0932042500001</identificacionComprador><direccionComprador>AV QUITO 2135 2135 Y HUANCAVILCAGUAYAQUILECUADOR</direccionComprador><totalSinImpuestos>613.41</totalSinImpuestos><totalDescuento>400.290000</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><baseImponible>613.410000</baseImponible><valor>73.61</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>687.02</importeTotal><moneda>DOLAR</moneda></infoFactura><detalles><detalle><codigoPrincipal>IL190016</codigoPrincipal><codigoAuxiliar>IL190016</codigoAuxiliar><descripcion>LETRERO LED DE SALIDA ECO 1W VERDE 120V DURA 300MIN BAT 3.6V RECARG 24H 370X225X46.36MM</descripcion><cantidad>12.00</cantidad><precioUnitario>19.000000</precioUnitario><descuento>86.64</descuento><precioTotalSinImpuesto>141.36</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="1" valor="Sin informacion"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>141.36</baseImponible><valor>16.96</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>IL070347</codigoPrincipal><codigoAuxiliar>IL070347</codigoAuxiliar><descripcion>FOCO LED OVO 90W E40 6500K 8100LM 100-240V 25000H FP&amp;gt;0.9 180° CRI 80 Ø138X270MM CAJA</descripcion><cantidad>6.00</cantidad><precioUnitario>24.770000</precioUnitario><descuento>62.42</descuento><precioTotalSinImpuesto>86.20</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="1" valor="Sin informacion"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>86.20</baseImponible><valor>10.34</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>IL070314</codigoPrincipal><codigoAuxiliar>IL070314</codigoAuxiliar><descripcion>FOCO LED GLOBO G125 LOVE 04W E27 ROJO 120V 15000H 320° Ø125X160MM CAJA</descripcion><cantidad>6.00</cantidad><precioUnitario>13.850000</precioUnitario><descuento>33.24</descuento><precioTotalSinImpuesto>49.86</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="1" valor="Sin informacion"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>49.86</baseImponible><valor>5.98</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>IL070328</codigoPrincipal><codigoAuxiliar>IL070328</codigoAuxiliar><descripcion>FOCO LED GLOBO G125 HOME 04W E27 AZUL 120V 15000H 320° Ø125X160MM CAJA</descripcion><cantidad>6.00</cantidad><precioUnitario>13.850000</precioUnitario><descuento>39.06</descuento><precioTotalSinImpuesto>44.04</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="1" valor="Sin informacion"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>44.04</baseImponible><valor>5.28</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>IL140010</codigoPrincipal><codigoAuxiliar>IL140010</codigoAuxiliar><descripcion>LINTERNA LED RECARGABLE TURBO 5W 6500K 280LM 110-127V 15000H 4V 3000MAH 250M DURA 8H 230X150MM</descripcion><cantidad>24.00</cantidad><precioUnitario>19.620000</precioUnitario><descuento>178.93</descuento><precioTotalSinImpuesto>291.95</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="1" valor="Sin informacion"></detAdicional></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>2</codigoPorcentaje><tarifa>12.00</tarifa><baseImponible>291.95</baseImponible><valor>35.05</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="TELEFONO">042858905/0992065468</campoAdicional><campoAdicional nombre="E-MAIL">lindaoirania@gmail.com; caiza085@gmail.com; wcando@maviju.com</campoAdicional><campoAdicional nombre="DIRECCION">AV QUITO 2135 2135 Y HUANCAVILCA</campoAdicional><campoAdicional nombre="FORMA DE PAGO">30 - 60 - 90</campoAdicional><campoAdicional nombre="CUOTAS">Cuota1: Fecha: 29 May 2022 MONTO: $228.98 *** Cuota2: Fecha: 28 Jun 2022 MONTO: $228.98 *** Cuota3: Fecha: 28 Jul 2022 MONTO: $229.06 *** </campoAdicional><campoAdicional nombre="FORMA DE PAGO SRI">20 - OTROS CON UTILIZACION DEL SISTEMA FINANCIERO</campoAdicional><campoAdicional nombre="PUNTOS OBTENIDOS">2</campoAdicional><campoAdicional nombre="PTOS ACUM 2022-04-28:">7</campoAdicional><campoAdicional nombre="INF. ADICIONAL"> - </campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature621285">
+<ds:SignedInfo Id="Signature-SignedInfo360513">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID677640" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature621285-SignedProperties564851">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3puH6nSgGGH9C4SR5cdyV/j0FiA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate128678">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>f4aQxzqS9QjcniGJRLX96ji5WAs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-881454" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>K1eZTwkmBdJwyRdKWXOa0EVc9DU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue188959">
+c2GEnnFd0ENixD/2/Y4F3kYgiLp/mfJX1xgue/Yot1EdmkoiB5UTtYhyUqN1w2z8HmT6T0rf5t8C
+hTOK+vXEfdq1he6RJ2bZeAVzC7fbUHJJBkiFdjj+e8ncG5Tame+6zwNAo7tZ1SEV5jZ4TCDhC4a7
+jaFKOVv9sKFlLMbanPUwI5EfvVwQdShZmQP8T429vXbM1B+Xd+b2uRIcET1mzttJAsnSMo+QxjNZ
+9DqO2ReWHosVH/gD3Qc8P4GHDk5nkanYOIxnAOPHzEEt394q+XsfwvCLQFtxklioKZdjegAN6Vi1
+l5rUvpejH4L2mZxiLYt/CCVLIIopDMNnH1nTyg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate128678">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJwjCCCKqgAwIBAgIEVM/STzANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xNzExMjAxNDA4MzhaFw0yMjExMjAxNDM4MzhaMIGaMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xPDATBgNVBAUTDDIwMTExNzA5MzQ1ODAlBgNVBAMT
+HkdBQlJJRUxBIE1BUklBIE5BVkFSUkVURSBNT1JBTjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALQ8ClcrDG3+SWLPrVhyPtinkAY5JrBnIKUVA4kzPLsTT/3utBa3/wfHmiqzVsCc6aKE
+ze+yHKnLozotQ/uE0nL6ctORzWtGgPrTr/KNRguDRn+9R7O7US3IVuxFlKgwOO4rQcMqONvxvZ+7
+Ob++5Wp0M1Ht/t72bNyo1h/7vlmXRL4y2XgtvspNcpdfquKTgymvfTq9jMNDABMv1SW3bZN20tdT
+k4MfT8XfgXPXwsg5hlBA3wRJqCWJptD+AhuGR/OlRN4HrU6A2ySYAFzI/ROeE2TOZqOsA5TbYCzn
+dsr+WbEAFlIeWXk7YoK7L+Kk+WByAD5MsYOw66qjQtmkph0CAwEAAaOCBhMwggYPMAsGA1UdDwQE
+AwIF4DBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcoGA1UdIASBwjCBvzA/Bgor
+BgEEAYKmcgIKMDEwLwYIKwYBBQUHAgIwIxohQ2VydGlmaWNhZG8gZGUgTWllbWJybyBkZSBFbXBy
+ZXNhMHwGCisGAQQBgqZyAgQwbjBsBggrBgEFBQcCARZgaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9sZXllc19ub3JtYXRpdmFzL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBNaWVtYnJv
+IGRlIEVtcHJlc2EucGRmMBsGCisGAQQBgqZyAwoEDRMLTUFWSUpVIFMuQS4wHQYKKwYBBAGCpnID
+CwQPEw0wOTkyNjU2OTcyMDAxMBoGCisGAQQBgqZyAwEEDBMKMDkxODg1NTA2NTAeBgorBgEEAYKm
+cgMCBBATDkdBQlJJRUxBIE1BUklBMBkGCisGAQQBgqZyAwMECxMJTkFWQVJSRVRFMBUGCisGAQQB
+gqZyAwQEBxMFTU9SQU4wIwYKKwYBBAGCpnIDBQQVExNKRUZFIERFIEZBQ1RVUkFDSU9OME4GCisG
+AQQBgqZyAwcEQBM+VklBIERBVUxFIEtNIDkuNSBMT1QgSU5NQUNPTlNBIENBTExFIEVVQ0FMSVBU
+TyAyIFkgUVVJTlFVRUxMQVMwGwYKKwYBBAGCpnIDCAQNEws1OTM0MjAwMzIyMDAZBgorBgEEAYKm
+cgMJBAsTCUdVQVlBUVVJTDAXBgorBgEEAYKmcgMMBAkTB0VDVUFET1IwHwYKKwYBBAGCpnIDIAQR
+Ew8wMDEwMDIwMDAwMTMxNDYwEwYKKwYBBAGCpnIDIQQFEwNQRlgwIAYDVR0RBBkwF4EVcmhlcm5h
+bmRlekBtYXZpanUuY29tMIICewYDVR0fBIICcjCCAm4wggJqoIICZqCCAmKGPWh0dHA6Ly9vY3Nw
+Z3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CGgdVsZGFw
+Oi8vZGlyZWN0LnNlY3VyaXR5ZGF0YS5uZXQuZWMvY249Q1JMMTM5LGNuPUFVVE9SSURBRCUyMERF
+JTIwQ0VSVElGSUNBQ0lPTiUyMFNVQiUyMFNFQ1VSSVRZJTIwREFUQSxvdT1FTlRJREFEJTIwREUl
+MjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTixvPVNFQ1VSSVRZJTIwREFUQSUyMFMu
+QS4sYz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2WGgZ5odHRwczovL2RpcmVjdC5z
+ZWN1cml0eWRhdGEubmV0LmVjL35jcmwvYXV0b3JpZGFkX2RlX2NlcnRpZmljYWNpb25fc3ViX3Nl
+Y3VyaXR5X2RhdGFfZW50aWRhZF9kZV9jZXJ0aWZpY2FjaW9uX2RlX2luZm9ybWFjaW9uX2N1cml0
+eV9kYXRhX3MuYS5fY19lY19jcmxmaWxlLmNybKSBpzCBpDELMAkGA1UEBhMCRUMxGzAZBgNVBAoT
+ElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIgU0VD
+VVJJVFkgREFUQTEPMA0GA1UEAxMGQ1JMMTM5MCsGA1UdEAQkMCKADzIwMTcxMTIwMTQwODM4WoEP
+MjAyMjExMjAxNDM4MzhaMB8GA1UdIwQYMBaAFPcvTOB152KjeJZbBrYucTvMbD+QMB0GA1UdDgQW
+BBSQzHDZ7hCTEMoz+Wm2mMd4shGbvzAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjED
+AgOoMA0GCSqGSIb3DQEBCwUAA4IBAQBWkd9O91sQfQobZOFw4MSj7Gi2MgEzuug++xmvL5ct5hnu
+6Eo3XD/iTFIk++kTytQ18I85GyJMxTMF1VkGn2uKH7tzh7FhImnPLu+7Tf2Eym2dXmalck66aJso
+LFc3vMjGwdUZM7VLck2Xfs5eXsLoyuh5w40SsdhZAjZlBxy2J+g9Fp4w2FpUCUZvmBzgIa8rExTD
+S8poDZGzfo6BmVl7DivU88WeDrnBRqCGAQMxdDEZKn14lCFEPyJcMMhDY1dXMG0HILNNmGGozYyg
+a1AsBIyX7X4GrbPtv9KwJ95ALLlygWs95V/uWoVazbTSkqufHyZZ7FGtSO3a8387whlf
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tDwKVysMbf5JYs+tWHI+2KeQBjkmsGcgpRUDiTM8uxNP/e60Frf/B8eaKrNWwJzpooTN77Icqcuj
+Oi1D+4TScvpy05HNa0aA+tOv8o1GC4NGf71Hs7tRLchW7EWUqDA47itBwyo42/G9n7s5v77lanQz
+Ue3+3vZs3KjWH/u+WZdEvjLZeC2+yk1yl1+q4pODKa99Or2Mw0MAEy/VJbdtk3bS11OTgx9Pxd+B
+c9fCyDmGUEDfBEmoJYmm0P4CG4ZH86VE3getToDbJJgAXMj9E54TZM5mo6wDlNtgLOd2yv5ZsQAW
+Uh5ZeTtigrsv4qT5YHIAPkyxg7DrqqNC2aSmHQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature621285-Object193100"><etsi:QualifyingProperties Target="#Signature621285"><etsi:SignedProperties Id="Signature621285-SignedProperties564851"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-29T14:32:08-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>sXW+NySc5vqdDETPgvv3SpmrIy4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1422905935</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-881454"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

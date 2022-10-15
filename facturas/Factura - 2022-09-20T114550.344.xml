@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2904202201099265014100120010020001614489846951119</numeroAutorizacion>
+<fechaAutorizacion>2022-04-29T10:56:40-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>COMPAÑIA FERRETERA JIMENEZCORP S.A.</razonSocial>
+    <nombreComercial>JIMENEZCORP</nombreComercial>
+    <ruc>0992650141001</ruc>
+    <claveAcceso>2904202201099265014100120010020001614489846951119</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000161448</secuencial>
+    <dirMatriz>GUAYAS / GUAYAQUIL / GUERRERO MARTINEZ 405 Y COLON</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>29/04/2022</fechaEmision>
+    <dirEstablecimiento>GUERRERO MARTINEZ 405 Y COLON</dirEstablecimiento>
+    <contribuyenteEspecial>745</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <totalSinImpuestos>607.62</totalSinImpuestos>
+    <totalDescuento>376.38</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>607.62</baseImponible>
+        <valor>72.91</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>680.53</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>680.53</total>
+        <plazo>90</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>641274</codigoPrincipal>
+      <descripcion>ILUM. SEGUR. LAMP EMERG. CLASICA 12LED 200LM 180MIN BIV 2.4W (31250)</descripcion>
+      <cantidad>48.000000</cantidad>
+      <precioUnitario>20.500000</precioUnitario>
+      <descuento>376.38</descuento>
+      <precioTotalSinImpuesto>607.62</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>607.62</baseImponible>
+          <valor>72.91</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Ciudad:">GUAYAQUIL</campoAdicional>
+    <campoAdicional nombre="Cod.Cliente:">8336</campoAdicional>
+    <campoAdicional nombre="Dirección:">AV. QUITO 2136 Y CAPITAN NAJERA</campoAdicional>
+    <campoAdicional nombre="Elaborado:">GABRIELA</campoAdicional>
+    <campoAdicional nombre="Email.:">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="Fecha Vencimiento:">28/07/2022</campoAdicional>
+    <campoAdicional nombre="Forma de Pago:">90 dias</campoAdicional>
+    <campoAdicional nombre="Nomb. Comercial:">LINDAO VILLAMAR IRANIA ELIZABE</campoAdicional>
+    <campoAdicional nombre="O/C:">154939</campoAdicional>
+    <campoAdicional nombre="Teléfono(s):">0963129624</campoAdicional>
+    <campoAdicional nombre="Vencimiento">28 Jul 2022 - $226.85000</campoAdicional>
+    <campoAdicional nombre="Vencimiento">28 Jun 2022 - $226.84000</campoAdicional>
+    <campoAdicional nombre="Vencimiento">29 May 2022 - $226.84000</campoAdicional>
+    <campoAdicional nombre="Vendedor:">MONTERO BUSTAMANTE EDGAR JOFFRE</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature752593">
+<ds:SignedInfo Id="Signature-SignedInfo468023">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID428666" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature752593-SignedProperties92864">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>lWp1zHxmiZG2zpt0JOf0rQybOz8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1923537">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>EHRuQfpYo30vkuAvyRiqpQA+lBw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-233147" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0z9/ZupbYQC8Nqwt86YlQL6sV1U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue706184">
+DIaY/AAWf/y/UjjQSb1KX0mCjVxdc6ZAPJU2Wxm+Py+GZPfTBl7OHt1enYu2sfVgy6KEY8oTVw74
+xpYIG+i9yiowmij9XA19x711qSZ75wHRBXfTQ20bL0fRGQ0RNxgz5AA6lhafoL5K3R1fwJ1/7P5E
+L3oc8vEXeCeQMtrS6ersnDtMdeQoE8z6Ev4ynsI2fRjT/PQ2IIVaCFRCVSWRFBhcZZeUNQlCjOzS
+VQvOqsqwM6nOX4QfWo+yo+zqQDRFG0V0L9rRy8J4IHbnQmzG95JphULzWMzL3csC4fOK0rMnhZ7J
+vkRHkeorjHVyo37SycIFftHsACKk5AkYYQJVxQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1923537">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILbDCCCVSgAwIBAgIEThv9UDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDEwMTIxNTM3MDZaFw0yNTEwMTIxNTM3MDZaMIGhMQsw
+CQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMTIxMDIwMTA0NzA1
+MSowKAYDVQQDDCFKVVNUSU5PIEdVSUxMRVJNTyBKSU1FTkVaIEpJTUVORVowggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC7vTqxFDevMRuP3BsA1Fnyz2sD0+Vf+JT6BorWr/RNOhJPRXJd
+uEP/zldKMANqJXTd+wb6/bA44Zt3CcdxHBGvQKeGC8CUP+KPQ0089GTfJKMohwQQTf7koxyxGrwh
+9BqVJQbBkabe9Q2lAoEPCQkD44miYH2aOeoh9v2ttgUcR4Vn/XOybIC6gwdQvOe9A37/Lsc0SVxI
+NvJbHB4q4FGcZUQAwegifk8+D7IP0VIH0TUtT9/WAwL3nqm8iLWnT6RYRyTcqTyWRo0o09jg8syH
+Sbta4TXZZdORpPSU2hGfGK9vkKczoX8cxM6kNTtsNyTi8V9nn8pracw1LJExIZ6nAgMBAAGjggaw
+MIIGrDBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlk
+YXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwHQYDVR0OBBYEFH41rPI7+SJN
+uHYg5mfAIttCt/AGMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUXA+FpHQQ/K0BLBoAPZMXCfo5
+AdYwKwYDVR0QBCQwIoAPMjAyMDEwMTIxNTM3MDZagQ8yMDI1MTAxMjE1MzcwNlowgcwGA1UdLgSB
+xDCBwTCBvqCBu6CBuIaBtWxkYXA6Ly9sZGFwc2Quc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1F
+Qz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwbQYDVR0gBGYwZDBiBgorBgEEAYKmcgIJMFQwUgYI
+KwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUA
+bgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6Ly9v
+Y3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+k
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJ
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6Ggbts
+ZGFwOi8vbGRhcHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVSZXZv
+Y2F0aW9uTGlzdD9iYXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDEsQz1FQzALBgNVHQ8EBAMCBeAwJAYDVR0RBB0wG4EZZ3VpbGxlcm1vQGppbWVuZXpj
+b3JwLmNvbTAaBgorBgEEAYKmcgMBBAwMCjA5MDc4MDkyMzAwIQYKKwYBBAGCpnIDAgQTDBFKVVNU
+SU5PIEdVSUxMRVJNTzAXBgorBgEEAYKmcgMDBAkMB0pJTUVORVowFwYKKwYBBAGCpnIDBAQJDAdK
+SU1FTkVaMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMC0GCisGAQQBgqZyAwcEHwwd
+R1VFUlJFUk8gTUFSVElORVogNDA1IFkgQ09MT04wGwYKKwYBBAGCpnIDCAQNDAs1OTM0MjM2MTE1
+MTAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDAzBgorBgEEAYKmcgMKBCUMI0NPTVBBTklBIEZF
+UlJFVEVSQSBKSU1FTkVaQ09SUCBTLkEuMB0GCisGAQQBgqZyAwsEDwwNMDk5MjY1MDE0MTAwMTAX
+BgorBgEEAYKmcgMMBAkMB0VDVUFET1IwEgYKKwYBBAGCpnIDHQQEDAJObzAfBgorBgEEAYKmcgMg
+BBEMDzAwMTAwMjAwMDA2NDA2MzATBgorBgEEAYKmcgMhBAUMA1BGWDARBgorBgEEAYKmcgMiBAMM
+AS4wDQYJKoZIhvcNAQELBQADggIBAE9u0eN4Xh8eD1PKCx+FuBGJILcI01iaWMAU9Cn19paZTwvJ
+4lg6xWVaAN7xLiXyoiBOHNLmjhhj5FyXFxlu5hCj6UDAVNxECitodquPT/tuOE9sRjMF/AhdnhvR
+qzquukfx3JYYgGu3SN7f+bdro5ztAx9QPYbGFFDVrX27dzsj033m/V514x8oIlXR6UDhTc6a7T4D
+H43oINc7Q8rrv2vaztoJlxntZDP3g/clv2sy/au2yXk3DiYs/GZEJkWVr9oHx8VLjmos5s5nRrxO
+LbT5tC1Iiyczob8v7RDY+9fe40g3UeU4DSDJvaqolyhSaQchIW3WX+PiXXaLxNmSSLxb92plyZ22
+fclNoFvhXMz9qsk3ejBibPizhLNbjgkgyc5vnqHlSUgmoAdgmPQ5mQQg94wxzHuHYCRGRxTeL1c5
+qv6odHYMGVUw9v1JRS964wPv+EP5vH9NmyqhBYVT8znxVyx6PD5AON6hEGDCSihtiwVm/iLcMjEg
+zqPjcetC1G1N6rV6wpEOw4ug45zflvelupqFiRajFpvcykNSubZHYdOEhRasNJivekV409kYePNj
+ZUpbPVh4xxS10uW6od2aFU+/g+DahgoYcPj1UpB1B99TMfkngZ8IeX9pk/PpofddhfcnHxT2Nkc4
+5Oo9dOFsOO6qzZBGYcajtziXeLAI
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+u706sRQ3rzEbj9wbANRZ8s9rA9PlX/iU+gaK1q/0TToST0VyXbhD/85XSjADaiV03fsG+v2wOOGb
+dwnHcRwRr0CnhgvAlD/ij0NNPPRk3ySjKIcEEE3+5KMcsRq8IfQalSUGwZGm3vUNpQKBDwkJA+OJ
+omB9mjnqIfb9rbYFHEeFZ/1zsmyAuoMHULznvQN+/y7HNElcSDbyWxweKuBRnGVEAMHoIn5PPg+y
+D9FSB9E1LU/f1gMC956pvIi1p0+kWEck3Kk8lkaNKNPY4PLMh0m7WuE12WXTkaT0lNoRnxivb5Cn
+M6F/HMTOpDU7bDck4vFfZ5/Ka2nMNSyRMSGepw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature752593-Object164036"><etsi:QualifyingProperties Target="#Signature752593"><etsi:SignedProperties Id="Signature752593-SignedProperties92864"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-29T10:56:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>FgSgZnu8grHyWLqyxrN/PxCGHCk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 1,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1310457168</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-233147"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

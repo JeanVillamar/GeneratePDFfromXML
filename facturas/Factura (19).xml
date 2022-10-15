@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0704202201099062169100120010020002243413333210419</numeroAutorizacion>
+<fechaAutorizacion>2022-04-07T17:07:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>DEMACO, DISTRIBUIDORA DE EQUIPOS Y MATERIALES DE CONSTRUCCION GOMEZ C LTDA.</razonSocial>
+    <nombreComercial>DEMACO CIA. LTDA.</nombreComercial>
+    <ruc>0990621691001</ruc>
+    <claveAcceso>0704202201099062169100120010020002243413333210419</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000224341</secuencial>
+    <dirMatriz>AV. BENJAMIN ROSALES, URB. SANTA LEONORMZ. 6 SOLAR 13</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>07/04/2022</fechaEmision>
+    <dirEstablecimiento>MACHALA 1701 Y COLÓN ESQUINA</dirEstablecimiento>
+    <contribuyenteEspecial>136</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500001</identificacionComprador>
+    <direccionComprador>AGUIRRE 1201 ENTRE PEDRO MONCAYO Y QUITO</direccionComprador>
+    <totalSinImpuestos>65.10</totalSinImpuestos>
+    <totalDescuento>10.11</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>2</codigoPorcentaje>
+        <baseImponible>65.10</baseImponible>
+        <valor>7.81</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>72.91</importeTotal>
+    <moneda>U.S. Dollar</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>72.91</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>0600.13.BCR</codigoPrincipal>
+      <codigoAuxiliar>0600.13.BCR</codigoAuxiliar>
+      <descripcion>VALVULA COMPUERTA 1/2" BR FV**  -</descripcion>
+      <cantidad>10.00</cantidad>
+      <precioUnitario>7.5208</precioUnitario>
+      <descuento>10.11</descuento>
+      <precioTotalSinImpuesto>65.10</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>2</codigoPorcentaje>
+          <tarifa>12.00</tarifa>
+          <baseImponible>65.10</baseImponible>
+          <valor>7.81</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Telf. / Número de Orden:">593-042530550 / 00001-SX-22019167</campoAdicional>
+    <campoAdicional nombre="Bodega:">B1</campoAdicional>
+    <campoAdicional nombre="eblock">Contacto:LINDAO VILLAMAR IRANIA ELIZABET TELEFONO: 0992065468|Direccion de Entrega: AGUIRRE 1201                           ENTRE PEDRO MONCAYO Y QUITO|AN8: 501114</campoAdicional>
+    <campoAdicional nombre="Fecha Prometida">07/04/2022</campoAdicional>
+    <campoAdicional nombre="Recibe">LINDAO VILLAMAR IRANIA ELIZABETH</campoAdicional>
+    <campoAdicional nombre="Ordenado por">CHAVEZ SALVATIERRA GUIDO LINO</campoAdicional>
+    <campoAdicional nombre="payment">CONTADO</campoAdicional>
+    <campoAdicional nombre="split">0</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature824205">
+<ds:SignedInfo Id="Signature-SignedInfo462205">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID865356" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature824205-SignedProperties916623">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IPitbGlfjhnw7XErLqNjj7g3PNk=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate11002070">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Hj/EVD14TcKoDY6airVsx/apBnA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-302353" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>IZA8KGfUM+ibb7DtwCzyf1lmE3c=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue953572">
+ctLGDTLzmOZT1D+05lPxXNx6esfaR2mUWEbaFbnOTOXj2XtL07MEo0VKlN8WQXa54Mumv1LBanIz
++ijsKi20AsI7x5f3KvbTY5MUWoEEaad48UevwRE6w7T8AduGFIf7m1C+6iLZgbz6rw4FSgJd26MG
+1CRJ4yrIwcsPLiDj/z+6X15WeSvGyqiM83zU+InOXuqZIVXg2LmLQQoE42PMl389ViqcV6GBY2US
+LWP8pZKwfb8pkWGd3hUP9y0GjQY7iWFPZZqBDIpr+CZqrxwSIlUeFCrm8DMnQZXHJZNDTyMnw6F3
+s8Piyi4DsrMKTkuXn+UoOwNWwxiwrULpvDY8ig==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate11002070">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKIzCCCQugAwIBAgIEXcrGGzANBgkqhkiG9w0BAQsFADCBkzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoTElNFQ1VSSVRZIERBVEEgUy5BLjEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMTUwMwYDVQQDEyxBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUIg
+U0VDVVJJVFkgREFUQTAeFw0xOTEyMTYxNzQ2MDZaFw0yNDEyMTYxODE2MDZaMIGUMQswCQYDVQQG
+EwJFQzEbMBkGA1UEChMSU0VDVVJJVFkgREFUQSBTLkEuMTAwLgYDVQQLEydFTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xNjATBgNVBAUTDDE2MTIxOTEzMTIxNjAfBgNVBAMT
+GFJBVUwgRVJORVNUTyBHT01FWiBMT1BFWjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEB
+ANfBW1fuGV3G3PIKCUU0GGYzak9cz4Jcq2r9b8k+ULJ1N7GKXr7bwXbvzjBiQF0AaVX9brB2XUY6
+sEWxDelFLVdenBiMO1UzrlUK0shUxuVtMY1W4mkfpMHUka5r6Vz37UvueWzps5YvnUnmkhbt4ljB
+VWk4wr7wADHeDKN/Dh75y00aHWBkIE+4sXvskCfdlob6t6eU2uVOrNhMFi07p3JKdqCCBpCYW2UN
+B6hsrP3Gto/9SwlN3yCxSQq1YUqupLodMwDuAlMX3MN5FiXICcbWl9cjI3o2AsmCsQ9A1+p9Rm7E
+nYq5ObZVO0aY5DF7JrLhMt6EgpLYw+2yHQc8NfECAwEAAaOCBnowggZ2MAsGA1UdDwQEAwIF4DBZ
+BggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5l
+dC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwgcwGA1UdIASBxDCBwTBABgorBgEEAYKm
+cgIJMDIwMAYIKwYBBQUHAgIwJBoiQ2VydGlmaWNhZG8gZGUgUmVwcmVzZW50YW50ZSBMZWdhbDB9
+BgorBgEEAYKmcgIDMG8wbQYIKwYBBQUHAgEWYWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvbGV5ZXNfbm9ybWF0aXZhcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50
+ZSBMZWdhbC5wZGYwXAYKKwYBBAGCpnIDCgROE0xERU1BQ08sIERJU1RSSUJVSURPUkEgREUgRVFV
+SVBPUyBZIE1BVEVSSUFMRVMgREUgQ09OU1RSVUNDSU9OIEdPTUVaIEMuIExUREEuMB0GCisGAQQB
+gqZyAwsEDxMNMDk5MDYyMTY5MTAwMTAaBgorBgEEAYKmcgMBBAwTCjE3MDI3OTIxMDAwHAYKKwYB
+BAGCpnIDAgQOEwxSQVVMIEVSTkVTVE8wFQYKKwYBBAGCpnIDAwQHEwVHT01FWjAVBgorBgEEAYKm
+cgMEBAcTBUxPUEVaMB8GCisGAQQBgqZyAwUEERMPR0VSRU5URSBHRU5FUkFMMHkGCisGAQQBgqZy
+AwcEaxNpQVYuIEJFTkpBTUlOIFJPU0FMRVMsIFVSQkFOSVpBQ0lPTiBTQU5UQSBMRU9OT1IgTVou
+IDYgU09MQVIgMTMsIEZSRU5URSBBIEFMTUFDRU4gREUgRElTVFJJQlVDSU9OIERFIFBSQVRJMBsG
+CisGAQQBgqZyAwgEDRMLNTkzNDIyOTYwNTIwGQYKKwYBBAGCpnIDCQQLEwlHVUFZQVFVSUwwFwYK
+KwYBBAGCpnIDDAQJEwdFQ1VBRE9SMB8GCisGAQQBgqZyAyAEERMPMDAxMDAxMDAwMDAwMTUyMBsG
+CisGAQQBgqZyAyEEDRMLVVNCU0QtMDEwNDkwGwYDVR0RBBQwEoEQbWF0cml6QGRlbWFjby5lYzCC
+AnsGA1UdHwSCAnIwggJuMIICaqCCAmagggJihj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwhoHVbGRhcDovL2RpcmVjdC5zZWN1cml0
+eWRhdGEubmV0LmVjL2NuPUNSTDU3OSxjbj1BVVRPUklEQUQlMjBERSUyMENFUlRJRklDQUNJT04l
+MjBTVUIlMjBTRUNVUklUWSUyMERBVEEsb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUy
+MERFJTIwSU5GT1JNQUNJT04sbz1TRUNVUklUWSUyMERBVEElMjBTLkEuLGM9RUM/Y2VydGlmaWNh
+dGVSZXZvY2F0aW9uTGlzdD9iYXNlhoGeaHR0cHM6Ly9kaXJlY3Quc2VjdXJpdHlkYXRhLm5ldC5l
+Yy9+Y3JsL2F1dG9yaWRhZF9kZV9jZXJ0aWZpY2FjaW9uX3N1Yl9zZWN1cml0eV9kYXRhX2VudGlk
+YWRfZGVfY2VydGlmaWNhY2lvbl9kZV9pbmZvcm1hY2lvbl9jdXJpdHlfZGF0YV9zLmEuX2NfZWNf
+Y3JsZmlsZS5jcmykgacwgaQxCzAJBgNVBAYTAkVDMRswGQYDVQQKExJTRUNVUklUWSBEQVRBIFMu
+QS4xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjE1MDMG
+A1UEAxMsQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCIFNFQ1VSSVRZIERBVEExDzANBgNV
+BAMTBkNSTDU3OTArBgNVHRAEJDAigA8yMDE5MTIxNjE3NDYwNlqBDzIwMjQxMjE2MTgxNjA2WjAf
+BgNVHSMEGDAWgBT3L0zgdedio3iWWwa2LnE7zGw/kDAdBgNVHQ4EFgQULYmMVr7OQkrwYiKGA4Oj
+CkWhq5kwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIDqDANBgkqhkiG9w0BAQsF
+AAOCAQEAGP2lcnhKJskEB8lvJluQeXcKsRaKGT5sYdguerKQpDGxUH/wix2Fa/pDXu079AakGpU5
+vsxzy6EPuIG06U70b+MztqjNzGgwyjCZrqG3YwhuE4wogY27O6K02k8d0MdUXhcuIUJv6tVuLtjp
+oIxqxNc0HVFmutL7sMdznWXaOqYMfidepiFJzzSQERLu3rsBZ+tRGeBtQSRywsACqweIQHjQ9ynA
+DPGKRJFjy7Q1vzO7hELCnGAFbpiylWhmS+jAuyhUeIhRgfPJXCsjGpAYxjET6EebZX76EZxikL+v
+nqTtLAmopHIe1Y93a9OYUXqXM9m52H+0dSrC/hoPHlb4Cw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+18FbV+4ZXcbc8goJRTQYZjNqT1zPglyrav1vyT5QsnU3sYpevtvBdu/OMGJAXQBpVf1usHZdRjqw
+RbEN6UUtV16cGIw7VTOuVQrSyFTG5W0xjVbiaR+kwdSRrmvpXPftS+55bOmzli+dSeaSFu3iWMFV
+aTjCvvAAMd4Mo38OHvnLTRodYGQgT7ixe+yQJ92Whvq3p5Ta5U6s2EwWLTunckp2oIIGkJhbZQ0H
+qGys/ca2j/1LCU3fILFJCrVhSq6kuh0zAO4CUxfcw3kWJcgJxtaX1yMjejYCyYKxD0DX6n1GbsSd
+irk5tlU7RpjkMXsmsuEy3oSCktjD7bIdBzw18Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature824205-Object80302"><etsi:QualifyingProperties Target="#Signature824205"><etsi:SignedProperties Id="Signature824205-SignedProperties916623"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-07T17:07:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>8qzgCKh4LDmKOwuzKz7UQ6MgmhQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUB SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1573570075</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-302353"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

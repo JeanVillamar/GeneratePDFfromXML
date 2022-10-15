@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2204202201179125704900120020510002573107644498919</numeroAutorizacion>
+<fechaAutorizacion>2022-04-22T18:15:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<factura id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SALUDSA SISTEMA DE MEDICINA PREPAGADA DEL ECUADOR S.A.</razonSocial>
+    <nombreComercial>SALUD S.A.</nombreComercial>
+    <ruc>1791257049001</ruc>
+    <claveAcceso>2204202201179125704900120020510002573107644498919</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>051</ptoEmi>
+    <secuencial>000257310</secuencial>
+    <dirMatriz>Quito: REPUBLICA DEL SALVADOR N36-84 Y AV. NACIONES UNIDAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>22/04/2022</fechaEmision>
+    <dirEstablecimiento>Guayaquil: AV. CARLOS JULIO AROSEMENA SN</dirEstablecimiento>
+    <contribuyenteEspecial>02239</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>LINDAO VILLAMAR IRANIA ELIZABETH</razonSocialComprador>
+    <identificacionComprador>0932042500</identificacionComprador>
+    <direccionComprador>AVENIDA QUITO Y CAPITAN NAJERA . . REFERENCIA: ENTREGAR DE 9 AM A 5 PM</direccionComprador>
+    <totalSinImpuestos>105.94</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>105.94</baseImponible>
+        <tarifa>0.00</tarifa>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>106.47</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>50.99</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>55.48</total>
+        <plazo>0</plazo>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>4148721-IND</codigoPrincipal>
+      <descripcion>MEDICINA PREPAGADA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>105.94</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>105.94</precioTotalSinImpuesto>
+      <detallesAdicionales>
+        <detAdicional nombre="Detalle-Adicional" valor="GUAITA LOPEZ MARTHA CECILIA" />
+      </detallesAdicionales>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>105.94</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <otrosRubrosTerceros>
+    <rubro>
+      <concepto>SeguroCampesino</concepto>
+      <total>0.53</total>
+    </rubro>
+    <rubro>
+      <concepto>SeguroCampesinoRetroactivo</concepto>
+      <total>0.00</total>
+    </rubro>
+  </otrosRubrosTerceros>
+  <infoAdicional>
+    <campoAdicional nombre="emailCliente">lindaoirania@gmail.com</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino">0.53</campoAdicional>
+    <campoAdicional nombre="Seguro Campesino Retroactivo">0.00</campoAdicional>
+    <campoAdicional nombre="Periodo Pago">16/04/2022 - 16/05/2022</campoAdicional>
+    <campoAdicional nombre="Total">106.47</campoAdicional>
+    <campoAdicional nombre="Empresa-Lista-Contrato">COSTA-IND-4148721</campoAdicional>
+    <campoAdicional nombre="Vigencia">16/04/2022 - 16/04/2023</campoAdicional>
+    <campoAdicional nombre="Periodo-facturacion">Mensual</campoAdicional>
+    <campoAdicional nombre="Direccion-cliente">AVENIDA QUITO Y CAPITAN NAJERA . . REFERENCIA: ENTREGAR DE 9 AM A 5 PM</campoAdicional>
+    <campoAdicional nombre="broker"> </campoAdicional>
+    <campoAdicional nombre="email-broker"> </campoAdicional>
+    <campoAdicional nombre="email-contacto"> </campoAdicional>
+    <campoAdicional nombre="telefono-cliente"> </campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference Id="Reference-ede6d054-cb54-4442-a860-3a34b5ac6d0c" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>SdqARVLN0yDRKVLLR9iSjAgBZMnmqxd/hBrWTSr/EWk=</ds:DigestValue></ds:Reference><ds:Reference Id="ReferenceKeyInfo" URI="#KeyInfoId-Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>ZWLbxLtLc2MiNKyduygZutAL6lukn7PgaJbWLuB6fd8=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#SignedProperties-Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>cyCMz0hCC+UeHUZvvxH8BCSB8MC/9vOBN7twNlpNE3g=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue-5211f273-bf2e-4304-a945-5f1041b6481e">M0O19KQW7ZfHDuckOOIreY+2yLn8/9iEoIQjAwz1HoUUrNxinFbVoR0VXDUVHZmPVFJxRPYdN47WKRvxUoNtk6ll3yil2hP3IKT1QkGCgc9uwlU9GZbnW6zePx2Q4lTpk2oNanVUeHP5sspd9cSn42MnxiEvyTRYXJhDcc6thkLsX3Uo46eaUhS63o8nTHUuH/7aCP0TvFF/EzqZbb/N6hQ+5pOsFLsLRzymUXLX86xuo8HF0ubyLYXEa8MuzXCeR3nMpqcsyrWqLv6LoKwWCwEBSa74yZbnfZmTzvpY6zkJo+fRVcZf4WAUqwtm+okpUreyRkDzJI8YmjQpCphHlg==</ds:SignatureValue><ds:KeyInfo Id="KeyInfoId-Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><ds:X509Data><ds:X509Certificate>MIILljCCCX6gAwIBAgIEewtYTzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAxMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQTAeFw0yMDA3MjUwMDA0MzRaFw0yMjA3MjUwMDA0MzRaMIGgMQswCQYDVQQGEwJFQzEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEVMBMGA1UEBRMMMjQwNzIwMTkxNDMzMSkwJwYDVQQDDCBDTEFSQSBET0xPUkVTIEZBUklOQU5HTyBDSVNORVJPUzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKTh94bbuACLudKvCDBMGoaUglVCVlwK/5I+ISG11EeZBnGkMBaEJsaHCpCbB+LmHB7YuNvcQ+2WybCjboeBYsnUjmp/oiqUJteJBy/8YIX94hwMu31FtEZoQqXENp4hhtRR1+AuWbEWnxisXPUjwPJOxqtClG0b8j9FZR+SB7wn5xyQ2UyWDQhQAXguaDbACOGj2ObJHVn8FizNmhls7RyHkpeWTZ3d4VjrykvqLHxN2E6bCeNlx/bDpkDZiHq19MBlsRFVCzOouPFp/HhKZlWmIpGnwRKrrJQj4jFYl0e6euHzLYEjvh9CQ3RitBcOCEaK7nP/cGeEBBTyXDrvddECAwEAAaOCBtswggbXMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAdBgNVHQ4EFgQUQyRYsGjvqPRaKA30EcskNKw6QjcwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBRcD4WkdBD8rQEsGgA9kxcJ+jkB1jArBgNVHRAEJDAigA8yMDIwMDcyNTAwMDQzNFqBDzIwMjIwNzI1MDAwNDM0WjCBzAYDVR0uBIHEMIHBMIG+oIG7oIG4hoG1bGRhcDovL2xkYXBzZC5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMSxDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTBrBgNVHSAEZDBiMGAGCisGAQQBgqZyAgowUjBQBggrBgEFBQcCAjBEHkIAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAATQBpAGUAbQBiAHIAbwAgAGQAZQAgAEUAbQBwAHIAZQBzAGEwggKeBgNVHR8EggKVMIICkTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTEgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMTELMAkGA1UEBhMCRUMwgcSggcGggb6GgbtsZGFwOi8vbGRhcHNkLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAxLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHfoIHcoIHZhoHWaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3Iuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0xIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDEsQz1FQzALBgNVHQ8EBAMCBeAwJAYDVR0RBB0wG4EZY2ZhcmluYW5nb0BzYWx1ZHNhLmNvbS5lYzAaBgorBgEEAYKmcgMBBAwMCjE3MTMzMTM4MTMwHQYKKwYBBAGCpnIDAgQPDA1DTEFSQSBET0xPUkVTMBkGCisGAQQBgqZyAwMECwwJRkFSSU5BTkdPMBgGCisGAQQBgqZyAwQECgwIQ0lTTkVST1MwJwYKKwYBBAGCpnIDBQQZDBdHRVJFTlRFIERFIENPTlRBQklMSURBRDBDBgorBgEEAYKmcgMHBDUMM1JFUFVCTElDQSBERUwgU0FMVkFET1IgTjM2LTg0IFkgQVYuIE5BQ0lPTkVTIFVOSURBUzAcBgorBgEEAYKmcgMIBA4MDDU5Mzk5ODkxMDk5ODAVBgorBgEEAYKmcgMJBAcMBVFVSVRPMEYGCisGAQQBgqZyAwoEOAw2U0FMVURTQSBTSVNURU1BIERFIE1FRElDSU5BIFBSRVBBR0FEQSBERUwgRUNVQURPUiBTLkEuMB0GCisGAQQBgqZyAwsEDwwNMTc5MTI1NzA0OTAwMTAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwEgYKKwYBBAGCpnIDHQQEDAJObzAfBgorBgEEAYKmcgMgBBEMDzAwMjAwMTAwMDA2Mjc0NDATBgorBgEEAYKmcgMhBAUMA1BGWDARBgorBgEEAYKmcgMiBAMMAS4wDQYJKoZIhvcNAQELBQADggIBAH88GJjc/7QLobIlUyqjBRri8bmaV1avtLoHuERq+Zsfx48KhYTO1U4dU1PbZe1DVyzGT23w8bE3guF1nLuGtK3U3T8bSZLkBEqSaQVTM1AX72FQ1p1Gyonf/OdHKibq7qPMBL+pqr3LRdrWP0HEbSsgHW+M5k5rlax2UoeVrkXkv30/e/weJ3Bfcec3lvZONIiS2bn2u9lC9YRagsVpxuLZ+sY+FIaad1PRnT0zfdTZpXkGDCBQD8DX9SPGJgCcL4lEMNF+zcWEJbjCYT2ULMmQmECJJyvApf+ODyuOeT8YhNos/NGgkP2BUc7rQsJ/1HK/jhW21RMQBncxIpv+nc89+uOhukU+EKeypujNjXZCsgxbQqnG+x8qe1rP9Bf1bc3EttprRAiCCIpMH9HQtJ24v758BWC0hjKXWT3VtBBazMMCAObPICZNjUSKhOQ7k95q8LxL20+bpDyfAHbOnFyEq/dX+S6yvuVoBdLd1Ou7mtu4ZmgNE6KzlpIAnlsEr7B+frB5Fi2imXPR7/4uDmeDnSmCXh8DR8sMiZYUx1Zesvf0MzZTcpBrYgHI3+ntiKpx8OTp3Iq0VMG4ton1Dt3CHM06Co/ukBn0orp1TJH2t2yFIGIHis39QwwKc/5GuG3m7pN6OuukfDPLBydwhklG5HCZUwA2fOynZMj8oPRH</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>pOH3htu4AIu50q8IMEwahpSCVUJWXAr/kj4hIbXUR5kGcaQwFoQmxocKkJsH4uYcHti429xD7ZbJsKNuh4FiydSOan+iKpQm14kHL/xghf3iHAy7fUW0RmhCpcQ2niGG1FHX4C5ZsRafGKxc9SPA8k7Gq0KUbRvyP0VlH5IHvCfnHJDZTJYNCFABeC5oNsAI4aPY5skdWfwWLM2aGWztHIeSl5ZNnd3hWOvKS+osfE3YTpsJ42XH9sOmQNmIerX0wGWxEVULM6i48Wn8eEpmVaYikafBEquslCPiMViXR7p64fMtgSO+H0JDdGK0Fw4IRoruc/9wZ4QEFPJcOu910Q==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="XadesObjectId-6442c832-f4c6-4dd8-b756-44b1906771ee"><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" Id="QualifyingProperties-75e08b8d-41c9-4563-9d13-95efaed7ab17" Target="#Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><xades:SignedProperties Id="SignedProperties-Signature-5211f273-bf2e-4304-a945-5f1041b6481e"><xades:SignedSignatureProperties><xades:SigningTime>2022-04-22T18:15:53-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>bll1s3Onps0702XD+WA0RPkAIh+P32bJv8eflBq93xM=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 1, C=EC</ds:X509IssuerName><ds:X509SerialNumber>2064341071</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate><xades:SignaturePolicyIdentifier><xades:SignaturePolicyId><xades:SigPolicyId><xades:Identifier>https://info.saludsa.com</xades:Identifier><xades:Description /></xades:SigPolicyId><xades:SigPolicyHash><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Ohixl6upD6av8N7pEvDABhEL6hM=</ds:DigestValue></xades:SigPolicyHash></xades:SignaturePolicyId></xades:SignaturePolicyIdentifier><xades:SignerRole><xades:ClaimedRoles><xades:ClaimedRole>emisor</xades:ClaimedRole></xades:ClaimedRoles></xades:SignerRole></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#Reference-ede6d054-cb54-4442-a860-3a34b5ac6d0c"><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

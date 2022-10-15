@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2004202201171262614000120010030000352260003522614</numeroAutorizacion>
+<fechaAutorizacion>2022-04-20T14:45:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>DRA LUISA LOPEZ OBANDO   NOTARIA 52</razonSocial>
+<nombreComercial>DRA LUISA LOPEZ OBANDO   NOTARIA 52</nombreComercial>
+<ruc>1712626140001</ruc>
+<claveAcceso>2004202201171262614000120010030000352260003522614</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>003</ptoEmi>
+<secuencial>000035226</secuencial>
+<dirMatriz>WORLD TRADE CENTER LOCAL 88</dirMatriz>
+
+</infoTributaria>
+<infoFactura>
+<fechaEmision>20/04/2022</fechaEmision>
+<dirEstablecimiento>WORLD TRADE CENTER LOCAL 88</dirEstablecimiento>
+
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<razonSocialComprador>IRANIA ELIZABETH LINDAO VILLAMAR</razonSocialComprador>
+<identificacionComprador>0932042500001</identificacionComprador>
+<totalSinImpuestos>824.54</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>1.80</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>822.74</baseImponible>
+<valor>98.73</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>923.27</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>923.27</total>
+<plazo>1</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>CJ001</codigoPrincipal>
+<codigoAuxiliar>CJ001</codigoAuxiliar>
+<descripcion>CANCELACIÓN DE HIPOTECA</descripcion>
+<cantidad>1.00000</cantidad>
+<precioUnitario>85.00000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>85.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>85.00</baseImponible>
+<valor>10.20</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>CJ00088</codigoPrincipal>
+<codigoAuxiliar>CJ00088</codigoAuxiliar>
+<descripcion>TRANSFERENCIA DE DOMINIO CON CONSTITUCIÓN DE HIPOTECA</descripcion>
+<cantidad>1.00000</cantidad>
+<precioUnitario>573.75000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>573.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>573.75</baseImponible>
+<valor>68.85</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>CJ00451</codigoPrincipal>
+<codigoAuxiliar>CJ00451</codigoAuxiliar>
+<descripcion>PRESTACIÓN DEL SERVICIO NOTARIAL FUERA DEL DESPACHO (P)</descripcion>
+<cantidad>1.00000</cantidad>
+<precioUnitario>63.75000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>63.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>63.75</baseImponible>
+<valor>7.65</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>CJ001</codigoPrincipal>
+<codigoAuxiliar>CJ001</codigoAuxiliar>
+<descripcion>(56) CERTIFICACIÓN DE DOCUMENTOS EXHIBIDOS EN ORIGINAL O COPIA CERTIFICADA QUE SE INCORPOREN A LA ESCRITURA PÚBLICA</descripcion>
+<cantidad>1.00000</cantidad>
+<precioUnitario>100.24000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>100.24</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12.00</tarifa>
+<baseImponible>100.24</baseImponible>
+<valor>12.03</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>CJ001</codigoPrincipal>
+<codigoAuxiliar>CJ001</codigoAuxiliar>
+<descripcion>(6) CONSULTA DATOS BIOMETRICOS  SISTEMA NACIONAL DE IDENTIFICACIÓN CIUDADANA -  REGISTRO CIVIL (P)</descripcion>
+<cantidad>1.00000</cantidad>
+<precioUnitario>1.80000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>1.80</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>1.80</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Agente De Retencion">No. Resolucion: NAC-DNCRASC20-00000001</campoAdicional>
+<campoAdicional nombre="Dirección">CAPITAN NAJERA Y AV. QUITO</campoAdicional>
+<campoAdicional nombre="Teléfono">0963129624</campoAdicional>
+<campoAdicional nombre="Email">lindairania@gmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature661730">
+<ds:SignedInfo Id="Signature-SignedInfo913160">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID658443" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature661730-SignedProperties71596">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>9GqT3fbV5PrKMZYV4xCVU1nzNzA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1790165">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>y+Uy4s2AoX0dAgAdI9V8py9RX5A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-718826" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>CjvqXVR7kxIZodNh7SmKmXZCedc=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue865548">
+wghAkxuVa/Crlu9iBHZVu4DWStQXAp7S+5LMR9sBiz8l+VMjx4WIiadWY2StM+tzst/uIHW0W+uI
+TLDe75PtKY84mf9BGLmFMTYjLWSWEYPtLfHDF8PqnN3wGzESYmdLbhhPlt8VDFzdyB/Y5JpTNHg+
+ex4WSdgm9AeK+ida1yOekczwj9DZkOwLAopqFyG9gVfZhe9pWOpyHnQiODvNiyHmFS1zpNBc+KEW
+UTIFmCF2wVMRjBrNIi9iARWkKje2x/FThiXhczjhmjnir9Zvudl/vuNA/50/qzoCh62cBXjeeou8
+DuHf/VN3Pp1q2Z+kUFM2piaJlZEj56HQz58ZQg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1790165">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJyjCCB7KgAwIBAgIEW2Nd0TANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTIwMDUyNTEzMDgzMVoXDTIyMDUwNTE0MTYz
+MVowgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDQ1NTMxNzAjBgNVBAMTHExVSVNBIEVMSVpBQkVU
+SCBMT1BFWiBPQkFORE8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDUcpXLA+oHdMkx
+hQR4PtjEliiK03c9M2z1Lk9u9kVoGOocDEphAZJuk51LknmG+eZuoy1KGsnyeE4vYKnHYErvR14h
+LqagNht4Q2D7sXuIsHaMewmMSgtbLgXcNI5YFQt6NNRKAj50H2q1F0KzFci33mLZ5cPc6wa5J38Y
+jBCdt1+of7s9mVTzCye+8AdY1YU8RFXuo9N3FzmrtdUx9BizTzklJJLg/5MSKqnfZRZv9P2BaVHl
+gQ7q36LmCbjx0Eccgn7GDvXIddkHfi8VyuBswBD8sCZatXSLE4TSX4lp60QSZICCp8xaiLeZZZal
+ke9KFu53Z7URML34IleWWpEXAgMBAAGjggTzMIIE7zALBgNVHQ8EBAMCB4AwZgYDVR0gBF8wXTBb
+BgsrBgEEAYKoOwIBATBMMEoGCCsGAQUFBwIBFj5odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1uYXR1cmFsLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYI
+KwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwGgYKKwYBBAGCqDsDAQQMEwoxNzEyNjI2MTQwMB8GCisGAQQBgqg7AwIEERMP
+TFVJU0EgRUxJWkFCRVRIMBUGCisGAQQBgqg7AwMEBxMFTE9QRVowFgYKKwYBBAGCqDsDBAQIEwZP
+QkFORE8wSQYKKwYBBAGCqDsDBwQ7EzlJU0xBIE1PQ09MSSBHT0xGIENMVUIgUElTTyAzIERQVE8g
+NDAzIENPTkQgU0FOVEEgQ0FUQUxJTkEwGQYKKwYBBAGCqDsDCAQLEwkwOTg3MjIyMTkwGwYKKwYB
+BAGCqDsDCQQNEwtTYW1ib3JvbmRvbjAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwHQYKKwYBBAGC
+qDsDCwQPEw0xNzEyNjI2MTQwMDAxMCAGCisGAQQBgqg7AzMEEhMQU09GVFdBUkUtQVJDSElWTzAl
+BgNVHREEHjAcgRpsdWlzYWxvcGV6b2JhbmRvQGdtYWlsLmNvbTCCAd8GA1UdHwSCAdYwggHSMIIB
+zqCCAcqgggHGhoHVbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDk2MCxjbj1BQyUy
+MEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlUTyxvdT1FTlRJREFEJTIwREUl
+MjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRS
+QUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRo
+dHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3JsZmlsZWNvbWIuY3JspIG1MIGy
+MQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBERUwgRUNVQURPUjE3MDUGA1UE
+CxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLUVDSUJDRTEOMAwGA1UE
+BxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxDzANBgNVBAMT
+BkNSTDk2MDArBgNVHRAEJDAigA8yMDIwMDUyNTEzMDgzMVqBDzIwMjIwNTA1MTQxNjMxWjAfBgNV
+HSMEGDAWgBRIot8jHx34LFF6jAPNSTKlCcGUqzAdBgNVHQ4EFgQUhmkwmP21sBWwKqPyByZufK4g
+vfwwCQYDVR0TBAIwADAZBgkqhkiG9n0HQQAEDDAKGwRWOC4xAwIEMDANBgkqhkiG9w0BAQsFAAOC
+AgEAV3X7QWlM8xwhbFbww5Iqlb53dHXC2Bd+DACfG6eJsFWmixDcncfWQgC2ebiHVuFFlBQVS77S
+BqLlBdBxJ8R1kAlXTg+izGXxtrpsSIWQpYl6g3HixKuOr1ZMrwif3EjIAX1Xn07VJiiSWQH2husS
+6LqlNrn6326iEoVfOuOPOU/DK3o2epwj/mCC8bmZv2YOJ7ab+VkKBLTFAf2At+WHNRfleVWA45gP
+zjcM77FXyzIZAVwPnMaY/QVrI/EkLkQsheobV05VjFpW7HFnfGOPGIAckc8ZB/TMSELxR0jGYBjz
+J7DHUE07xbUxwj9clPmru28DLyAxXE4QY+s9/chbE/OaJCFF819sV+ELDDJ8HCW8YuSIiROTqb8J
+KgUbr+83t+1Dz/wW2TYUbBeNURMcMXRCKLhOXae8fUvHQRg/CrjkyCCmmgZ/G0IwlvPaRwbYN56H
+r8qLvY+WkmjW+FnyXcJl7AxX5vbo55XReU3Yxhm4tFDMH07XyCPWLmD/WCdnfrnlU+pTzrveKCb2
+nQQ/FJ/ihfYzErKPWPnzsIOQ1LWts3VPKOstLvzRJjDU9iCi2hs3NgzCQhEq7rfiTbmxU+NVHsgl
+80SgV6kQTFOf24YEjqfAiq7cuXE4iAZ2QsWQuD8YSqG7zsy9MEp/3g4L3UEkrJBT9V+byjHNn6oI
+ZaE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+1HKVywPqB3TJMYUEeD7YxJYoitN3PTNs9S5PbvZFaBjqHAxKYQGSbpOdS5J5hvnmbqMtShrJ8nhO
+L2Cpx2BK70deIS6moDYbeENg+7F7iLB2jHsJjEoLWy4F3DSOWBULejTUSgI+dB9qtRdCsxXIt95i
+2eXD3OsGuSd/GIwQnbdfqH+7PZlU8wsnvvAHWNWFPERV7qPTdxc5q7XVMfQYs085JSSS4P+TEiqp
+32UWb/T9gWlR5YEO6t+i5gm48dBHHIJ+xg71yHXZB34vFcrgbMAQ/LAmWrV0ixOE0l+JaetEEmSA
+gqfMWoi3mWWWpZHvShbud2e1ETC9+CJXllqRFw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature661730-Object337247"><etsi:QualifyingProperties Target="#Signature661730"><etsi:SignedProperties Id="Signature661730-SignedProperties71596"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-04-20T14:45:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>sa/k4S52Kpo3sdwTGHCYZwTrYq0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1533238737</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-718826"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
